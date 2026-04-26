@@ -1,36 +1,46 @@
 request_id,dataset_id,dataset_name,requester_role,requested_access,business_need,minimum_necessary_checked,sensitive_data_involved,risk_level,decision,decision_date,review_date,decision_rationale
-ADL-001,DS-007,Litter Bin Collection Frequency,Analyst,Dashboard Access,Cross-divisional coordination,No,Yes,Low,Approved,2026-04-18,2027-01-09,Temporary access approved with review date
-ADL-002,DS-012,Synthetic AI Readiness Scores,Researcher,Download,Service planning,Yes,Yes,Medium,Approved with Conditions,2026-01-27,2027-04-24,Access limited to aggregated output
-ADL-003,DS-008,311 Service Requests,Manager,External Sharing,Service planning,Yes,Yes,Medium,Denied,2026-02-14,2026-10-15,Business need confirmed
-ADL-004,DS-010,Synthetic Metadata Catalog,Manager,Read Only,Service planning,No,No,Medium,Approved,2026-03-30,2026-09-19,Access limited to aggregated output
-ADL-005,DS-006,Solid Waste In-Park Assets,Researcher,Temporary Access,Research and analysis,Yes,No,Low,Approved,2026-03-16,2027-04-15,Business need confirmed
-ADL-006,DS-001,Toronto 3D Massing,Manager,External Sharing,Operational reporting,Yes,No,Low,Pending Review,2026-03-31,2026-07-16,Temporary access approved with review date
-ADL-007,DS-005,Solid Waste Management Districts,Researcher,Download,Cross-divisional coordination,Yes,No,Low,Approved,2026-02-10,2027-01-01,Business need confirmed
-ADL-008,DS-011,Synthetic Access Decision Log,Operations Lead,Download,Cross-divisional coordination,No,Yes,High,Pending Review,2026-04-25,2026-10-01,Insufficient justification
-ADL-009,DS-004,Toronto Centreline,Researcher,Dashboard Access,Research and analysis,No,No,Low,Denied,2026-02-20,2027-01-28,Temporary access approved with review date
-ADL-010,DS-010,Synthetic Metadata Catalog,External Partner,Dashboard Access,Executive briefing,No,No,Medium,Denied,2026-03-21,2027-03-09,Temporary access approved with review date
-ADL-011,DS-010,Synthetic Metadata Catalog,External Partner,External Sharing,Operational reporting,Yes,No,Medium,Approved,2026-03-16,2027-02-10,Insufficient justification
-ADL-012,DS-011,Synthetic Access Decision Log,Operations Lead,Download,Service planning,Yes,Yes,High,Pending Review,2026-01-29,2026-10-28,Business need confirmed
-ADL-013,DS-007,Litter Bin Collection Frequency,Operations Lead,Dashboard Access,Cross-divisional coordination,Yes,No,Low,Approved,2026-03-27,2026-09-12,Requires additional approval
-ADL-014,DS-012,Synthetic AI Readiness Scores,Researcher,Dashboard Access,Executive briefing,No,No,Medium,Approved,2026-01-28,2026-10-26,Temporary access approved with review date
-ADL-015,DS-009,Road Restrictions,Manager,Temporary Access,Service planning,Yes,No,Low,Approved with Conditions,2026-03-06,2026-08-21,Access limited to aggregated output
-ADL-016,DS-007,Litter Bin Collection Frequency,Researcher,Download,Executive briefing,No,No,Low,Pending Review,2026-03-22,2026-09-20,Requires additional approval
-ADL-017,DS-004,Toronto Centreline,Operations Lead,Dashboard Access,Executive briefing,Yes,No,Low,Denied,2026-03-11,2026-11-03,Insufficient justification
-ADL-018,DS-008,311 Service Requests,External Partner,External Sharing,Cross-divisional coordination,Yes,No,Medium,Approved,2026-03-05,2026-06-23,Insufficient justification
-ADL-019,DS-011,Synthetic Access Decision Log,External Partner,Download,Research and analysis,Yes,Yes,High,Approved,2026-03-31,2026-09-09,Requires additional approval
-ADL-020,DS-011,Synthetic Access Decision Log,External Partner,Dashboard Access,Operational reporting,Yes,Yes,High,Pending Review,2026-03-08,2026-11-08,Temporary access approved with review date
-ADL-021,DS-009,Road Restrictions,Researcher,Download,Service planning,No,Yes,Low,Pending Review,2026-03-21,2026-07-19,Business need confirmed
-ADL-022,DS-002,Neighbourhoods,Manager,Download,Executive briefing,No,No,Low,Pending Review,2026-04-20,2026-12-11,Insufficient justification
-ADL-023,DS-005,Solid Waste Management Districts,Manager,Dashboard Access,Cross-divisional coordination,No,No,Low,Approved,2026-04-13,2026-06-23,Requires additional approval
-ADL-024,DS-009,Road Restrictions,External Partner,Temporary Access,Executive briefing,Yes,No,Low,Approved,2026-02-24,2026-08-02,Business need confirmed
-ADL-025,DS-006,Solid Waste In-Park Assets,External Partner,External Sharing,Service planning,Yes,Yes,Low,Denied,2026-02-11,2026-09-05,Temporary access approved with review date
-ADL-026,DS-003,City Wards and Ward Profiles,Analyst,External Sharing,Service planning,Yes,Yes,Low,Denied,2026-02-13,2027-02-21,Requires additional approval
-ADL-027,DS-010,Synthetic Metadata Catalog,Analyst,Download,Operational reporting,No,Yes,Medium,Denied,2026-03-10,2027-01-09,Access limited to aggregated output
-ADL-028,DS-002,Neighbourhoods,Manager,Dashboard Access,Research and analysis,Yes,No,Low,Denied,2026-03-14,2026-09-04,Requires additional approval
-ADL-029,DS-005,Solid Waste Management Districts,External Partner,Temporary Access,Operational reporting,Yes,No,Low,Pending Review,2026-03-02,2026-12-14,Insufficient justification
-ADL-030,DS-005,Solid Waste Management Districts,Analyst,Temporary Access,Operational reporting,No,No,Low,Approved,2026-02-12,2027-01-04,Business need confirmed
-ADL-031,DS-004,Toronto Centreline,Researcher,Dashboard Access,Cross-divisional coordination,Yes,No,Low,Denied,2026-02-03,2026-06-29,Business need confirmed
-ADL-032,DS-007,Litter Bin Collection Frequency,Researcher,Read Only,Cross-divisional coordination,Yes,Yes,Low,Approved with Conditions,2026-02-19,2026-07-09,Temporary access approved with review date
-ADL-033,DS-003,City Wards and Ward Profiles,Operations Lead,Temporary Access,Service planning,Yes,Yes,Low,Pending Review,2026-03-21,2027-01-19,Insufficient justification
-ADL-034,DS-012,Synthetic AI Readiness Scores,Manager,Dashboard Access,Operational reporting,Yes,Yes,Medium,Denied,2026-02-26,2027-02-20,Insufficient justification
-ADL-035,DS-001,Toronto 3D Massing,Analyst,External Sharing,Cross-divisional coordination,Yes,No,Low,Pending Review,2026-04-23,2026-05-30,Access limited to aggregated output
+ADL-001,DS-007,Litter Bin Collection Frequency,Operations Lead,Download,Research and analysis,Yes,No,Low,Approved with Conditions,2026-03-28,2026-11-16,Temporary access approved with review date
+ADL-002,DS-012,AI Readiness Scores,Operations Lead,Download,Research and analysis,No,No,Medium,Approved,2026-04-04,2026-08-05,Access limited to aggregated output
+ADL-003,DS-008,311 Service Requests,Researcher,Temporary Access,Operational reporting,Yes,No,Medium,Denied,2026-01-26,2027-01-01,Business need confirmed
+ADL-004,DS-010,Metadata Catalog,Researcher,Dashboard Access,Cross-divisional coordination,Yes,No,Medium,Pending Review,2026-04-21,2026-10-15,Insufficient justification
+ADL-005,DS-006,Solid Waste In-Park Assets,Researcher,External Sharing,Operational reporting,Yes,No,Low,Denied,2026-01-30,2026-11-25,Insufficient justification
+ADL-006,DS-001,Toronto 3D Massing,Operations Lead,Temporary Access,Service planning,Yes,No,Low,Approved,2026-04-05,2026-07-09,Temporary access approved with review date
+ADL-007,DS-005,Solid Waste Management Districts,Manager,Download,Research and analysis,No,Yes,Low,Denied,2026-02-13,2026-10-07,Insufficient justification
+ADL-008,DS-011,Access Decision Log,Analyst,Download,Cross-divisional coordination,Yes,Yes,High,Approved,2026-02-13,2026-06-15,Access limited to aggregated output
+ADL-009,DS-004,Toronto Centreline,Manager,Download,Executive briefing,Yes,Yes,Low,Pending Review,2026-04-24,2026-12-02,Business need confirmed
+ADL-010,DS-010,Metadata Catalog,Researcher,Read Only,Operational reporting,No,Yes,Medium,Denied,2026-02-10,2027-02-21,Business need confirmed
+ADL-011,DS-010,Metadata Catalog,External Partner,Download,Executive briefing,Yes,No,Medium,Approved with Conditions,2026-04-01,2027-01-24,Insufficient justification
+ADL-012,DS-011,Access Decision Log,Operations Lead,Download,Operational reporting,Yes,Yes,High,Pending Review,2026-02-14,2027-04-15,Temporary access approved with review date
+ADL-013,DS-007,Litter Bin Collection Frequency,Analyst,Download,Service planning,No,No,Low,Approved,2026-02-23,2027-02-12,Business need confirmed
+ADL-014,DS-012,AI Readiness Scores,Researcher,Download,Service planning,No,No,Medium,Denied,2026-03-28,2026-10-07,Insufficient justification
+ADL-015,DS-009,Road Restrictions,Analyst,External Sharing,Operational reporting,Yes,No,Low,Approved,2026-04-01,2026-12-03,Insufficient justification
+ADL-016,DS-007,Litter Bin Collection Frequency,Operations Lead,Temporary Access,Service planning,No,No,Low,Pending Review,2026-02-06,2027-02-10,Insufficient justification
+ADL-017,DS-004,Toronto Centreline,Manager,Download,Cross-divisional coordination,No,No,Low,Pending Review,2026-04-16,2027-01-02,Temporary access approved with review date
+ADL-018,DS-008,311 Service Requests,Analyst,External Sharing,Operational reporting,No,No,Medium,Approved with Conditions,2026-02-02,2026-06-15,Requires additional approval
+ADL-019,DS-011,Access Decision Log,External Partner,External Sharing,Executive briefing,Yes,Yes,High,Denied,2026-03-18,2027-02-24,Temporary access approved with review date
+ADL-020,DS-011,Access Decision Log,External Partner,Dashboard Access,Research and analysis,No,Yes,High,Pending Review,2026-03-07,2027-03-23,Temporary access approved with review date
+ADL-021,DS-009,Road Restrictions,Researcher,Temporary Access,Cross-divisional coordination,Yes,No,Low,Denied,2026-04-14,2027-01-31,Requires additional approval
+ADL-022,DS-002,Neighbourhoods,Researcher,Temporary Access,Cross-divisional coordination,No,No,Low,Denied,2026-02-04,2026-10-10,Requires additional approval
+ADL-023,DS-005,Solid Waste Management Districts,External Partner,Temporary Access,Cross-divisional coordination,Yes,No,Low,Denied,2026-03-26,2027-03-11,Access limited to aggregated output
+ADL-024,DS-009,Road Restrictions,External Partner,Dashboard Access,Service planning,Yes,Yes,Low,Pending Review,2026-03-21,2026-10-08,Temporary access approved with review date
+ADL-025,DS-006,Solid Waste In-Park Assets,Operations Lead,Download,Cross-divisional coordination,Yes,Yes,Low,Denied,2026-04-01,2026-11-27,Temporary access approved with review date
+ADL-026,DS-003,City Wards and Ward Profiles,Researcher,Dashboard Access,Service planning,Yes,Yes,Low,Approved with Conditions,2026-04-10,2026-10-22,Access limited to aggregated output
+ADL-027,DS-010,Metadata Catalog,Manager,Temporary Access,Executive briefing,Yes,Yes,Medium,Pending Review,2026-03-09,2026-09-28,Insufficient justification
+ADL-028,DS-002,Neighbourhoods,Operations Lead,Dashboard Access,Cross-divisional coordination,Yes,Yes,Low,Denied,2026-04-07,2026-10-03,Temporary access approved with review date
+ADL-029,DS-005,Solid Waste Management Districts,Analyst,Dashboard Access,Operational reporting,Yes,Yes,Low,Pending Review,2026-04-25,2026-06-29,Access limited to aggregated output
+ADL-030,DS-005,Solid Waste Management Districts,External Partner,External Sharing,Research and analysis,No,Yes,Low,Denied,2026-02-19,2027-03-12,Insufficient justification
+ADL-031,DS-004,Toronto Centreline,Manager,Dashboard Access,Operational reporting,Yes,Yes,Low,Pending Review,2026-02-08,2026-07-20,Insufficient justification
+ADL-032,DS-007,Litter Bin Collection Frequency,Operations Lead,External Sharing,Executive briefing,Yes,No,Low,Approved with Conditions,2026-04-10,2026-11-27,Business need confirmed
+ADL-033,DS-003,City Wards and Ward Profiles,Analyst,Read Only,Executive briefing,Yes,Yes,Low,Denied,2026-04-09,2026-07-14,Insufficient justification
+ADL-034,DS-012,AI Readiness Scores,Manager,Read Only,Cross-divisional coordination,Yes,No,Medium,Approved,2026-03-13,2027-04-10,Requires additional approval
+ADL-035,DS-001,Toronto 3D Massing,External Partner,External Sharing,Service planning,Yes,No,Low,Denied,2026-02-14,2026-11-23,Access limited to aggregated output
+ADL-036,DS-004,Toronto Centreline,Manager,Read Only,Cross-divisional coordination,No,No,Low,Approved with Conditions,2026-04-04,2026-12-08,Access limited to aggregated output
+ADL-037,DS-010,Metadata Catalog,Researcher,Temporary Access,Operational reporting,Yes,No,Medium,Denied,2026-02-22,2026-07-28,Business need confirmed
+ADL-038,DS-010,Metadata Catalog,Manager,External Sharing,Service planning,Yes,No,Medium,Approved with Conditions,2026-04-03,2026-09-15,Requires additional approval
+ADL-039,DS-010,Metadata Catalog,Analyst,Read Only,Service planning,No,No,Medium,Pending Review,2026-02-10,2027-03-29,Insufficient justification
+ADL-040,DS-002,Neighbourhoods,Operations Lead,Download,Service planning,Yes,No,Low,Pending Review,2026-02-28,2027-01-07,Access limited to aggregated output
+ADL-041,DS-009,Road Restrictions,Operations Lead,Temporary Access,Research and analysis,Yes,Yes,Low,Denied,2026-03-30,2027-02-01,Insufficient justification
+ADL-042,DS-011,Access Decision Log,Researcher,Dashboard Access,Executive briefing,Yes,Yes,High,Pending Review,2026-02-20,2027-04-06,Insufficient justification
+ADL-043,DS-004,Toronto Centreline,Operations Lead,Temporary Access,Service planning,Yes,No,Low,Approved,2026-02-08,2026-12-05,Access limited to aggregated output
+ADL-044,DS-002,Neighbourhoods,Operations Lead,Download,Service planning,Yes,No,Low,Pending Review,2026-03-21,2026-09-30,Requires additional approval
+ADL-045,DS-010,Metadata Catalog,Manager,External Sharing,Cross-divisional coordination,Yes,No,Medium,Approved with Conditions,2026-02-02,2026-06-28,Insufficient justification

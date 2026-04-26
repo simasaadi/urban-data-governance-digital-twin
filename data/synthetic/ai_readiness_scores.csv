@@ -1,13 +1,13 @@
 dataset_id,dataset_name,data_quality_score,metadata_completeness_score,lineage_status,business_definition_status,access_risk_level,data_classification,ai_readiness_score,ai_readiness_category
-DS-001,Toronto 3D Massing,84.6,98,Documented,Complete,Low,Public,94.1,Ready
-DS-002,Neighbourhoods,86.2,85,Documented,Partial,Low,Public,84.4,Ready
-DS-003,City Wards and Ward Profiles,84.4,95,Documented,Partial,Low,Public,86.3,Ready
-DS-004,Toronto Centreline,84.8,78,Documented,Complete,Low,Public,89.2,Ready
-DS-005,Solid Waste Management Districts,83.6,97,Documented,Partial,Low,Public,86.5,Ready
-DS-006,Solid Waste In-Park Assets,91.6,98,Partially Documented,Partial,Low,Public,82.6,Ready
-DS-007,Litter Bin Collection Frequency,82.0,92,Partially Documented,Complete,Low,Public,84.7,Ready
-DS-008,311 Service Requests,88.0,83,Partially Documented,Complete,Medium,Public Aggregated,76.5,Needs Remediation
-DS-009,Road Restrictions,86.2,82,Documented,Complete,Low,Public,90.7,Ready
-DS-010,Synthetic Metadata Catalog,81.0,82,Documented,Partial,Medium,Internal,73.8,Needs Remediation
-DS-011,Synthetic Access Decision Log,86.0,78,Documented,Partial,High,Internal,64.6,Restricted
-DS-012,Synthetic AI Readiness Scores,76.6,72,Partially Documented,Partial,Medium,Internal,62.8,Needs Remediation
+DS-001,Toronto 3D Massing,86.2,92,Documented,Complete,Low,Public,93.2,Ready
+DS-002,Neighbourhoods,85.4,76,Partially Documented,Complete,Low,Public,81.9,Ready
+DS-003,City Wards and Ward Profiles,83.6,73,Documented,Complete,Low,Public,87.5,Ready
+DS-004,Toronto Centreline,83.6,91,Documented,Partial,Low,Public,85.0,Ready
+DS-005,Solid Waste Management Districts,89.8,79,Documented,Partial,Low,Public,84.2,Ready
+DS-006,Solid Waste In-Park Assets,80.8,97,Documented,Partial,Low,Public,85.5,Ready
+DS-007,Litter Bin Collection Frequency,81.0,76,Documented,Complete,Low,Public,87.3,Ready
+DS-008,311 Service Requests,80.8,75,Documented,Complete,Medium,Public Aggregated,79.0,Needs Remediation
+DS-009,Road Restrictions,90.6,86,Partially Documented,Complete,Low,Public,86.2,Ready
+DS-010,Metadata Catalog,85.6,74,Partially Documented,Partial,Medium,Internal,66.5,Needs Remediation
+DS-011,Access Decision Log,84.0,87,Documented,Complete,High,Internal,71.2,Restricted
+DS-012,AI Readiness Scores,89.6,92,Documented,Complete,Medium,Internal,86.4,Ready

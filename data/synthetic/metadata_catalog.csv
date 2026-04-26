@@ -1,13 +1,13 @@
-dataset_id,dataset_name,source_type,business_function,data_owner,data_steward,refresh_frequency,data_classification,access_risk_level,lineage_status,business_definition_status,metadata_completeness_score,system_of_record,last_reviewed_date
-DS-001,Toronto 3D Massing,Toronto Open Data,3D Urban Context,Open Data Team,Assigned,Periodic,Public,Low,Documented,Complete,98,Governance Control Register,2026-02-18
-DS-002,Neighbourhoods,Toronto Open Data,Geographic Reporting,Open Data Team,Assigned,Periodic,Public,Low,Documented,Partial,85,Open Data Portal,2025-10-30
-DS-003,City Wards and Ward Profiles,Toronto Open Data,Council and Executive Reporting,Open Data Team,Assigned,Council Term,Public,Low,Documented,Partial,95,Analytics Mart,2026-04-13
-DS-004,Toronto Centreline,Toronto Open Data,Transportation and Routing Context,Transportation Data Team,Assigned,Monthly,Public,Low,Documented,Complete,78,Operational Source System,2025-12-13
-DS-005,Solid Waste Management Districts,Toronto Open Data,Solid Waste Operations,Operations,Assigned,Periodic,Public,Low,Documented,Partial,97,Operational Source System,2025-10-20
-DS-006,Solid Waste In-Park Assets,Toronto Open Data,Asset Management,Operations,Assigned,Ad hoc,Public,Low,Partially Documented,Partial,98,Analytics Mart,2026-02-24
-DS-007,Litter Bin Collection Frequency,Toronto Open Data,Collection Operations,Operations,Assigned,Monthly,Public,Low,Partially Documented,Complete,92,Open Data Portal,2025-10-09
-DS-008,311 Service Requests,Toronto Open Data,Service Demand Monitoring,Customer Experience,Assigned,Daily,Public Aggregated,Medium,Partially Documented,Complete,83,Governance Control Register,2026-02-09
-DS-009,Road Restrictions,Toronto Open Data,Operational Disruption Monitoring,Transportation Services,Assigned,Daily,Public,Low,Documented,Complete,82,Open Data Portal,2026-03-29
-DS-010,Synthetic Metadata Catalog,Synthetic Governance Layer,Data Governance Controls,Data Governance Office,Assigned,Monthly,Internal,Medium,Documented,Partial,82,Governance Control Register,2025-11-18
-DS-011,Synthetic Access Decision Log,Synthetic Governance Layer,Access Governance,Data Governance Office,Assigned,Monthly,Internal,High,Documented,Partial,78,Open Data Portal,2026-01-15
-DS-012,Synthetic AI Readiness Scores,Synthetic Governance Layer,AI Readiness Assessment,Analytics,Assigned,Monthly,Internal,Medium,Partially Documented,Partial,72,Operational Source System,2025-10-23
+dataset_id,dataset_name,source_type,business_function,data_owner,data_steward,refresh_frequency,data_classification,access_risk_level,lineage_status,business_definition_status,metadata_completeness_score,last_reviewed_date
+DS-001,Toronto 3D Massing,Toronto Open Data,3D Urban Context,Open Data Team,Assigned,Weekly,Public,Low,Documented,Complete,92,2026-02-23
+DS-002,Neighbourhoods,Toronto Open Data,Geographic Reporting,Open Data Team,Assigned,Ad hoc,Public,Low,Partially Documented,Complete,76,2026-01-03
+DS-003,City Wards and Ward Profiles,Toronto Open Data,Council Reporting,Open Data Team,Assigned,Weekly,Public,Low,Documented,Complete,73,2025-12-13
+DS-004,Toronto Centreline,Toronto Open Data,Transportation Context,Transportation Data Team,Assigned,Ad hoc,Public,Low,Documented,Partial,91,2026-01-04
+DS-005,Solid Waste Management Districts,Toronto Open Data,Solid Waste Operations,Operations,Assigned,Daily,Public,Low,Documented,Partial,79,2025-10-09
+DS-006,Solid Waste In-Park Assets,Toronto Open Data,Asset Management,Operations,Unassigned,Monthly,Public,Low,Documented,Partial,97,2026-02-09
+DS-007,Litter Bin Collection Frequency,Toronto Open Data,Collection Operations,Operations,Assigned,Daily,Public,Low,Documented,Complete,76,2026-01-14
+DS-008,311 Service Requests,Toronto Open Data,Service Demand Monitoring,Customer Experience,Assigned,Daily,Public Aggregated,Medium,Documented,Complete,75,2025-10-17
+DS-009,Road Restrictions,Toronto Open Data,Disruption Monitoring,Transportation Services,Unassigned,Daily,Public,Low,Partially Documented,Complete,86,2025-12-01
+DS-010,Metadata Catalog,Synthetic Governance Layer,Data Governance Controls,Data Governance Office,Assigned,Ad hoc,Internal,Medium,Partially Documented,Partial,74,2026-03-03
+DS-011,Access Decision Log,Synthetic Governance Layer,Access Governance,Data Governance Office,Assigned,Monthly,Internal,High,Documented,Complete,87,2026-04-01
+DS-012,AI Readiness Scores,Synthetic Governance Layer,AI Governance,Analytics,Unassigned,Monthly,Internal,Medium,Documented,Complete,92,2025-12-26

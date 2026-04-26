@@ -1,13 +1,13 @@
 dataset_id,source_dataset,transformation_step,dashboard_layer,reporting_output,lineage_status
-DS-001,Toronto 3D Massing,Calculate governance and AI readiness score,Service Demand Layer,Governance Scorecard,Documented
-DS-002,Neighbourhoods,Calculate governance and AI readiness score,AI Readiness Layer,Access Risk Register,Documented
-DS-003,City Wards and Ward Profiles,Validate required fields and coordinates,AI Readiness Layer,Access Risk Register,Documented
-DS-004,Toronto Centreline,Aggregate into executive dashboard mart,Data Quality Layer,Executive Control Panel,Documented
-DS-005,Solid Waste Management Districts,Standardize schema and data types,Service Demand Layer,Governance Scorecard,Documented
-DS-006,Solid Waste In-Park Assets,Standardize schema and data types,Asset Risk Layer,Access Risk Register,Partially Documented
-DS-007,Litter Bin Collection Frequency,Standardize schema and data types,Data Quality Layer,Access Risk Register,Partially Documented
-DS-008,311 Service Requests,Standardize schema and data types,Service Demand Layer,Governance Scorecard,Partially Documented
-DS-009,Road Restrictions,Calculate governance and AI readiness score,Data Quality Layer,Executive Control Panel,Documented
-DS-010,Synthetic Metadata Catalog,Validate required fields and coordinates,AI Readiness Layer,Governance Scorecard,Documented
-DS-011,Synthetic Access Decision Log,Standardize schema and data types,Data Quality Layer,Executive Control Panel,Documented
-DS-012,Synthetic AI Readiness Scores,Validate required fields and coordinates,Governance Maturity Layer,Governance Scorecard,Partially Documented
+DS-001,Toronto 3D Massing,Standardize schema and data types,Data Quality Layer,Access Risk Register,Documented
+DS-002,Neighbourhoods,Join to district and ward reference layers,Service Demand Layer,AI Readiness Summary,Partially Documented
+DS-003,City Wards and Ward Profiles,Standardize schema and data types,Data Quality Layer,AI Readiness Summary,Documented
+DS-004,Toronto Centreline,Calculate governance and AI-readiness score,Data Quality Layer,Executive Control Panel,Documented
+DS-005,Solid Waste Management Districts,Calculate governance and AI-readiness score,Service Demand Layer,Governance Scorecard,Documented
+DS-006,Solid Waste In-Park Assets,Validate required fields and coordinates,Service Demand Layer,Governance Scorecard,Documented
+DS-007,Litter Bin Collection Frequency,Join to district and ward reference layers,Data Quality Layer,Operational Risk View,Documented
+DS-008,311 Service Requests,Validate required fields and coordinates,Asset Risk Layer,Access Risk Register,Documented
+DS-009,Road Restrictions,Aggregate into executive dashboard mart,Governance Maturity Layer,Access Risk Register,Partially Documented
+DS-010,Metadata Catalog,Validate required fields and coordinates,3D City View,AI Readiness Summary,Partially Documented
+DS-011,Access Decision Log,Join to district and ward reference layers,3D City View,Operational Risk View,Documented
+DS-012,AI Readiness Scores,Standardize schema and data types,AI Readiness Layer,Operational Risk View,Documented
