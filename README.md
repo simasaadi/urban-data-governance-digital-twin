@@ -1,4 +1,4 @@
-@'
+
 # Urban Data Governance Digital Twin
 
 <p align="center">
