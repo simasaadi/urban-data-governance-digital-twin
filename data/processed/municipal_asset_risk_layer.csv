@@ -1,0 +1,801 @@
+asset_id,asset_type,latitude,longitude,neighbourhood,ward,service_district,service_frequency,service_pressure_score,data_quality_risk_score,governance_maturity_score,access_risk_level,ai_readiness_score,stale_days,open_issue_count,risk_index,risk_tier,color_r,color_g,color_b,color_a,last_updated
+ASSET-00001,Litter Bin,43.625884,-79.548243,Etobicoke Centre,Ward 11,South District,Daily,72,34,85,Low,69,102,1,53.1,Moderate,255,193,7,170,2026-01-14
+ASSET-00002,Recycling Bin,43.63182,-79.535634,Waterfront Communities,Ward 8,West District,Daily,95,54,66,Low,46,65,0,64.4,High,255,127,14,190,2026-02-20
+ASSET-00003,Container,43.730726,-79.555833,Annex,Ward 5,South District,On demand,67,0,44,Medium,48,23,3,51.5,Moderate,255,193,7,170,2026-04-03
+ASSET-00004,Container,43.635925,-79.383452,Scarborough Village,Ward 7,North District,2x weekly,42,6,98,Low,85,36,0,21.4,Low,44,160,44,160,2026-03-21
+ASSET-00005,Park Waste Bin,43.604962,-79.183513,Agincourt South,Ward 17,South District,Daily,50,40,54,Medium,57,59,2,58.1,High,255,127,14,190,2026-02-26
+ASSET-00006,Park Waste Bin,43.618069,-79.392219,Waterfront Communities,Ward 19,North District,On demand,49,31,63,Low,46,115,0,47.8,Moderate,255,193,7,170,2026-01-01
+ASSET-00007,Litter Bin,43.715743,-79.534967,Kensington Chinatown,Ward 3,West District,2x weekly,79,11,77,Low,59,0,0,35.5,Moderate,255,193,7,170,2026-04-26
+ASSET-00008,Park Waste Bin,43.679396,-79.495179,York University Heights,Ward 16,North District,On demand,77,41,72,Low,52,33,1,51.0,Moderate,255,193,7,170,2026-03-24
+ASSET-00009,Container,43.622413,-79.250989,Agincourt South,Ward 8,South District,Weekly,52,61,79,Low,59,0,2,44.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00010,Public Realm Asset,43.767392,-79.585939,Danforth East York,Ward 14,South District,Weekly,47,51,91,Low,53,80,0,43.5,Moderate,255,193,7,170,2026-02-05
+ASSET-00011,Litter Bin,43.666107,-79.590763,Waterfront Communities,Ward 13,East District,Daily,44,31,79,Low,71,82,2,43.1,Moderate,255,193,7,170,2026-02-03
+ASSET-00012,Container,43.794059,-79.402781,Agincourt South,Ward 5,South District,3x weekly,38,11,87,Low,68,96,0,31.2,Low,44,160,44,160,2026-01-20
+ASSET-00013,Litter Bin,43.767322,-79.392854,Agincourt South,Ward 18,West District,Daily,69,23,80,Medium,61,103,1,57.9,High,255,127,14,190,2026-01-13
+ASSET-00014,Litter Bin,43.662302,-79.386057,Kensington Chinatown,Ward 6,South District,Weekly,6,56,75,High,41,33,3,52.0,Moderate,255,193,7,170,2026-03-24
+ASSET-00015,Litter Bin,43.642624,-79.584589,Annex,Ward 13,West District,Weekly,57,45,99,Medium,67,25,0,44.8,Moderate,255,193,7,170,2026-04-01
+ASSET-00016,Park Waste Bin,43.774845,-79.534178,Scarborough Village,Ward 23,South District,3x weekly,45,26,89,Medium,71,57,3,46.9,Moderate,255,193,7,170,2026-02-28
+ASSET-00017,Litter Bin,43.642425,-79.42353,Etobicoke Centre,Ward 24,West District,2x weekly,64,59,62,Low,40,32,0,51.7,Moderate,255,193,7,170,2026-03-25
+ASSET-00018,Public Realm Asset,43.686005,-79.51783,North York Centre,Ward 17,North District,Daily,68,43,74,Low,63,36,0,46.4,Moderate,255,193,7,170,2026-03-21
+ASSET-00019,Litter Bin,43.709322,-79.296611,Etobicoke Centre,Ward 3,North District,Weekly,54,20,71,High,56,60,0,56.2,High,255,127,14,190,2026-02-25
+ASSET-00020,Container,43.655513,-79.603032,Etobicoke Centre,Ward 2,West District,Weekly,67,36,41,Low,39,43,1,53.4,Moderate,255,193,7,170,2026-03-14
+ASSET-00021,Park Waste Bin,43.623326,-79.394852,High Park North,Ward 7,East District,3x weekly,63,92,70,High,42,56,1,82.6,Critical,214,39,40,210,2026-03-01
+ASSET-00022,Park Waste Bin,43.67459,-79.329139,Agincourt South,Ward 11,West District,Daily,85,54,87,Medium,51,10,1,59.8,High,255,127,14,190,2026-04-16
+ASSET-00023,Litter Bin,43.599378,-79.348189,Downtown Yonge East,Ward 18,North District,On demand,74,86,57,Medium,40,23,1,73.2,High,255,127,14,190,2026-04-03
+ASSET-00024,Litter Bin,43.748916,-79.442102,Kensington Chinatown,Ward 12,East District,3x weekly,29,39,55,Medium,49,62,0,46.6,Moderate,255,193,7,170,2026-02-23
+ASSET-00025,Park Waste Bin,43.777961,-79.364608,Etobicoke Centre,Ward 21,West District,On demand,45,30,87,Medium,72,0,3,41.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00026,Recycling Bin,43.667977,-79.459364,High Park North,Ward 4,West District,On demand,28,42,78,Medium,50,74,2,48.0,Moderate,255,193,7,170,2026-02-11
+ASSET-00027,Container,43.737667,-79.581296,Kensington Chinatown,Ward 23,East District,3x weekly,72,44,78,Low,55,58,0,50.0,Moderate,255,193,7,170,2026-02-27
+ASSET-00028,Park Waste Bin,43.739951,-79.516836,Waterfront Communities,Ward 3,South District,2x weekly,68,22,100,Medium,79,63,1,48.3,Moderate,255,193,7,170,2026-02-22
+ASSET-00029,Recycling Bin,43.739416,-79.229357,York University Heights,Ward 9,North District,Weekly,41,55,93,Low,59,13,0,33.9,Low,44,160,44,160,2026-04-13
+ASSET-00030,Container,43.650997,-79.507765,Waterfront Communities,Ward 4,West District,3x weekly,79,79,69,High,43,16,2,81.5,Critical,214,39,40,210,2026-04-10
+ASSET-00031,Container,43.772807,-79.388787,North York Centre,Ward 5,South District,3x weekly,60,45,78,High,57,76,0,66.4,High,255,127,14,190,2026-02-09
+ASSET-00032,Litter Bin,43.654578,-79.608815,Danforth East York,Ward 7,North District,Daily,56,97,84,Low,41,12,0,53.4,Moderate,255,193,7,170,2026-04-14
+ASSET-00033,Public Realm Asset,43.593555,-79.192973,Etobicoke Centre,Ward 24,North District,3x weekly,39,48,70,Medium,58,72,3,57.0,High,255,127,14,190,2026-02-13
+ASSET-00034,Public Realm Asset,43.785761,-79.474216,Waterfront Communities,Ward 6,East District,Weekly,71,36,59,Low,45,0,3,49.9,Moderate,255,193,7,170,2026-04-26
+ASSET-00035,Litter Bin,43.721114,-79.575299,Scarborough Village,Ward 2,South District,3x weekly,66,10,76,Low,62,59,0,38.3,Moderate,255,193,7,170,2026-02-26
+ASSET-00036,Park Waste Bin,43.750314,-79.296857,High Park North,Ward 8,North District,Daily,63,12,80,Low,72,66,3,43.9,Moderate,255,193,7,170,2026-02-19
+ASSET-00037,Park Waste Bin,43.789427,-79.199909,Downtown Yonge East,Ward 25,East District,2x weekly,33,17,82,Low,67,64,1,30.2,Low,44,160,44,160,2026-02-21
+ASSET-00038,Park Waste Bin,43.751452,-79.253935,Waterfront Communities,Ward 4,East District,3x weekly,72,100,83,High,46,88,1,89.6,Critical,214,39,40,210,2026-01-28
+ASSET-00039,Litter Bin,43.723004,-79.603467,Etobicoke Centre,Ward 14,East District,2x weekly,55,54,60,High,36,36,0,66.0,High,255,127,14,190,2026-03-21
+ASSET-00040,Litter Bin,43.597015,-79.60282,Scarborough Village,Ward 19,North District,2x weekly,100,0,85,Medium,81,0,1,48.0,Moderate,255,193,7,170,2026-04-26
+ASSET-00041,Litter Bin,43.767099,-79.520722,North York Centre,Ward 18,North District,2x weekly,52,61,75,Low,52,4,2,46.0,Moderate,255,193,7,170,2026-04-22
+ASSET-00042,Container,43.714346,-79.326782,Danforth East York,Ward 22,West District,2x weekly,46,42,74,Medium,55,20,0,44.4,Moderate,255,193,7,170,2026-04-06
+ASSET-00043,Park Waste Bin,43.690963,-79.58391,Scarborough Village,Ward 23,East District,On demand,19,42,62,High,53,77,0,54.5,Moderate,255,193,7,170,2026-02-08
+ASSET-00044,Public Realm Asset,43.625981,-79.504888,York University Heights,Ward 24,North District,On demand,72,57,53,Low,43,32,0,55.7,High,255,127,14,190,2026-03-25
+ASSET-00045,Container,43.809619,-79.280567,Waterfront Communities,Ward 10,East District,3x weekly,99,46,52,High,46,79,0,85.9,Critical,214,39,40,210,2026-02-06
+ASSET-00046,Container,43.671874,-79.271391,York University Heights,Ward 11,South District,Weekly,100,60,48,Medium,45,26,3,80.7,Critical,214,39,40,210,2026-03-31
+ASSET-00047,Container,43.703072,-79.402203,Agincourt South,Ward 24,North District,Daily,71,55,58,Medium,39,42,2,67.0,High,255,127,14,190,2026-03-15
+ASSET-00048,Container,43.736072,-79.59916,Danforth East York,Ward 3,North District,2x weekly,56,10,100,Medium,88,0,1,32.6,Low,44,160,44,160,2026-04-26
+ASSET-00049,Recycling Bin,43.7415,-79.54505,Waterfront Communities,Ward 2,North District,Weekly,92,6,93,Low,72,45,3,47.0,Moderate,255,193,7,170,2026-03-12
+ASSET-00050,Public Realm Asset,43.806253,-79.355282,Scarborough Village,Ward 21,North District,Weekly,66,24,75,High,54,30,3,63.0,High,255,127,14,190,2026-03-27
+ASSET-00051,Recycling Bin,43.806537,-79.442393,York University Heights,Ward 23,West District,Daily,95,10,100,Medium,75,0,1,46.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00052,Container,43.784321,-79.609295,Agincourt South,Ward 2,North District,Daily,67,24,70,Medium,55,26,0,47.9,Moderate,255,193,7,170,2026-03-31
+ASSET-00053,Container,43.734657,-79.216363,North York Centre,Ward 20,East District,Weekly,49,56,80,Medium,57,18,0,48.2,Moderate,255,193,7,170,2026-04-08
+ASSET-00054,Public Realm Asset,43.762641,-79.248856,North York Centre,Ward 15,North District,Weekly,79,51,59,High,51,23,3,78.0,Critical,214,39,40,210,2026-04-03
+ASSET-00055,Park Waste Bin,43.668385,-79.191852,North York Centre,Ward 16,North District,2x weekly,61,40,95,Medium,62,22,0,45.1,Moderate,255,193,7,170,2026-04-04
+ASSET-00056,Recycling Bin,43.613718,-79.204826,High Park North,Ward 11,East District,On demand,57,62,88,Medium,53,75,0,58.3,High,255,127,14,190,2026-02-10
+ASSET-00057,Recycling Bin,43.679516,-79.615015,Scarborough Village,Ward 23,North District,3x weekly,89,38,85,Low,55,33,0,49.7,Moderate,255,193,7,170,2026-03-24
+ASSET-00058,Park Waste Bin,43.735323,-79.413715,North York Centre,Ward 15,South District,Daily,68,35,75,Low,61,67,1,49.7,Moderate,255,193,7,170,2026-02-18
+ASSET-00059,Public Realm Asset,43.772063,-79.256776,Etobicoke Centre,Ward 23,West District,On demand,40,11,93,Low,78,75,3,34.1,Low,44,160,44,160,2026-02-10
+ASSET-00060,Park Waste Bin,43.691552,-79.211656,High Park North,Ward 25,South District,Weekly,61,18,75,Medium,54,19,1,44.1,Moderate,255,193,7,170,2026-04-07
+ASSET-00061,Container,43.73219,-79.573484,Kensington Chinatown,Ward 16,North District,2x weekly,44,30,81,High,69,23,2,53.1,Moderate,255,193,7,170,2026-04-03
+ASSET-00062,Public Realm Asset,43.609513,-79.166146,Danforth East York,Ward 22,South District,3x weekly,67,26,65,Medium,47,53,1,54.9,Moderate,255,193,7,170,2026-03-04
+ASSET-00063,Container,43.768744,-79.363134,Waterfront Communities,Ward 13,West District,Daily,31,7,61,Medium,71,36,0,33.2,Low,44,160,44,160,2026-03-21
+ASSET-00064,Recycling Bin,43.592611,-79.404416,Waterfront Communities,Ward 9,South District,2x weekly,80,34,73,Medium,61,6,0,52.4,Moderate,255,193,7,170,2026-04-20
+ASSET-00065,Park Waste Bin,43.8113,-79.44756,Scarborough Village,Ward 9,South District,2x weekly,68,19,82,Low,67,103,1,48.0,Moderate,255,193,7,170,2026-01-13
+ASSET-00066,Container,43.606973,-79.365227,Waterfront Communities,Ward 12,North District,Daily,76,29,77,Low,51,45,1,47.5,Moderate,255,193,7,170,2026-03-12
+ASSET-00067,Recycling Bin,43.694544,-79.331323,Kensington Chinatown,Ward 1,North District,3x weekly,62,48,98,Low,54,81,3,52.6,Moderate,255,193,7,170,2026-02-04
+ASSET-00068,Container,43.653798,-79.533464,Kensington Chinatown,Ward 15,East District,2x weekly,80,42,100,Low,60,14,1,44.4,Moderate,255,193,7,170,2026-04-12
+ASSET-00069,Litter Bin,43.814111,-79.166343,Annex,Ward 10,West District,On demand,17,26,61,Low,64,50,1,29.8,Low,44,160,44,160,2026-03-07
+ASSET-00070,Public Realm Asset,43.747488,-79.545196,Scarborough Village,Ward 23,North District,Daily,69,79,90,Low,57,23,0,52.7,Moderate,255,193,7,170,2026-04-03
+ASSET-00071,Recycling Bin,43.817074,-79.550808,Downtown Yonge East,Ward 23,East District,On demand,34,78,94,High,62,27,2,61.9,High,255,127,14,190,2026-03-30
+ASSET-00072,Litter Bin,43.685408,-79.494233,Danforth East York,Ward 18,South District,2x weekly,26,67,72,Low,53,92,3,52.3,Moderate,255,193,7,170,2026-01-24
+ASSET-00073,Park Waste Bin,43.693625,-79.560587,Waterfront Communities,Ward 14,South District,Daily,62,39,66,Low,63,68,1,50.7,Moderate,255,193,7,170,2026-02-17
+ASSET-00074,Public Realm Asset,43.732169,-79.455245,Flemingdon Park,Ward 5,South District,3x weekly,64,49,86,Medium,68,2,0,48.1,Moderate,255,193,7,170,2026-04-24
+ASSET-00075,Container,43.709638,-79.227997,North York Centre,Ward 25,South District,Weekly,68,21,100,High,72,49,2,58.2,High,255,127,14,190,2026-03-08
+ASSET-00076,Park Waste Bin,43.620824,-79.60676,Danforth East York,Ward 8,West District,2x weekly,100,76,69,Medium,49,81,3,88.1,Critical,214,39,40,210,2026-02-04
+ASSET-00077,Container,43.621365,-79.613309,Etobicoke Centre,Ward 22,South District,2x weekly,75,68,57,Medium,42,71,0,72.1,High,255,127,14,190,2026-02-14
+ASSET-00078,Recycling Bin,43.797956,-79.459802,Agincourt South,Ward 7,East District,2x weekly,84,0,53,Low,60,0,1,40.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00079,Park Waste Bin,43.788344,-79.183221,North York Centre,Ward 1,North District,Daily,93,39,100,Medium,77,0,0,52.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00080,Public Realm Asset,43.703302,-79.468774,North York Centre,Ward 25,North District,Weekly,26,36,80,Low,63,43,2,33.3,Low,44,160,44,160,2026-03-14
+ASSET-00081,Litter Bin,43.631832,-79.460993,High Park North,Ward 8,South District,3x weekly,34,52,80,Medium,44,9,1,42.6,Moderate,255,193,7,170,2026-04-17
+ASSET-00082,Park Waste Bin,43.634226,-79.6012,Agincourt South,Ward 18,East District,Weekly,60,59,57,Medium,50,64,2,67.3,High,255,127,14,190,2026-02-21
+ASSET-00083,Public Realm Asset,43.637457,-79.452436,High Park North,Ward 10,East District,3x weekly,50,20,72,High,63,5,0,47.7,Moderate,255,193,7,170,2026-04-21
+ASSET-00084,Park Waste Bin,43.790923,-79.196399,Downtown Yonge East,Ward 24,North District,3x weekly,100,38,62,Low,47,53,2,64.6,High,255,127,14,190,2026-03-04
+ASSET-00085,Park Waste Bin,43.63244,-79.523699,Flemingdon Park,Ward 19,East District,Daily,59,33,84,Low,68,73,2,46.9,Moderate,255,193,7,170,2026-02-12
+ASSET-00086,Park Waste Bin,43.696383,-79.276163,Annex,Ward 10,West District,On demand,56,0,48,Low,55,96,0,42.0,Moderate,255,193,7,170,2026-01-20
+ASSET-00087,Litter Bin,43.61465,-79.41419,North York Centre,Ward 10,North District,Weekly,74,44,100,Low,57,87,0,50.0,Moderate,255,193,7,170,2026-01-29
+ASSET-00088,Container,43.594616,-79.471844,High Park North,Ward 16,South District,Weekly,28,42,61,Low,39,0,3,36.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00089,Park Waste Bin,43.771509,-79.390717,Agincourt South,Ward 4,West District,Weekly,48,14,100,Medium,68,78,0,38.8,Moderate,255,193,7,170,2026-02-07
+ASSET-00090,Litter Bin,43.689282,-79.561313,Annex,Ward 5,East District,Daily,63,19,99,Medium,82,65,0,44.1,Moderate,255,193,7,170,2026-02-20
+ASSET-00091,Public Realm Asset,43.671902,-79.166203,Etobicoke Centre,Ward 20,North District,On demand,43,7,89,Low,81,117,0,33.3,Low,44,160,44,160,2025-12-30
+ASSET-00092,Park Waste Bin,43.63291,-79.488856,Etobicoke Centre,Ward 14,East District,On demand,32,50,62,Medium,51,26,1,47.0,Moderate,255,193,7,170,2026-03-31
+ASSET-00093,Litter Bin,43.615769,-79.436986,Kensington Chinatown,Ward 21,North District,2x weekly,63,19,78,High,74,43,0,55.5,High,255,127,14,190,2026-03-14
+ASSET-00094,Recycling Bin,43.803756,-79.363889,North York Centre,Ward 3,North District,Daily,49,54,82,Low,52,7,0,37.8,Moderate,255,193,7,170,2026-04-19
+ASSET-00095,Public Realm Asset,43.664446,-79.424299,High Park North,Ward 2,North District,2x weekly,26,49,62,Medium,56,66,1,49.6,Moderate,255,193,7,170,2026-02-19
+ASSET-00096,Litter Bin,43.656385,-79.35263,York University Heights,Ward 8,East District,On demand,27,39,78,Medium,62,10,2,38.8,Moderate,255,193,7,170,2026-04-16
+ASSET-00097,Container,43.667419,-79.558169,Kensington Chinatown,Ward 21,North District,2x weekly,60,11,62,Low,54,46,1,39.7,Moderate,255,193,7,170,2026-03-11
+ASSET-00098,Recycling Bin,43.764852,-79.346006,High Park North,Ward 20,East District,Weekly,83,25,88,Low,58,2,0,39.2,Moderate,255,193,7,170,2026-04-24
+ASSET-00099,Public Realm Asset,43.781042,-79.176088,High Park North,Ward 17,South District,Weekly,10,20,83,Low,66,37,1,19.5,Low,44,160,44,160,2026-03-20
+ASSET-00100,Public Realm Asset,43.722129,-79.232759,Flemingdon Park,Ward 11,East District,Daily,69,24,75,Low,53,39,1,43.2,Moderate,255,193,7,170,2026-03-18
+ASSET-00101,Container,43.627781,-79.245296,Waterfront Communities,Ward 25,East District,On demand,69,28,65,Low,64,28,0,43.0,Moderate,255,193,7,170,2026-03-29
+ASSET-00102,Public Realm Asset,43.680262,-79.244364,North York Centre,Ward 21,South District,2x weekly,68,83,88,Low,42,32,3,61.1,High,255,127,14,190,2026-03-25
+ASSET-00103,Public Realm Asset,43.76195,-79.388749,Downtown Yonge East,Ward 16,East District,Weekly,19,15,42,Low,53,31,1,28.6,Low,44,160,44,160,2026-03-26
+ASSET-00104,Recycling Bin,43.798489,-79.332851,Danforth East York,Ward 14,South District,2x weekly,68,33,88,Medium,58,0,0,44.1,Moderate,255,193,7,170,2026-04-26
+ASSET-00105,Litter Bin,43.732617,-79.374608,Agincourt South,Ward 3,East District,2x weekly,30,63,79,Medium,57,29,3,51.2,Moderate,255,193,7,170,2026-03-28
+ASSET-00106,Container,43.647153,-79.277785,Waterfront Communities,Ward 22,South District,Weekly,65,43,66,Medium,53,12,0,52.0,Moderate,255,193,7,170,2026-04-14
+ASSET-00107,Park Waste Bin,43.668679,-79.242222,Etobicoke Centre,Ward 25,South District,Weekly,63,27,82,Low,70,57,0,40.9,Moderate,255,193,7,170,2026-02-28
+ASSET-00108,Container,43.642728,-79.287764,Annex,Ward 10,South District,Weekly,56,16,66,Low,59,59,0,38.6,Moderate,255,193,7,170,2026-02-26
+ASSET-00109,Container,43.647914,-79.46098,Kensington Chinatown,Ward 23,North District,2x weekly,80,67,81,Low,60,116,0,65.9,High,255,127,14,190,2025-12-31
+ASSET-00110,Public Realm Asset,43.625271,-79.350334,Downtown Yonge East,Ward 8,West District,Weekly,24,70,85,High,57,42,0,55.6,High,255,127,14,190,2026-03-15
+ASSET-00111,Public Realm Asset,43.75023,-79.19565,Flemingdon Park,Ward 10,East District,Weekly,100,40,75,Low,50,72,2,65.0,High,255,127,14,190,2026-02-13
+ASSET-00112,Public Realm Asset,43.68755,-79.281236,North York Centre,Ward 5,South District,3x weekly,45,48,100,Medium,62,96,1,52.1,Moderate,255,193,7,170,2026-01-20
+ASSET-00113,Litter Bin,43.725993,-79.436459,High Park North,Ward 25,South District,2x weekly,41,35,74,High,52,86,1,60.8,High,255,127,14,190,2026-01-30
+ASSET-00114,Park Waste Bin,43.713601,-79.196866,Flemingdon Park,Ward 10,South District,3x weekly,58,28,56,High,42,0,0,55.5,High,255,127,14,190,2026-04-26
+ASSET-00115,Park Waste Bin,43.641659,-79.411878,Danforth East York,Ward 18,South District,Weekly,34,9,68,Medium,69,108,1,44.5,Moderate,255,193,7,170,2026-01-08
+ASSET-00116,Recycling Bin,43.800415,-79.453299,Etobicoke Centre,Ward 13,North District,Weekly,56,32,28,Medium,34,42,3,62.8,High,255,127,14,190,2026-03-15
+ASSET-00117,Public Realm Asset,43.60963,-79.161438,Scarborough Village,Ward 22,North District,Weekly,100,62,69,Low,51,2,0,60.0,High,255,127,14,190,2026-04-24
+ASSET-00118,Container,43.638278,-79.206895,Danforth East York,Ward 4,South District,Daily,100,39,74,Low,62,44,0,57.4,High,255,127,14,190,2026-03-13
+ASSET-00119,Recycling Bin,43.719913,-79.589774,Scarborough Village,Ward 21,North District,Daily,49,25,73,High,51,24,1,53.0,Moderate,255,193,7,170,2026-04-02
+ASSET-00120,Park Waste Bin,43.682176,-79.362565,Etobicoke Centre,Ward 23,South District,Daily,56,71,28,Medium,22,86,3,80.0,Critical,214,39,40,210,2026-01-30
+ASSET-00121,Public Realm Asset,43.73812,-79.431982,Danforth East York,Ward 21,South District,On demand,54,29,50,Medium,56,15,3,53.5,Moderate,255,193,7,170,2026-04-11
+ASSET-00122,Recycling Bin,43.594533,-79.57211,York University Heights,Ward 22,East District,3x weekly,81,65,86,Low,44,2,1,52.9,Moderate,255,193,7,170,2026-04-24
+ASSET-00123,Litter Bin,43.612872,-79.508141,Agincourt South,Ward 6,East District,Daily,50,48,53,Low,37,72,1,52.3,Moderate,255,193,7,170,2026-02-13
+ASSET-00124,Park Waste Bin,43.74366,-79.525707,Danforth East York,Ward 12,South District,3x weekly,76,47,67,Low,41,89,0,58.4,High,255,127,14,190,2026-01-27
+ASSET-00125,Container,43.686928,-79.209371,York University Heights,Ward 6,North District,3x weekly,74,31,79,Low,64,0,1,41.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00126,Container,43.725768,-79.496691,York University Heights,Ward 8,South District,On demand,51,61,62,Low,45,0,1,45.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00127,Park Waste Bin,43.657727,-79.183711,Agincourt South,Ward 9,West District,Weekly,35,76,38,Low,31,109,0,61.1,High,255,127,14,190,2026-01-07
+ASSET-00128,Recycling Bin,43.795747,-79.252067,Downtown Yonge East,Ward 15,East District,On demand,50,46,73,Medium,60,86,2,59.4,High,255,127,14,190,2026-01-30
+ASSET-00129,Park Waste Bin,43.7357,-79.501372,Agincourt South,Ward 10,North District,Weekly,54,36,79,Medium,62,0,2,45.9,Moderate,255,193,7,170,2026-04-26
+ASSET-00130,Public Realm Asset,43.629486,-79.494739,Etobicoke Centre,Ward 12,East District,2x weekly,65,33,74,Medium,55,58,0,53.1,Moderate,255,193,7,170,2026-02-27
+ASSET-00131,Park Waste Bin,43.739827,-79.238319,Waterfront Communities,Ward 19,West District,On demand,66,16,80,Low,69,0,3,37.9,Moderate,255,193,7,170,2026-04-26
+ASSET-00132,Recycling Bin,43.630335,-79.199371,Etobicoke Centre,Ward 12,North District,3x weekly,67,59,100,Medium,60,83,3,65.5,High,255,127,14,190,2026-02-02
+ASSET-00133,Litter Bin,43.628245,-79.280505,York University Heights,Ward 21,West District,2x weekly,23,9,63,High,56,45,0,41.8,Moderate,255,193,7,170,2026-03-12
+ASSET-00134,Park Waste Bin,43.6564,-79.456391,Flemingdon Park,Ward 5,West District,2x weekly,65,21,63,Medium,66,0,0,44.5,Moderate,255,193,7,170,2026-04-26
+ASSET-00135,Recycling Bin,43.742644,-79.189058,Kensington Chinatown,Ward 5,East District,On demand,41,61,57,Medium,44,145,2,67.2,High,255,127,14,190,2025-12-02
+ASSET-00136,Park Waste Bin,43.704164,-79.345452,Agincourt South,Ward 10,East District,Daily,43,53,64,High,42,49,0,62.3,High,255,127,14,190,2026-03-08
+ASSET-00137,Recycling Bin,43.748333,-79.419979,York University Heights,Ward 24,South District,On demand,86,22,73,Medium,56,112,0,64.1,High,255,127,14,190,2026-01-04
+ASSET-00138,Litter Bin,43.652593,-79.348494,High Park North,Ward 18,West District,Weekly,76,25,84,Medium,68,81,0,55.4,High,255,127,14,190,2026-02-04
+ASSET-00139,Container,43.632581,-79.370726,Scarborough Village,Ward 21,East District,Daily,46,32,72,Medium,56,68,2,51.8,Moderate,255,193,7,170,2026-02-17
+ASSET-00140,Container,43.749224,-79.22937,North York Centre,Ward 11,North District,Daily,69,51,83,Low,46,86,1,55.6,High,255,127,14,190,2026-01-30
+ASSET-00141,Public Realm Asset,43.631532,-79.358745,Downtown Yonge East,Ward 5,West District,Daily,60,1,81,Medium,72,52,2,43.6,Moderate,255,193,7,170,2026-03-05
+ASSET-00142,Litter Bin,43.78827,-79.231507,Kensington Chinatown,Ward 18,North District,Weekly,39,61,73,Medium,41,70,1,56.1,High,255,127,14,190,2026-02-15
+ASSET-00143,Public Realm Asset,43.642902,-79.564539,Etobicoke Centre,Ward 24,North District,Weekly,81,26,75,Medium,68,27,0,52.5,Moderate,255,193,7,170,2026-03-30
+ASSET-00144,Container,43.605032,-79.474966,Scarborough Village,Ward 9,West District,2x weekly,66,27,95,Low,75,11,3,39.6,Moderate,255,193,7,170,2026-04-15
+ASSET-00145,Recycling Bin,43.793775,-79.336703,Danforth East York,Ward 4,East District,On demand,92,42,91,Low,67,0,1,48.6,Moderate,255,193,7,170,2026-04-26
+ASSET-00146,Park Waste Bin,43.700371,-79.331347,Kensington Chinatown,Ward 4,South District,Daily,63,61,65,Medium,46,98,0,67.6,High,255,127,14,190,2026-01-18
+ASSET-00147,Container,43.644919,-79.569182,Waterfront Communities,Ward 2,East District,3x weekly,52,69,100,Low,67,25,2,46.0,Moderate,255,193,7,170,2026-04-01
+ASSET-00148,Recycling Bin,43.599681,-79.611778,Downtown Yonge East,Ward 25,North District,On demand,33,17,56,Low,64,15,3,33.3,Low,44,160,44,160,2026-04-11
+ASSET-00149,Park Waste Bin,43.640198,-79.183018,Annex,Ward 20,West District,2x weekly,61,43,100,Low,63,7,3,41.1,Moderate,255,193,7,170,2026-04-19
+ASSET-00150,Park Waste Bin,43.731085,-79.543164,Annex,Ward 4,West District,3x weekly,82,33,73,Low,65,70,0,52.8,Moderate,255,193,7,170,2026-02-15
+ASSET-00151,Container,43.643054,-79.538797,Danforth East York,Ward 1,North District,2x weekly,65,48,78,Low,52,138,0,55.5,High,255,127,14,190,2025-12-09
+ASSET-00152,Container,43.603304,-79.174213,Downtown Yonge East,Ward 24,West District,Weekly,48,25,63,Low,59,90,0,42.9,Moderate,255,193,7,170,2026-01-26
+ASSET-00153,Container,43.777642,-79.516757,Etobicoke Centre,Ward 4,South District,On demand,91,25,59,Medium,55,62,3,69.3,High,255,127,14,190,2026-02-23
+ASSET-00154,Container,43.611042,-79.216368,High Park North,Ward 15,West District,Daily,66,4,100,Low,71,113,1,40.3,Moderate,255,193,7,170,2026-01-03
+ASSET-00155,Public Realm Asset,43.740706,-79.366606,York University Heights,Ward 4,South District,Weekly,49,29,78,Medium,63,57,3,51.4,Moderate,255,193,7,170,2026-02-28
+ASSET-00156,Container,43.756387,-79.391897,Annex,Ward 3,North District,2x weekly,58,20,50,Low,52,17,0,38.4,Moderate,255,193,7,170,2026-04-09
+ASSET-00157,Container,43.700535,-79.347492,Flemingdon Park,Ward 11,South District,On demand,51,42,73,High,63,90,2,69.1,High,255,127,14,190,2026-01-26
+ASSET-00158,Container,43.651417,-79.21583,Etobicoke Centre,Ward 14,West District,Daily,51,60,85,High,58,115,0,70.8,High,255,127,14,190,2026-01-01
+ASSET-00159,Public Realm Asset,43.750418,-79.307135,Agincourt South,Ward 8,South District,2x weekly,74,62,87,High,50,64,2,77.1,Critical,214,39,40,210,2026-02-21
+ASSET-00160,Litter Bin,43.667077,-79.277986,Danforth East York,Ward 14,East District,2x weekly,91,52,71,Medium,53,50,1,69.5,High,255,127,14,190,2026-03-07
+ASSET-00161,Litter Bin,43.591469,-79.487962,Downtown Yonge East,Ward 3,West District,Weekly,69,29,74,Medium,65,93,0,57.7,High,255,127,14,190,2026-01-23
+ASSET-00162,Recycling Bin,43.735821,-79.371607,North York Centre,Ward 2,East District,Daily,66,39,50,Low,46,73,2,57.9,High,255,127,14,190,2026-02-12
+ASSET-00163,Litter Bin,43.811488,-79.462739,High Park North,Ward 20,East District,2x weekly,55,42,78,Medium,60,104,0,57.2,High,255,127,14,190,2026-01-12
+ASSET-00164,Recycling Bin,43.659222,-79.294241,Annex,Ward 22,South District,3x weekly,74,42,66,Low,58,52,1,53.8,Moderate,255,193,7,170,2026-03-05
+ASSET-00165,Park Waste Bin,43.600521,-79.219093,Downtown Yonge East,Ward 25,East District,On demand,64,22,94,Low,78,0,0,30.2,Low,44,160,44,160,2026-04-26
+ASSET-00166,Container,43.747158,-79.414885,Etobicoke Centre,Ward 20,West District,On demand,50,46,100,Low,68,42,3,42.5,Moderate,255,193,7,170,2026-03-15
+ASSET-00167,Park Waste Bin,43.749547,-79.518446,Flemingdon Park,Ward 25,East District,2x weekly,31,0,81,Medium,68,25,0,25.8,Low,44,160,44,160,2026-04-01
+ASSET-00168,Recycling Bin,43.808699,-79.550513,Etobicoke Centre,Ward 22,South District,Daily,67,25,52,Medium,46,78,0,58.3,High,255,127,14,190,2026-02-07
+ASSET-00169,Litter Bin,43.681447,-79.493861,Downtown Yonge East,Ward 24,North District,Weekly,75,35,100,Low,79,4,2,41.2,Moderate,255,193,7,170,2026-04-22
+ASSET-00170,Recycling Bin,43.639014,-79.605678,Danforth East York,Ward 10,East District,On demand,61,43,69,Medium,53,58,1,57.7,High,255,127,14,190,2026-02-27
+ASSET-00171,Recycling Bin,43.812684,-79.534658,Annex,Ward 25,West District,Daily,35,69,72,High,36,87,0,67.4,High,255,127,14,190,2026-01-29
+ASSET-00172,Public Realm Asset,43.765036,-79.331939,Etobicoke Centre,Ward 15,South District,2x weekly,69,48,83,Medium,60,62,1,59.7,High,255,127,14,190,2026-02-23
+ASSET-00173,Litter Bin,43.616981,-79.562415,Danforth East York,Ward 14,West District,2x weekly,66,53,72,Low,56,99,3,63.0,High,255,127,14,190,2026-01-17
+ASSET-00174,Park Waste Bin,43.604768,-79.352293,Waterfront Communities,Ward 8,South District,On demand,47,77,73,High,48,0,1,64.9,High,255,127,14,190,2026-04-26
+ASSET-00175,Park Waste Bin,43.592673,-79.586674,Kensington Chinatown,Ward 25,North District,2x weekly,79,23,66,Low,54,0,0,41.3,Moderate,255,193,7,170,2026-04-26
+ASSET-00176,Litter Bin,43.749846,-79.224344,Agincourt South,Ward 24,South District,3x weekly,52,0,47,Medium,51,73,0,45.9,Moderate,255,193,7,170,2026-02-12
+ASSET-00177,Recycling Bin,43.732176,-79.296866,North York Centre,Ward 18,East District,Daily,41,36,73,Low,64,0,1,32.5,Low,44,160,44,160,2026-04-26
+ASSET-00178,Public Realm Asset,43.610209,-79.458712,Waterfront Communities,Ward 15,West District,2x weekly,57,38,77,Medium,49,0,3,50.0,Moderate,255,193,7,170,2026-04-26
+ASSET-00179,Public Realm Asset,43.774135,-79.527931,Flemingdon Park,Ward 21,South District,2x weekly,40,31,100,High,79,69,1,51.9,Moderate,255,193,7,170,2026-02-16
+ASSET-00180,Park Waste Bin,43.753084,-79.219354,Annex,Ward 20,South District,2x weekly,91,58,75,Low,40,20,1,58.8,High,255,127,14,190,2026-04-06
+ASSET-00181,Recycling Bin,43.608426,-79.208384,Scarborough Village,Ward 19,South District,On demand,80,51,91,Low,53,24,1,50.1,Moderate,255,193,7,170,2026-04-02
+ASSET-00182,Park Waste Bin,43.711073,-79.283469,Kensington Chinatown,Ward 11,North District,Daily,89,42,100,Low,66,18,1,48.0,Moderate,255,193,7,170,2026-04-08
+ASSET-00183,Container,43.814449,-79.465028,North York Centre,Ward 7,East District,2x weekly,48,27,68,High,51,61,2,60.9,High,255,127,14,190,2026-02-24
+ASSET-00184,Recycling Bin,43.717734,-79.289167,High Park North,Ward 7,North District,On demand,72,25,73,Low,54,126,0,52.1,Moderate,255,193,7,170,2025-12-21
+ASSET-00185,Litter Bin,43.606606,-79.6059,Annex,Ward 25,South District,Weekly,62,40,84,Low,70,6,3,43.7,Moderate,255,193,7,170,2026-04-20
+ASSET-00186,Public Realm Asset,43.760822,-79.424273,York University Heights,Ward 19,East District,2x weekly,56,1,80,High,80,69,3,56.5,High,255,127,14,190,2026-02-16
+ASSET-00187,Public Realm Asset,43.690882,-79.286381,Agincourt South,Ward 21,East District,2x weekly,36,5,77,Low,61,84,1,31.2,Low,44,160,44,160,2026-02-01
+ASSET-00188,Container,43.65367,-79.347519,Downtown Yonge East,Ward 10,South District,Weekly,84,37,71,High,57,78,0,74.0,High,255,127,14,190,2026-02-07
+ASSET-00189,Park Waste Bin,43.75464,-79.201845,Downtown Yonge East,Ward 21,West District,On demand,93,68,63,Low,42,60,0,67.8,High,255,127,14,190,2026-02-25
+ASSET-00190,Public Realm Asset,43.646863,-79.219455,Etobicoke Centre,Ward 18,West District,Weekly,50,23,73,High,63,89,1,60.9,High,255,127,14,190,2026-01-27
+ASSET-00191,Park Waste Bin,43.62761,-79.440102,Etobicoke Centre,Ward 16,North District,Daily,78,0,93,High,74,0,2,50.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00192,Litter Bin,43.813059,-79.411257,North York Centre,Ward 21,North District,Daily,34,63,66,Medium,44,58,0,52.8,Moderate,255,193,7,170,2026-02-27
+ASSET-00193,Public Realm Asset,43.689104,-79.505591,North York Centre,Ward 17,North District,2x weekly,63,9,90,Low,78,26,2,34.0,Low,44,160,44,160,2026-03-31
+ASSET-00194,Public Realm Asset,43.598434,-79.281255,Danforth East York,Ward 22,West District,2x weekly,93,56,68,Medium,50,31,0,67.6,High,255,127,14,190,2026-03-26
+ASSET-00195,Container,43.724632,-79.220595,York University Heights,Ward 13,East District,2x weekly,55,83,80,Low,36,61,0,55.8,High,255,127,14,190,2026-02-24
+ASSET-00196,Park Waste Bin,43.712169,-79.189161,Downtown Yonge East,Ward 19,North District,2x weekly,56,33,72,High,51,43,3,64.5,High,255,127,14,190,2026-03-14
+ASSET-00197,Recycling Bin,43.599562,-79.551762,Etobicoke Centre,Ward 23,West District,2x weekly,77,36,75,Medium,60,0,2,54.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00198,Park Waste Bin,43.702435,-79.313242,Annex,Ward 22,West District,Weekly,81,45,90,High,71,0,1,63.8,High,255,127,14,190,2026-04-26
+ASSET-00199,Park Waste Bin,43.81308,-79.576806,High Park North,Ward 6,North District,2x weekly,85,15,84,High,59,4,0,56.0,High,255,127,14,190,2026-04-22
+ASSET-00200,Recycling Bin,43.749304,-79.234467,Annex,Ward 3,East District,Daily,48,80,70,Medium,37,53,0,61.4,High,255,127,14,190,2026-03-04
+ASSET-00201,Container,43.789848,-79.35752,Waterfront Communities,Ward 22,East District,On demand,65,46,100,High,72,42,3,65.8,High,255,127,14,190,2026-03-15
+ASSET-00202,Recycling Bin,43.680589,-79.320433,Annex,Ward 6,North District,Weekly,85,64,84,Low,54,1,1,54.3,Moderate,255,193,7,170,2026-04-25
+ASSET-00203,Recycling Bin,43.790273,-79.260103,Agincourt South,Ward 20,East District,Weekly,68,21,72,Low,63,57,1,44.8,Moderate,255,193,7,170,2026-02-28
+ASSET-00204,Park Waste Bin,43.665218,-79.312907,Agincourt South,Ward 7,East District,On demand,95,47,69,Low,48,81,1,65.7,High,255,127,14,190,2026-02-04
+ASSET-00205,Public Realm Asset,43.778102,-79.564704,North York Centre,Ward 17,South District,3x weekly,74,53,68,Medium,48,97,1,70.3,High,255,127,14,190,2026-01-19
+ASSET-00206,Recycling Bin,43.68112,-79.300085,High Park North,Ward 2,South District,2x weekly,58,38,55,Low,57,0,3,46.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00207,Litter Bin,43.642272,-79.58633,High Park North,Ward 3,North District,2x weekly,41,0,63,High,71,0,0,39.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00208,Public Realm Asset,43.677351,-79.222867,Downtown Yonge East,Ward 8,South District,2x weekly,96,60,62,Medium,37,130,1,83.2,Critical,214,39,40,210,2025-12-17
+ASSET-00209,Public Realm Asset,43.72344,-79.374543,North York Centre,Ward 12,North District,Weekly,9,88,50,Low,19,0,1,41.5,Moderate,255,193,7,170,2026-04-26
+ASSET-00210,Litter Bin,43.80977,-79.611613,Danforth East York,Ward 4,East District,3x weekly,91,50,84,Low,54,77,0,59.7,High,255,127,14,190,2026-02-08
+ASSET-00211,Public Realm Asset,43.603861,-79.190159,Flemingdon Park,Ward 5,South District,Weekly,77,44,75,Low,54,42,0,50.4,Moderate,255,193,7,170,2026-03-15
+ASSET-00212,Litter Bin,43.655521,-79.478647,High Park North,Ward 7,North District,On demand,46,31,45,High,38,41,0,59.5,High,255,127,14,190,2026-03-16
+ASSET-00213,Litter Bin,43.754715,-79.494593,High Park North,Ward 8,East District,Daily,65,68,89,High,56,0,1,65.3,High,255,127,14,190,2026-04-26
+ASSET-00214,Container,43.631731,-79.378425,Agincourt South,Ward 3,West District,Weekly,41,33,83,Low,65,8,0,28.6,Low,44,160,44,160,2026-04-18
+ASSET-00215,Container,43.811473,-79.397569,Etobicoke Centre,Ward 8,North District,2x weekly,49,45,46,High,31,61,1,69.1,High,255,127,14,190,2026-02-24
+ASSET-00216,Park Waste Bin,43.808823,-79.343259,Kensington Chinatown,Ward 19,South District,3x weekly,66,68,76,Medium,56,28,0,59.8,High,255,127,14,190,2026-03-29
+ASSET-00217,Litter Bin,43.730526,-79.430927,North York Centre,Ward 18,West District,Weekly,63,38,62,Low,52,19,1,45.4,Moderate,255,193,7,170,2026-04-07
+ASSET-00218,Public Realm Asset,43.779201,-79.42508,Danforth East York,Ward 9,West District,2x weekly,35,22,61,Medium,66,79,0,44.5,Moderate,255,193,7,170,2026-02-06
+ASSET-00219,Litter Bin,43.72492,-79.542713,Etobicoke Centre,Ward 24,East District,3x weekly,47,44,59,Low,45,126,0,51.9,Moderate,255,193,7,170,2025-12-21
+ASSET-00220,Park Waste Bin,43.595437,-79.324693,York University Heights,Ward 6,South District,Weekly,75,47,70,Low,59,40,0,51.4,Moderate,255,193,7,170,2026-03-17
+ASSET-00221,Litter Bin,43.72673,-79.391487,Flemingdon Park,Ward 25,South District,Daily,82,86,64,Low,29,0,3,67.7,High,255,127,14,190,2026-04-26
+ASSET-00222,Recycling Bin,43.74926,-79.164022,Waterfront Communities,Ward 11,East District,On demand,45,74,100,Medium,47,23,0,48.8,Moderate,255,193,7,170,2026-04-03
+ASSET-00223,Public Realm Asset,43.609701,-79.208672,High Park North,Ward 2,North District,2x weekly,73,73,67,Medium,48,37,3,72.7,High,255,127,14,190,2026-03-20
+ASSET-00224,Park Waste Bin,43.605967,-79.381232,High Park North,Ward 4,East District,Weekly,49,15,62,Medium,50,0,3,43.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00225,Public Realm Asset,43.71258,-79.470806,Danforth East York,Ward 6,South District,Weekly,66,3,79,Medium,75,76,2,49.7,Moderate,255,193,7,170,2026-02-09
+ASSET-00226,Park Waste Bin,43.696997,-79.592335,Downtown Yonge East,Ward 24,South District,Daily,87,11,100,Medium,84,60,3,55.2,High,255,127,14,190,2026-02-25
+ASSET-00227,Container,43.636215,-79.373519,High Park North,Ward 11,West District,Daily,73,39,83,Medium,55,10,1,51.9,Moderate,255,193,7,170,2026-04-16
+ASSET-00228,Park Waste Bin,43.74293,-79.254093,Agincourt South,Ward 20,South District,3x weekly,59,18,61,Medium,57,91,2,57.2,High,255,127,14,190,2026-01-25
+ASSET-00229,Litter Bin,43.70982,-79.333151,Flemingdon Park,Ward 12,South District,2x weekly,39,31,94,Medium,72,50,0,38.4,Moderate,255,193,7,170,2026-03-07
+ASSET-00230,Public Realm Asset,43.769866,-79.293977,Danforth East York,Ward 17,North District,Daily,66,31,76,Low,70,39,0,42.1,Moderate,255,193,7,170,2026-03-18
+ASSET-00231,Public Realm Asset,43.681306,-79.414287,Waterfront Communities,Ward 5,West District,3x weekly,45,8,42,Low,62,64,3,43.8,Moderate,255,193,7,170,2026-02-21
+ASSET-00232,Container,43.818196,-79.228345,Waterfront Communities,Ward 20,North District,Weekly,70,92,73,Medium,39,76,0,75.0,Critical,214,39,40,210,2026-02-09
+ASSET-00233,Litter Bin,43.789653,-79.249274,Etobicoke Centre,Ward 5,East District,Weekly,63,35,89,Medium,68,33,0,46.9,Moderate,255,193,7,170,2026-03-24
+ASSET-00234,Recycling Bin,43.629911,-79.300322,Downtown Yonge East,Ward 1,North District,Weekly,47,59,71,Medium,46,16,2,54.0,Moderate,255,193,7,170,2026-04-10
+ASSET-00235,Litter Bin,43.620481,-79.223473,High Park North,Ward 25,East District,Weekly,62,37,92,High,72,63,1,62.3,High,255,127,14,190,2026-02-22
+ASSET-00236,Public Realm Asset,43.630213,-79.38882,Kensington Chinatown,Ward 4,North District,Daily,61,55,97,Low,60,66,1,48.7,Moderate,255,193,7,170,2026-02-19
+ASSET-00237,Litter Bin,43.595937,-79.557824,York University Heights,Ward 11,East District,Daily,39,31,63,Medium,58,37,0,43.0,Moderate,255,193,7,170,2026-03-20
+ASSET-00238,Park Waste Bin,43.661718,-79.387175,Annex,Ward 23,North District,2x weekly,63,49,72,High,51,63,1,70.2,High,255,127,14,190,2026-02-22
+ASSET-00239,Recycling Bin,43.732505,-79.320907,Annex,Ward 8,South District,Daily,42,34,53,High,41,67,0,60.7,High,255,127,14,190,2026-02-18
+ASSET-00240,Park Waste Bin,43.816246,-79.509977,Agincourt South,Ward 18,North District,On demand,57,70,76,Medium,54,32,1,59.8,High,255,127,14,190,2026-03-25
+ASSET-00241,Public Realm Asset,43.707167,-79.161519,Flemingdon Park,Ward 24,South District,On demand,49,31,67,Low,55,51,0,39.4,Moderate,255,193,7,170,2026-03-06
+ASSET-00242,Container,43.71122,-79.424002,Downtown Yonge East,Ward 5,East District,Daily,71,64,90,Medium,58,0,3,60.0,High,255,127,14,190,2026-04-26
+ASSET-00243,Park Waste Bin,43.780334,-79.282537,Annex,Ward 25,North District,3x weekly,33,33,54,Medium,55,0,1,40.6,Moderate,255,193,7,170,2026-04-26
+ASSET-00244,Litter Bin,43.713121,-79.521007,North York Centre,Ward 5,East District,3x weekly,49,0,64,Medium,56,59,1,41.7,Moderate,255,193,7,170,2026-02-26
+ASSET-00245,Park Waste Bin,43.694507,-79.231596,North York Centre,Ward 10,West District,2x weekly,61,50,76,Low,50,8,0,42.1,Moderate,255,193,7,170,2026-04-18
+ASSET-00246,Park Waste Bin,43.759592,-79.401032,Annex,Ward 21,East District,On demand,61,17,66,Low,67,11,2,38.6,Moderate,255,193,7,170,2026-04-15
+ASSET-00247,Recycling Bin,43.795179,-79.180546,Etobicoke Centre,Ward 19,North District,3x weekly,33,2,99,High,86,37,0,35.0,Moderate,255,193,7,170,2026-03-20
+ASSET-00248,Park Waste Bin,43.648574,-79.233199,Etobicoke Centre,Ward 2,West District,Daily,47,60,63,High,53,114,2,77.8,Critical,214,39,40,210,2026-01-02
+ASSET-00249,Park Waste Bin,43.736434,-79.337591,York University Heights,Ward 7,South District,On demand,100,24,86,Low,75,56,2,56.0,High,255,127,14,190,2026-03-01
+ASSET-00250,Container,43.707811,-79.307095,High Park North,Ward 21,East District,Weekly,62,21,81,Low,76,19,1,36.2,Moderate,255,193,7,170,2026-04-07
+ASSET-00251,Park Waste Bin,43.670432,-79.263659,Agincourt South,Ward 3,West District,3x weekly,54,42,51,Low,47,8,3,48.3,Moderate,255,193,7,170,2026-04-18
+ASSET-00252,Public Realm Asset,43.650961,-79.610365,Kensington Chinatown,Ward 11,North District,2x weekly,40,49,94,Medium,67,72,1,48.9,Moderate,255,193,7,170,2026-02-13
+ASSET-00253,Public Realm Asset,43.637308,-79.564162,Annex,Ward 25,East District,On demand,82,21,49,Medium,52,102,2,70.0,High,255,127,14,190,2026-01-14
+ASSET-00254,Recycling Bin,43.599649,-79.174495,Agincourt South,Ward 4,East District,Weekly,89,50,81,High,55,127,0,81.9,Critical,214,39,40,210,2025-12-20
+ASSET-00255,Litter Bin,43.723957,-79.275886,High Park North,Ward 13,South District,3x weekly,48,58,74,Low,43,55,0,46.3,Moderate,255,193,7,170,2026-03-02
+ASSET-00256,Container,43.803459,-79.516677,Flemingdon Park,Ward 11,North District,3x weekly,73,61,67,Low,45,13,3,58.1,High,255,127,14,190,2026-04-13
+ASSET-00257,Public Realm Asset,43.806907,-79.509281,High Park North,Ward 16,West District,Daily,40,0,100,Medium,86,3,1,24.4,Low,44,160,44,160,2026-04-23
+ASSET-00258,Recycling Bin,43.655759,-79.244664,Kensington Chinatown,Ward 19,East District,Daily,57,31,79,Medium,65,75,1,52.8,Moderate,255,193,7,170,2026-02-10
+ASSET-00259,Container,43.78366,-79.284894,York University Heights,Ward 22,South District,2x weekly,58,44,69,Low,57,106,0,53.0,Moderate,255,193,7,170,2026-01-10
+ASSET-00260,Public Realm Asset,43.816474,-79.188801,Annex,Ward 9,East District,Weekly,75,63,77,High,42,0,0,67.8,High,255,127,14,190,2026-04-26
+ASSET-00261,Litter Bin,43.706346,-79.233277,Etobicoke Centre,Ward 18,North District,2x weekly,70,23,65,Medium,60,67,0,54.8,Moderate,255,193,7,170,2026-02-18
+ASSET-00262,Public Realm Asset,43.658436,-79.36009,North York Centre,Ward 15,East District,On demand,68,75,78,High,37,143,0,82.7,Critical,214,39,40,210,2025-12-04
+ASSET-00263,Litter Bin,43.626816,-79.407684,Scarborough Village,Ward 12,East District,On demand,77,46,95,High,57,70,0,68.5,High,255,127,14,190,2026-02-15
+ASSET-00264,Recycling Bin,43.71767,-79.282787,Etobicoke Centre,Ward 17,South District,On demand,57,19,64,Medium,53,67,3,55.2,High,255,127,14,190,2026-02-18
+ASSET-00265,Recycling Bin,43.717472,-79.617594,Flemingdon Park,Ward 11,South District,On demand,36,47,94,Low,53,21,0,30.5,Low,44,160,44,160,2026-04-05
+ASSET-00266,Container,43.665194,-79.551511,Annex,Ward 11,East District,3x weekly,45,52,71,Medium,59,60,0,52.6,Moderate,255,193,7,170,2026-02-25
+ASSET-00267,Container,43.793825,-79.3472,Danforth East York,Ward 17,South District,On demand,77,29,100,Medium,70,29,1,49.3,Moderate,255,193,7,170,2026-03-28
+ASSET-00268,Park Waste Bin,43.772665,-79.577224,Danforth East York,Ward 22,West District,Weekly,32,0,48,Medium,48,92,1,43.1,Moderate,255,193,7,170,2026-01-24
+ASSET-00269,Litter Bin,43.723396,-79.361717,Etobicoke Centre,Ward 16,East District,On demand,50,94,64,High,42,52,0,77.4,Critical,214,39,40,210,2026-03-05
+ASSET-00270,Container,43.652059,-79.240477,Agincourt South,Ward 6,South District,3x weekly,100,64,91,High,46,67,0,82.4,Critical,214,39,40,210,2026-02-18
+ASSET-00271,Litter Bin,43.770526,-79.294467,Kensington Chinatown,Ward 1,South District,2x weekly,44,37,71,Low,64,27,0,35.7,Moderate,255,193,7,170,2026-03-30
+ASSET-00272,Recycling Bin,43.665484,-79.420351,Scarborough Village,Ward 17,South District,Daily,63,70,54,Medium,39,37,0,64.9,High,255,127,14,190,2026-03-20
+ASSET-00273,Container,43.81962,-79.190768,Danforth East York,Ward 22,South District,On demand,60,35,99,Low,65,68,1,42.2,Moderate,255,193,7,170,2026-02-17
+ASSET-00274,Public Realm Asset,43.617217,-79.431444,North York Centre,Ward 11,East District,2x weekly,40,78,94,Medium,47,67,0,55.0,High,255,127,14,190,2026-02-18
+ASSET-00275,Recycling Bin,43.63243,-79.453372,High Park North,Ward 18,East District,3x weekly,54,61,100,High,56,103,1,70.1,High,255,127,14,190,2026-01-13
+ASSET-00276,Recycling Bin,43.649638,-79.422358,Flemingdon Park,Ward 23,South District,2x weekly,64,0,79,Medium,71,39,3,45.5,Moderate,255,193,7,170,2026-03-18
+ASSET-00277,Park Waste Bin,43.6207,-79.582923,High Park North,Ward 4,South District,Weekly,72,26,54,Medium,59,0,0,50.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00278,Park Waste Bin,43.766068,-79.546902,Waterfront Communities,Ward 10,West District,2x weekly,61,76,100,Medium,49,27,3,61.5,High,255,127,14,190,2026-03-30
+ASSET-00279,Public Realm Asset,43.810021,-79.588279,Kensington Chinatown,Ward 7,East District,On demand,41,44,87,Medium,58,91,2,53.5,Moderate,255,193,7,170,2026-01-25
+ASSET-00280,Container,43.798439,-79.505209,Flemingdon Park,Ward 19,North District,3x weekly,59,33,59,Medium,45,13,0,48.4,Moderate,255,193,7,170,2026-04-13
+ASSET-00281,Recycling Bin,43.605034,-79.395717,York University Heights,Ward 8,West District,Daily,81,20,99,Low,80,34,2,42.8,Moderate,255,193,7,170,2026-03-23
+ASSET-00282,Litter Bin,43.595019,-79.314657,York University Heights,Ward 25,North District,Daily,11,57,86,Medium,60,34,0,36.0,Moderate,255,193,7,170,2026-03-23
+ASSET-00283,Public Realm Asset,43.758089,-79.168603,Agincourt South,Ward 21,North District,2x weekly,63,49,47,High,44,24,0,68.3,High,255,127,14,190,2026-04-02
+ASSET-00284,Litter Bin,43.696704,-79.172878,Downtown Yonge East,Ward 21,North District,On demand,78,10,78,Medium,78,0,0,42.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00285,Recycling Bin,43.785642,-79.361838,Waterfront Communities,Ward 13,South District,3x weekly,28,63,61,Low,45,14,0,38.2,Moderate,255,193,7,170,2026-04-12
+ASSET-00286,Park Waste Bin,43.605564,-79.294396,Etobicoke Centre,Ward 20,West District,2x weekly,40,39,81,Medium,49,71,0,46.4,Moderate,255,193,7,170,2026-02-14
+ASSET-00287,Container,43.628128,-79.184979,North York Centre,Ward 16,North District,On demand,44,39,55,Medium,58,0,1,46.1,Moderate,255,193,7,170,2026-04-26
+ASSET-00288,Litter Bin,43.739724,-79.369101,Danforth East York,Ward 6,South District,2x weekly,71,57,33,Medium,27,6,0,64.1,High,255,127,14,190,2026-04-20
+ASSET-00289,Park Waste Bin,43.60195,-79.258312,Etobicoke Centre,Ward 22,North District,3x weekly,62,21,70,Low,61,97,0,46.1,Moderate,255,193,7,170,2026-01-19
+ASSET-00290,Public Realm Asset,43.764053,-79.381083,Scarborough Village,Ward 17,East District,Daily,48,20,65,High,69,8,3,54.8,Moderate,255,193,7,170,2026-04-18
+ASSET-00291,Recycling Bin,43.816548,-79.264874,Annex,Ward 16,East District,3x weekly,68,32,69,Medium,49,0,2,51.6,Moderate,255,193,7,170,2026-04-26
+ASSET-00292,Recycling Bin,43.614259,-79.317881,Agincourt South,Ward 25,East District,2x weekly,80,36,70,Low,57,166,0,58.8,High,255,127,14,190,2025-11-11
+ASSET-00293,Litter Bin,43.656042,-79.255287,High Park North,Ward 21,East District,3x weekly,53,63,75,Medium,56,0,1,52.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00294,Public Realm Asset,43.800471,-79.374807,High Park North,Ward 6,South District,On demand,100,61,66,Low,38,93,2,75.7,Critical,214,39,40,210,2026-01-23
+ASSET-00295,Park Waste Bin,43.787151,-79.203174,Danforth East York,Ward 20,North District,3x weekly,72,19,63,Medium,51,84,2,60.8,High,255,127,14,190,2026-02-01
+ASSET-00296,Public Realm Asset,43.691274,-79.336963,Flemingdon Park,Ward 20,East District,Weekly,54,29,57,Low,46,61,1,45.8,Moderate,255,193,7,170,2026-02-24
+ASSET-00297,Recycling Bin,43.816345,-79.312757,Kensington Chinatown,Ward 22,West District,On demand,62,69,72,High,52,62,1,75.8,Critical,214,39,40,210,2026-02-23
+ASSET-00298,Litter Bin,43.627314,-79.614201,Etobicoke Centre,Ward 4,West District,On demand,39,47,70,Medium,53,82,1,54.0,Moderate,255,193,7,170,2026-02-03
+ASSET-00299,Container,43.608264,-79.283512,Annex,Ward 6,East District,On demand,86,94,83,High,49,57,0,86.8,Critical,214,39,40,210,2026-02-28
+ASSET-00300,Container,43.753356,-79.475399,Agincourt South,Ward 3,South District,Daily,69,31,76,Medium,56,95,0,58.1,High,255,127,14,190,2026-01-21
+ASSET-00301,Public Realm Asset,43.703669,-79.239005,Agincourt South,Ward 19,West District,On demand,89,35,37,Medium,47,21,0,64.9,High,255,127,14,190,2026-04-05
+ASSET-00302,Litter Bin,43.613147,-79.509658,Scarborough Village,Ward 9,West District,3x weekly,41,26,88,Medium,66,65,2,44.7,Moderate,255,193,7,170,2026-02-20
+ASSET-00303,Public Realm Asset,43.739764,-79.334373,Danforth East York,Ward 23,West District,On demand,53,17,100,High,67,32,0,45.6,Moderate,255,193,7,170,2026-03-25
+ASSET-00304,Litter Bin,43.735853,-79.561918,High Park North,Ward 14,North District,3x weekly,82,28,80,Low,68,44,0,46.6,Moderate,255,193,7,170,2026-03-13
+ASSET-00305,Public Realm Asset,43.630223,-79.226361,Scarborough Village,Ward 13,West District,On demand,37,64,66,Medium,46,52,0,53.5,Moderate,255,193,7,170,2026-03-05
+ASSET-00306,Litter Bin,43.749655,-79.384179,Annex,Ward 18,South District,On demand,74,27,88,Low,68,0,2,40.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00307,Litter Bin,43.790377,-79.26761,Waterfront Communities,Ward 10,South District,On demand,40,23,82,Low,62,51,2,34.9,Low,44,160,44,160,2026-03-06
+ASSET-00308,Recycling Bin,43.744268,-79.362197,Kensington Chinatown,Ward 15,East District,3x weekly,75,62,80,Medium,53,35,1,63.2,High,255,127,14,190,2026-03-22
+ASSET-00309,Litter Bin,43.715729,-79.445016,York University Heights,Ward 14,West District,3x weekly,59,16,92,Medium,65,40,0,40.0,Moderate,255,193,7,170,2026-03-17
+ASSET-00310,Container,43.654409,-79.225163,Waterfront Communities,Ward 15,West District,3x weekly,50,36,79,Low,52,52,0,39.0,Moderate,255,193,7,170,2026-03-05
+ASSET-00311,Recycling Bin,43.594142,-79.177107,North York Centre,Ward 7,West District,3x weekly,72,32,86,Low,68,68,1,48.1,Moderate,255,193,7,170,2026-02-17
+ASSET-00312,Container,43.790733,-79.568213,Danforth East York,Ward 19,East District,3x weekly,42,61,64,High,41,75,0,67.6,High,255,127,14,190,2026-02-10
+ASSET-00313,Recycling Bin,43.592853,-79.404367,Scarborough Village,Ward 10,East District,Daily,69,78,70,Medium,47,31,0,65.4,High,255,127,14,190,2026-03-26
+ASSET-00314,Public Realm Asset,43.760934,-79.597854,North York Centre,Ward 16,West District,2x weekly,78,2,56,High,56,4,1,57.2,High,255,127,14,190,2026-04-22
+ASSET-00315,Park Waste Bin,43.772753,-79.604052,Flemingdon Park,Ward 14,South District,3x weekly,81,75,72,Medium,49,38,3,75.2,Critical,214,39,40,210,2026-03-19
+ASSET-00316,Container,43.611587,-79.201572,Agincourt South,Ward 8,North District,2x weekly,63,63,58,Medium,36,54,1,66.1,High,255,127,14,190,2026-03-03
+ASSET-00317,Litter Bin,43.709013,-79.422003,North York Centre,Ward 14,South District,On demand,82,49,77,Low,58,83,3,64.4,High,255,127,14,190,2026-02-02
+ASSET-00318,Recycling Bin,43.79528,-79.416045,High Park North,Ward 7,East District,Daily,48,0,82,High,75,97,0,50.5,Moderate,255,193,7,170,2026-01-19
+ASSET-00319,Litter Bin,43.64461,-79.384313,North York Centre,Ward 24,North District,Daily,95,66,100,Medium,59,73,3,76.2,Critical,214,39,40,210,2026-02-12
+ASSET-00320,Container,43.808622,-79.343701,Waterfront Communities,Ward 3,North District,On demand,56,19,100,Medium,84,38,1,40.0,Moderate,255,193,7,170,2026-03-19
+ASSET-00321,Recycling Bin,43.64851,-79.453548,Danforth East York,Ward 10,West District,3x weekly,62,75,63,High,44,52,0,76.1,Critical,214,39,40,210,2026-03-05
+ASSET-00322,Public Realm Asset,43.813453,-79.46758,Kensington Chinatown,Ward 23,North District,Weekly,49,37,66,Low,46,18,2,41.3,Moderate,255,193,7,170,2026-04-08
+ASSET-00323,Park Waste Bin,43.637608,-79.382377,Scarborough Village,Ward 15,East District,2x weekly,32,36,48,Low,46,73,1,43.5,Moderate,255,193,7,170,2026-02-12
+ASSET-00324,Public Realm Asset,43.707914,-79.484995,Agincourt South,Ward 4,South District,2x weekly,55,21,79,Medium,71,95,0,49.6,Moderate,255,193,7,170,2026-01-21
+ASSET-00325,Public Realm Asset,43.616183,-79.461197,Waterfront Communities,Ward 19,North District,3x weekly,58,52,77,Low,53,16,0,42.5,Moderate,255,193,7,170,2026-04-10
+ASSET-00326,Container,43.818348,-79.559515,Etobicoke Centre,Ward 24,South District,2x weekly,84,38,100,Low,75,42,0,46.0,Moderate,255,193,7,170,2026-03-15
+ASSET-00327,Recycling Bin,43.798751,-79.291545,Scarborough Village,Ward 19,North District,Weekly,47,4,43,Low,54,0,0,29.0,Low,44,160,44,160,2026-04-26
+ASSET-00328,Park Waste Bin,43.64925,-79.592619,Agincourt South,Ward 24,South District,Weekly,28,57,65,High,46,50,2,62.1,High,255,127,14,190,2026-03-07
+ASSET-00329,Recycling Bin,43.694934,-79.450236,Annex,Ward 24,South District,3x weekly,95,57,69,Low,49,11,2,61.9,High,255,127,14,190,2026-04-15
+ASSET-00330,Container,43.608441,-79.456805,Waterfront Communities,Ward 3,West District,Daily,57,16,71,High,54,47,2,58.4,High,255,127,14,190,2026-03-10
+ASSET-00331,Recycling Bin,43.726542,-79.61534,Downtown Yonge East,Ward 23,North District,Daily,65,47,55,Medium,55,98,0,66.1,High,255,127,14,190,2026-01-18
+ASSET-00332,Park Waste Bin,43.756514,-79.564543,Waterfront Communities,Ward 20,South District,Weekly,76,43,90,Low,66,55,1,50.4,Moderate,255,193,7,170,2026-03-02
+ASSET-00333,Container,43.657859,-79.39644,Scarborough Village,Ward 1,West District,On demand,37,40,73,Low,62,37,0,35.0,Moderate,255,193,7,170,2026-03-20
+ASSET-00334,Litter Bin,43.668928,-79.28458,North York Centre,Ward 23,South District,3x weekly,50,40,76,Medium,56,5,1,44.9,Moderate,255,193,7,170,2026-04-21
+ASSET-00335,Recycling Bin,43.744782,-79.493325,Kensington Chinatown,Ward 7,East District,2x weekly,82,47,63,Low,54,112,0,64.2,High,255,127,14,190,2026-01-04
+ASSET-00336,Litter Bin,43.779157,-79.225521,Danforth East York,Ward 13,South District,On demand,83,23,97,Medium,74,35,3,54.9,Moderate,255,193,7,170,2026-03-22
+ASSET-00337,Park Waste Bin,43.67537,-79.343506,York University Heights,Ward 3,West District,Daily,59,55,87,Low,53,0,2,43.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00338,Container,43.689022,-79.554407,Agincourt South,Ward 2,West District,3x weekly,83,62,55,Medium,42,29,1,70.3,High,255,127,14,190,2026-03-28
+ASSET-00339,Park Waste Bin,43.668339,-79.587013,Etobicoke Centre,Ward 4,West District,3x weekly,55,55,96,Low,63,98,1,50.8,Moderate,255,193,7,170,2026-01-18
+ASSET-00340,Public Realm Asset,43.673857,-79.519769,High Park North,Ward 2,West District,2x weekly,26,20,90,Low,78,106,3,36.4,Moderate,255,193,7,170,2026-01-10
+ASSET-00341,Recycling Bin,43.701686,-79.607333,Danforth East York,Ward 1,North District,On demand,61,44,60,High,39,61,1,70.2,High,255,127,14,190,2026-02-24
+ASSET-00342,Litter Bin,43.59712,-79.441526,High Park North,Ward 6,North District,On demand,73,38,66,Low,55,40,3,54.8,Moderate,255,193,7,170,2026-03-17
+ASSET-00343,Park Waste Bin,43.616712,-79.180277,Scarborough Village,Ward 25,North District,Daily,56,73,83,Medium,55,33,2,61.0,High,255,127,14,190,2026-03-24
+ASSET-00344,Litter Bin,43.816323,-79.487333,Downtown Yonge East,Ward 14,North District,Daily,76,30,93,High,69,59,2,66.4,High,255,127,14,190,2026-02-26
+ASSET-00345,Container,43.714524,-79.549093,Scarborough Village,Ward 25,East District,Daily,59,47,47,Medium,50,2,1,55.6,High,255,127,14,190,2026-04-24
+ASSET-00346,Public Realm Asset,43.691302,-79.480927,Kensington Chinatown,Ward 12,South District,Weekly,98,87,84,Medium,48,64,3,85.6,Critical,214,39,40,210,2026-02-21
+ASSET-00347,Public Realm Asset,43.652157,-79.175448,Downtown Yonge East,Ward 25,East District,3x weekly,45,24,71,Low,68,27,2,36.1,Moderate,255,193,7,170,2026-03-30
+ASSET-00348,Recycling Bin,43.69213,-79.331932,Scarborough Village,Ward 23,North District,Weekly,20,54,55,Low,40,54,0,39.0,Moderate,255,193,7,170,2026-03-03
+ASSET-00349,Litter Bin,43.732752,-79.527396,Waterfront Communities,Ward 10,South District,2x weekly,8,31,92,Medium,60,119,0,35.7,Moderate,255,193,7,170,2025-12-28
+ASSET-00350,Litter Bin,43.642382,-79.176547,Annex,Ward 14,South District,On demand,52,35,100,Medium,63,0,0,36.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00351,Litter Bin,43.62005,-79.256365,Waterfront Communities,Ward 3,East District,On demand,67,48,92,High,64,48,1,65.4,High,255,127,14,190,2026-03-09
+ASSET-00352,Park Waste Bin,43.80713,-79.551554,Scarborough Village,Ward 1,East District,Weekly,67,30,84,Low,73,30,1,41.4,Moderate,255,193,7,170,2026-03-27
+ASSET-00353,Container,43.725408,-79.447348,Kensington Chinatown,Ward 19,North District,Weekly,69,37,93,Medium,57,43,3,56.0,High,255,127,14,190,2026-03-14
+ASSET-00354,Park Waste Bin,43.707593,-79.39353,High Park North,Ward 16,North District,Daily,42,23,63,Low,55,97,0,41.1,Moderate,255,193,7,170,2026-01-19
+ASSET-00355,Public Realm Asset,43.780329,-79.268317,High Park North,Ward 16,West District,2x weekly,84,42,73,Low,53,55,1,56.3,High,255,127,14,190,2026-03-02
+ASSET-00356,Public Realm Asset,43.786411,-79.417991,Etobicoke Centre,Ward 20,North District,Weekly,73,39,70,Medium,64,39,0,56.1,High,255,127,14,190,2026-03-18
+ASSET-00357,Litter Bin,43.594397,-79.400652,Scarborough Village,Ward 11,South District,2x weekly,74,0,85,Low,74,52,0,35.4,Moderate,255,193,7,170,2026-03-05
+ASSET-00358,Container,43.658861,-79.454991,Annex,Ward 10,East District,On demand,85,58,60,Medium,46,60,0,70.6,High,255,127,14,190,2026-02-25
+ASSET-00359,Recycling Bin,43.657762,-79.613415,Scarborough Village,Ward 11,East District,Weekly,48,56,90,Low,57,64,1,45.6,Moderate,255,193,7,170,2026-02-21
+ASSET-00360,Park Waste Bin,43.763288,-79.266296,Scarborough Village,Ward 9,South District,2x weekly,77,49,63,High,45,61,3,80.7,Critical,214,39,40,210,2026-02-24
+ASSET-00361,Container,43.610379,-79.395691,North York Centre,Ward 6,West District,Weekly,86,53,79,Low,50,85,1,62.8,High,255,127,14,190,2026-01-31
+ASSET-00362,Litter Bin,43.670229,-79.568941,Scarborough Village,Ward 22,South District,3x weekly,58,21,62,Low,56,39,1,41.1,Moderate,255,193,7,170,2026-03-18
+ASSET-00363,Recycling Bin,43.772739,-79.29474,Flemingdon Park,Ward 14,South District,Daily,22,42,74,Medium,53,13,0,35.1,Moderate,255,193,7,170,2026-04-13
+ASSET-00364,Container,43.774801,-79.192555,Scarborough Village,Ward 18,South District,On demand,28,21,60,Medium,61,9,1,35.2,Moderate,255,193,7,170,2026-04-17
+ASSET-00365,Container,43.641987,-79.325381,Etobicoke Centre,Ward 21,West District,Daily,79,33,69,Low,57,0,3,49.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00366,Recycling Bin,43.618272,-79.211217,York University Heights,Ward 20,West District,On demand,63,44,97,Low,66,0,2,39.9,Moderate,255,193,7,170,2026-04-26
+ASSET-00367,Public Realm Asset,43.606508,-79.305996,Downtown Yonge East,Ward 1,West District,2x weekly,5,42,100,Medium,67,92,3,39.9,Moderate,255,193,7,170,2026-01-24
+ASSET-00368,Container,43.717075,-79.380722,Etobicoke Centre,Ward 23,North District,Weekly,78,16,82,Low,74,64,1,45.7,Moderate,255,193,7,170,2026-02-21
+ASSET-00369,Container,43.655383,-79.558439,Flemingdon Park,Ward 17,North District,2x weekly,70,26,73,Medium,64,0,1,47.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00370,Park Waste Bin,43.590031,-79.384881,Scarborough Village,Ward 3,West District,3x weekly,50,41,60,Low,42,87,1,50.7,Moderate,255,193,7,170,2026-01-29
+ASSET-00371,Public Realm Asset,43.662742,-79.57313,Kensington Chinatown,Ward 17,South District,2x weekly,55,41,88,Medium,62,12,0,43.4,Moderate,255,193,7,170,2026-04-14
+ASSET-00372,Public Realm Asset,43.771454,-79.209739,Danforth East York,Ward 3,East District,Daily,33,19,65,Medium,63,78,0,42.0,Moderate,255,193,7,170,2026-02-07
+ASSET-00373,Litter Bin,43.610537,-79.303971,York University Heights,Ward 6,North District,On demand,79,34,80,Low,61,41,0,47.0,Moderate,255,193,7,170,2026-03-16
+ASSET-00374,Park Waste Bin,43.591004,-79.543202,North York Centre,Ward 14,South District,3x weekly,10,35,98,Low,63,80,1,26.4,Low,44,160,44,160,2026-02-05
+ASSET-00375,Recycling Bin,43.658552,-79.571532,York University Heights,Ward 22,South District,Weekly,82,65,75,Medium,43,52,2,71.7,High,255,127,14,190,2026-03-05
+ASSET-00376,Recycling Bin,43.810064,-79.389815,Agincourt South,Ward 19,South District,Weekly,74,64,71,Low,55,27,2,58.3,High,255,127,14,190,2026-03-30
+ASSET-00377,Recycling Bin,43.675057,-79.595917,High Park North,Ward 25,West District,On demand,31,0,64,Low,61,0,2,22.1,Low,44,160,44,160,2026-04-26
+ASSET-00378,Recycling Bin,43.638759,-79.317617,Danforth East York,Ward 11,North District,Weekly,52,69,79,Low,55,56,3,56.1,High,255,127,14,190,2026-03-01
+ASSET-00379,Container,43.729783,-79.484161,York University Heights,Ward 11,South District,On demand,83,36,85,Low,67,4,0,43.3,Moderate,255,193,7,170,2026-04-22
+ASSET-00380,Park Waste Bin,43.738311,-79.43824,Danforth East York,Ward 15,North District,2x weekly,69,18,59,Medium,50,87,1,58.6,High,255,127,14,190,2026-01-29
+ASSET-00381,Recycling Bin,43.674591,-79.593278,Danforth East York,Ward 4,North District,2x weekly,43,52,68,High,41,67,1,65.4,High,255,127,14,190,2026-02-18
+ASSET-00382,Recycling Bin,43.593379,-79.445617,North York Centre,Ward 13,South District,On demand,62,15,86,Low,71,25,0,32.1,Low,44,160,44,160,2026-04-01
+ASSET-00383,Public Realm Asset,43.712116,-79.346239,Annex,Ward 16,North District,On demand,57,16,30,Low,46,37,1,45.4,Moderate,255,193,7,170,2026-03-20
+ASSET-00384,Recycling Bin,43.745835,-79.476543,Annex,Ward 11,South District,On demand,61,32,74,Low,58,65,1,46.3,Moderate,255,193,7,170,2026-02-20
+ASSET-00385,Litter Bin,43.618877,-79.612204,Agincourt South,Ward 5,North District,Weekly,77,53,81,Low,55,45,3,58.3,High,255,127,14,190,2026-03-12
+ASSET-00386,Public Realm Asset,43.594037,-79.485078,Scarborough Village,Ward 22,South District,Weekly,76,51,67,High,59,23,1,71.4,High,255,127,14,190,2026-04-03
+ASSET-00387,Litter Bin,43.590311,-79.482092,Etobicoke Centre,Ward 1,North District,2x weekly,64,72,52,Medium,30,0,1,63.6,High,255,127,14,190,2026-04-26
+ASSET-00388,Container,43.769487,-79.409322,High Park North,Ward 6,South District,On demand,65,39,76,Low,54,54,0,46.0,Moderate,255,193,7,170,2026-03-03
+ASSET-00389,Litter Bin,43.761912,-79.402047,Etobicoke Centre,Ward 4,East District,On demand,28,19,72,Medium,68,0,1,31.1,Low,44,160,44,160,2026-04-26
+ASSET-00390,Public Realm Asset,43.635042,-79.555231,North York Centre,Ward 7,South District,Daily,62,43,52,Medium,36,21,1,56.8,High,255,127,14,190,2026-04-05
+ASSET-00391,Public Realm Asset,43.776558,-79.327461,High Park North,Ward 12,West District,Weekly,88,50,55,Low,35,54,0,61.5,High,255,127,14,190,2026-03-03
+ASSET-00392,Recycling Bin,43.801022,-79.486368,Flemingdon Park,Ward 19,East District,On demand,95,15,60,Low,55,0,3,51.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00393,Recycling Bin,43.62388,-79.616393,Kensington Chinatown,Ward 7,West District,On demand,82,36,68,Medium,64,50,0,60.1,High,255,127,14,190,2026-03-07
+ASSET-00394,Container,43.705139,-79.307375,North York Centre,Ward 6,East District,2x weekly,44,83,46,Medium,26,52,1,67.6,High,255,127,14,190,2026-03-05
+ASSET-00395,Container,43.715713,-79.420905,York University Heights,Ward 4,North District,Weekly,58,30,70,Medium,56,97,1,57.4,High,255,127,14,190,2026-01-19
+ASSET-00396,Recycling Bin,43.810944,-79.529414,Flemingdon Park,Ward 5,North District,3x weekly,32,32,66,Low,65,67,0,36.0,Moderate,255,193,7,170,2026-02-18
+ASSET-00397,Public Realm Asset,43.606809,-79.333722,Agincourt South,Ward 5,East District,Weekly,28,48,100,Medium,62,0,3,38.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00398,Litter Bin,43.699687,-79.289568,Scarborough Village,Ward 17,East District,2x weekly,70,38,63,Medium,44,63,1,61.2,High,255,127,14,190,2026-02-22
+ASSET-00399,Container,43.71997,-79.265052,Waterfront Communities,Ward 25,West District,Weekly,77,9,57,Medium,59,62,1,56.0,High,255,127,14,190,2026-02-23
+ASSET-00400,Container,43.663984,-79.229901,Scarborough Village,Ward 7,South District,3x weekly,55,37,52,Medium,39,67,3,62.3,High,255,127,14,190,2026-02-18
+ASSET-00401,Park Waste Bin,43.700605,-79.31528,Danforth East York,Ward 18,North District,On demand,52,43,66,Medium,51,42,0,51.2,Moderate,255,193,7,170,2026-03-15
+ASSET-00402,Litter Bin,43.818449,-79.599341,Waterfront Communities,Ward 4,South District,Daily,54,23,86,Medium,67,38,3,47.3,Moderate,255,193,7,170,2026-03-19
+ASSET-00403,Public Realm Asset,43.801238,-79.182573,Agincourt South,Ward 1,South District,3x weekly,48,67,98,Low,52,22,3,46.0,Moderate,255,193,7,170,2026-04-04
+ASSET-00404,Recycling Bin,43.719737,-79.455054,High Park North,Ward 3,East District,2x weekly,22,60,62,Low,42,75,2,46.7,Moderate,255,193,7,170,2026-02-10
+ASSET-00405,Recycling Bin,43.640796,-79.602092,Waterfront Communities,Ward 13,East District,3x weekly,36,54,74,Low,61,8,0,35.0,Moderate,255,193,7,170,2026-04-18
+ASSET-00406,Litter Bin,43.690421,-79.353159,Waterfront Communities,Ward 7,South District,Daily,53,53,75,Medium,44,67,2,59.8,High,255,127,14,190,2026-02-18
+ASSET-00407,Container,43.795642,-79.18463,York University Heights,Ward 15,West District,Daily,95,40,58,Low,46,0,1,55.6,High,255,127,14,190,2026-04-26
+ASSET-00408,Public Realm Asset,43.704434,-79.525847,Flemingdon Park,Ward 5,South District,Daily,58,58,71,Medium,41,102,3,70.2,High,255,127,14,190,2026-01-14
+ASSET-00409,Litter Bin,43.637627,-79.587267,Downtown Yonge East,Ward 11,East District,2x weekly,35,45,89,Low,53,29,1,33.6,Low,44,160,44,160,2026-03-28
+ASSET-00410,Recycling Bin,43.666404,-79.300936,Downtown Yonge East,Ward 17,West District,On demand,7,42,81,Low,52,60,1,28.3,Low,44,160,44,160,2026-02-25
+ASSET-00411,Recycling Bin,43.687802,-79.602717,York University Heights,Ward 24,North District,Weekly,76,64,43,Low,34,57,1,66.3,High,255,127,14,190,2026-02-28
+ASSET-00412,Recycling Bin,43.813808,-79.515982,Downtown Yonge East,Ward 4,North District,Daily,69,27,62,High,59,46,2,67.6,High,255,127,14,190,2026-03-11
+ASSET-00413,Park Waste Bin,43.760636,-79.229724,Scarborough Village,Ward 11,North District,3x weekly,39,14,85,High,72,1,2,43.0,Moderate,255,193,7,170,2026-04-25
+ASSET-00414,Recycling Bin,43.777859,-79.536458,North York Centre,Ward 20,East District,Daily,25,23,94,Medium,63,7,2,29.7,Low,44,160,44,160,2026-04-19
+ASSET-00415,Container,43.725847,-79.315933,North York Centre,Ward 7,South District,2x weekly,78,32,63,Medium,60,99,0,64.7,High,255,127,14,190,2026-01-17
+ASSET-00416,Public Realm Asset,43.769545,-79.351465,Scarborough Village,Ward 4,North District,Weekly,63,20,59,Low,53,64,3,50.2,Moderate,255,193,7,170,2026-02-21
+ASSET-00417,Litter Bin,43.764571,-79.572843,Danforth East York,Ward 11,North District,Weekly,75,4,91,High,82,7,0,48.1,Moderate,255,193,7,170,2026-04-19
+ASSET-00418,Container,43.780326,-79.299284,York University Heights,Ward 6,South District,Daily,100,100,84,High,40,38,1,93.0,Critical,214,39,40,210,2026-03-19
+ASSET-00419,Litter Bin,43.757666,-79.223622,High Park North,Ward 7,West District,Daily,55,77,77,Low,36,63,1,56.8,High,255,127,14,190,2026-02-22
+ASSET-00420,Container,43.66719,-79.169878,Scarborough Village,Ward 14,South District,Daily,79,24,64,Medium,56,3,1,52.4,Moderate,255,193,7,170,2026-04-23
+ASSET-00421,Recycling Bin,43.807831,-79.391721,High Park North,Ward 3,East District,Daily,71,55,81,High,63,108,1,78.6,Critical,214,39,40,210,2026-01-08
+ASSET-00422,Container,43.678402,-79.608411,Danforth East York,Ward 13,West District,2x weekly,39,29,85,High,59,77,0,53.0,Moderate,255,193,7,170,2026-02-08
+ASSET-00423,Litter Bin,43.715679,-79.175164,Kensington Chinatown,Ward 3,South District,Daily,30,30,89,Medium,63,66,2,42.0,Moderate,255,193,7,170,2026-02-19
+ASSET-00424,Litter Bin,43.631229,-79.251998,High Park North,Ward 22,North District,Daily,62,23,85,Medium,76,60,1,49.1,Moderate,255,193,7,170,2026-02-25
+ASSET-00425,Litter Bin,43.65671,-79.21915,Annex,Ward 16,East District,On demand,16,62,65,Low,38,12,2,36.7,Moderate,255,193,7,170,2026-04-14
+ASSET-00426,Recycling Bin,43.721502,-79.236898,Danforth East York,Ward 5,East District,Daily,84,51,85,High,55,0,3,71.7,High,255,127,14,190,2026-04-26
+ASSET-00427,Park Waste Bin,43.660559,-79.457639,North York Centre,Ward 3,East District,On demand,54,41,43,Low,45,60,0,50.1,Moderate,255,193,7,170,2026-02-25
+ASSET-00428,Container,43.605721,-79.25947,Danforth East York,Ward 2,South District,On demand,30,62,63,Low,47,103,1,51.4,Moderate,255,193,7,170,2026-01-13
+ASSET-00429,Park Waste Bin,43.603015,-79.447996,Downtown Yonge East,Ward 19,West District,3x weekly,50,0,55,Low,56,91,0,37.9,Moderate,255,193,7,170,2026-01-25
+ASSET-00430,Litter Bin,43.635768,-79.427566,Kensington Chinatown,Ward 2,South District,2x weekly,65,49,92,High,52,100,0,69.6,High,255,127,14,190,2026-01-16
+ASSET-00431,Litter Bin,43.689364,-79.16903,North York Centre,Ward 23,South District,3x weekly,53,43,57,Medium,42,8,0,49.0,Moderate,255,193,7,170,2026-04-18
+ASSET-00432,Park Waste Bin,43.759714,-79.295905,High Park North,Ward 3,East District,Daily,62,21,70,Medium,64,9,0,43.1,Moderate,255,193,7,170,2026-04-17
+ASSET-00433,Recycling Bin,43.637227,-79.397802,Kensington Chinatown,Ward 17,West District,Weekly,23,17,48,High,43,20,2,48.0,Moderate,255,193,7,170,2026-04-06
+ASSET-00434,Park Waste Bin,43.728837,-79.584589,Danforth East York,Ward 3,South District,Daily,42,15,77,Low,65,47,1,31.7,Low,44,160,44,160,2026-03-10
+ASSET-00435,Container,43.739156,-79.496995,High Park North,Ward 24,North District,Weekly,50,32,100,Medium,69,95,0,47.0,Moderate,255,193,7,170,2026-01-21
+ASSET-00436,Recycling Bin,43.661969,-79.495296,Flemingdon Park,Ward 18,North District,3x weekly,79,12,87,Medium,76,103,1,56.7,High,255,127,14,190,2026-01-13
+ASSET-00437,Recycling Bin,43.636606,-79.34971,North York Centre,Ward 12,West District,2x weekly,83,43,83,Low,49,57,1,54.5,Moderate,255,193,7,170,2026-02-28
+ASSET-00438,Park Waste Bin,43.724073,-79.503573,Downtown Yonge East,Ward 7,North District,Weekly,83,63,70,Low,48,43,3,65.3,High,255,127,14,190,2026-03-14
+ASSET-00439,Park Waste Bin,43.633364,-79.310668,Downtown Yonge East,Ward 2,North District,On demand,74,36,93,Medium,60,32,0,50.1,Moderate,255,193,7,170,2026-03-25
+ASSET-00440,Public Realm Asset,43.800346,-79.42035,Flemingdon Park,Ward 3,West District,On demand,61,34,77,Medium,60,30,2,51.9,Moderate,255,193,7,170,2026-03-27
+ASSET-00441,Litter Bin,43.736668,-79.50867,Etobicoke Centre,Ward 19,West District,Weekly,52,2,100,Low,83,97,2,34.9,Low,44,160,44,160,2026-01-19
+ASSET-00442,Park Waste Bin,43.759906,-79.613677,Danforth East York,Ward 13,East District,2x weekly,51,43,79,Low,56,36,0,39.5,Moderate,255,193,7,170,2026-03-21
+ASSET-00443,Litter Bin,43.604381,-79.408887,Kensington Chinatown,Ward 5,West District,3x weekly,45,22,58,Medium,52,13,0,40.4,Moderate,255,193,7,170,2026-04-13
+ASSET-00444,Public Realm Asset,43.808843,-79.234294,Danforth East York,Ward 14,West District,On demand,76,70,64,Low,45,54,0,61.5,High,255,127,14,190,2026-03-03
+ASSET-00445,Public Realm Asset,43.636065,-79.33628,High Park North,Ward 15,East District,Daily,72,48,75,Medium,49,73,3,67.7,High,255,127,14,190,2026-02-12
+ASSET-00446,Container,43.675356,-79.196447,Waterfront Communities,Ward 7,East District,3x weekly,80,57,61,Low,43,46,0,58.6,High,255,127,14,190,2026-03-11
+ASSET-00447,Park Waste Bin,43.79593,-79.313427,Scarborough Village,Ward 17,West District,2x weekly,84,90,60,Low,29,0,2,68.4,High,255,127,14,190,2026-04-26
+ASSET-00448,Litter Bin,43.752256,-79.423303,Scarborough Village,Ward 15,North District,Daily,57,69,51,Medium,30,71,3,73.3,High,255,127,14,190,2026-02-14
+ASSET-00449,Litter Bin,43.692101,-79.60992,Waterfront Communities,Ward 2,North District,3x weekly,100,21,64,Medium,52,77,0,66.1,High,255,127,14,190,2026-02-08
+ASSET-00450,Park Waste Bin,43.803235,-79.571519,York University Heights,Ward 21,West District,On demand,62,0,73,Low,71,18,3,35.4,Moderate,255,193,7,170,2026-04-08
+ASSET-00451,Litter Bin,43.626683,-79.546187,Downtown Yonge East,Ward 7,South District,3x weekly,51,69,52,High,28,75,0,75.5,Critical,214,39,40,210,2026-02-10
+ASSET-00452,Litter Bin,43.615399,-79.486974,Waterfront Communities,Ward 15,West District,3x weekly,78,45,83,Low,58,81,3,60.3,High,255,127,14,190,2026-02-04
+ASSET-00453,Public Realm Asset,43.672084,-79.457257,Waterfront Communities,Ward 13,South District,3x weekly,39,19,100,High,77,92,1,50.8,Moderate,255,193,7,170,2026-01-24
+ASSET-00454,Park Waste Bin,43.809147,-79.469698,High Park North,Ward 15,North District,Daily,72,50,83,Medium,51,35,0,56.0,High,255,127,14,190,2026-03-22
+ASSET-00455,Recycling Bin,43.717275,-79.388559,York University Heights,Ward 10,South District,Weekly,63,0,70,High,77,12,1,49.5,Moderate,255,193,7,170,2026-04-14
+ASSET-00456,Litter Bin,43.787516,-79.275756,High Park North,Ward 13,North District,Weekly,69,31,89,High,57,63,1,63.5,High,255,127,14,190,2026-02-22
+ASSET-00457,Recycling Bin,43.631228,-79.300783,York University Heights,Ward 18,West District,Weekly,100,13,82,Low,75,9,2,47.6,Moderate,255,193,7,170,2026-04-17
+ASSET-00458,Public Realm Asset,43.708435,-79.545773,Danforth East York,Ward 19,East District,Weekly,53,31,90,Medium,73,79,1,49.7,Moderate,255,193,7,170,2026-02-06
+ASSET-00459,Park Waste Bin,43.709422,-79.340434,Etobicoke Centre,Ward 8,West District,2x weekly,47,10,70,Medium,55,33,0,37.6,Moderate,255,193,7,170,2026-03-24
+ASSET-00460,Container,43.685628,-79.422686,Danforth East York,Ward 25,North District,3x weekly,33,25,91,Low,74,124,3,40.8,Moderate,255,193,7,170,2025-12-23
+ASSET-00461,Park Waste Bin,43.705026,-79.430499,North York Centre,Ward 24,West District,3x weekly,100,46,59,Low,44,65,0,65.1,High,255,127,14,190,2026-02-20
+ASSET-00462,Park Waste Bin,43.729297,-79.566086,Annex,Ward 6,North District,On demand,68,58,56,High,43,48,3,80.0,Critical,214,39,40,210,2026-03-09
+ASSET-00463,Container,43.680128,-79.20799,Waterfront Communities,Ward 23,East District,On demand,43,29,57,Medium,53,69,3,55.0,High,255,127,14,190,2026-02-16
+ASSET-00464,Recycling Bin,43.772334,-79.588239,Agincourt South,Ward 18,East District,3x weekly,62,6,68,High,73,43,0,53.3,Moderate,255,193,7,170,2026-03-14
+ASSET-00465,Litter Bin,43.648253,-79.61541,Kensington Chinatown,Ward 20,North District,Daily,100,13,98,Medium,68,82,0,57.5,High,255,127,14,190,2026-02-03
+ASSET-00466,Park Waste Bin,43.783965,-79.396856,Etobicoke Centre,Ward 7,North District,2x weekly,67,76,80,High,36,59,1,77.6,Critical,214,39,40,210,2026-02-26
+ASSET-00467,Litter Bin,43.786644,-79.214022,Waterfront Communities,Ward 5,North District,Daily,85,24,51,Low,51,37,3,57.4,High,255,127,14,190,2026-03-20
+ASSET-00468,Litter Bin,43.797408,-79.526403,Danforth East York,Ward 23,South District,On demand,45,36,95,High,68,27,3,54.9,Moderate,255,193,7,170,2026-03-30
+ASSET-00469,Park Waste Bin,43.676358,-79.250245,Annex,Ward 6,South District,Weekly,79,0,63,Low,64,53,0,41.7,Moderate,255,193,7,170,2026-03-04
+ASSET-00470,Container,43.675683,-79.588392,Danforth East York,Ward 8,North District,Weekly,22,51,63,Medium,54,0,0,38.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00471,Recycling Bin,43.753016,-79.616153,Annex,Ward 24,West District,On demand,49,0,89,Medium,76,93,2,43.0,Moderate,255,193,7,170,2026-01-23
+ASSET-00472,Litter Bin,43.775034,-79.264508,Annex,Ward 20,East District,On demand,75,12,70,Medium,72,44,3,55.4,High,255,127,14,190,2026-03-13
+ASSET-00473,Litter Bin,43.769851,-79.274196,Agincourt South,Ward 5,East District,Daily,46,39,81,Low,67,100,2,48.1,Moderate,255,193,7,170,2026-01-16
+ASSET-00474,Recycling Bin,43.732709,-79.278564,York University Heights,Ward 3,East District,Weekly,63,69,80,Low,48,12,0,48.2,Moderate,255,193,7,170,2026-04-14
+ASSET-00475,Recycling Bin,43.798893,-79.270991,Flemingdon Park,Ward 3,East District,2x weekly,52,27,79,Low,59,62,0,38.2,Moderate,255,193,7,170,2026-02-23
+ASSET-00476,Litter Bin,43.73545,-79.548021,Scarborough Village,Ward 15,South District,3x weekly,97,61,77,Low,40,80,2,70.8,High,255,127,14,190,2026-02-05
+ASSET-00477,Park Waste Bin,43.66218,-79.50891,North York Centre,Ward 13,West District,Weekly,99,33,59,Medium,54,20,1,65.2,High,255,127,14,190,2026-04-06
+ASSET-00478,Recycling Bin,43.633222,-79.584593,Agincourt South,Ward 3,West District,2x weekly,54,7,74,High,64,79,2,58.1,High,255,127,14,190,2026-02-06
+ASSET-00479,Litter Bin,43.773136,-79.494905,Downtown Yonge East,Ward 11,North District,Weekly,42,71,82,Low,47,84,0,50.1,Moderate,255,193,7,170,2026-02-01
+ASSET-00480,Container,43.664638,-79.496025,Downtown Yonge East,Ward 11,South District,Daily,39,57,76,Low,43,66,2,47.8,Moderate,255,193,7,170,2026-02-19
+ASSET-00481,Container,43.650866,-79.315494,Scarborough Village,Ward 6,West District,Daily,74,17,81,Medium,62,0,2,46.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00482,Public Realm Asset,43.610329,-79.298484,Flemingdon Park,Ward 18,East District,2x weekly,73,51,62,Medium,43,67,0,64.8,High,255,127,14,190,2026-02-18
+ASSET-00483,Litter Bin,43.598965,-79.31325,Scarborough Village,Ward 19,South District,3x weekly,40,0,79,Medium,65,0,0,26.2,Low,44,160,44,160,2026-04-26
+ASSET-00484,Public Realm Asset,43.797221,-79.161767,Downtown Yonge East,Ward 10,South District,3x weekly,76,31,68,Low,46,72,0,51.3,Moderate,255,193,7,170,2026-02-13
+ASSET-00485,Recycling Bin,43.605469,-79.576338,York University Heights,Ward 10,West District,Weekly,69,44,81,Low,54,0,0,41.1,Moderate,255,193,7,170,2026-04-26
+ASSET-00486,Public Realm Asset,43.595158,-79.454204,Agincourt South,Ward 22,East District,Daily,77,51,56,Low,46,35,0,55.4,High,255,127,14,190,2026-03-22
+ASSET-00487,Park Waste Bin,43.643364,-79.613385,Scarborough Village,Ward 12,North District,Weekly,69,69,92,High,49,0,1,66.4,High,255,127,14,190,2026-04-26
+ASSET-00488,Public Realm Asset,43.719581,-79.332678,High Park North,Ward 8,East District,On demand,75,67,80,Low,53,86,0,61.1,High,255,127,14,190,2026-01-30
+ASSET-00489,Litter Bin,43.764048,-79.416545,York University Heights,Ward 12,South District,On demand,67,60,76,Low,43,45,0,51.9,Moderate,255,193,7,170,2026-03-12
+ASSET-00490,Public Realm Asset,43.803482,-79.192596,North York Centre,Ward 14,South District,On demand,44,71,82,Low,40,0,1,42.3,Moderate,255,193,7,170,2026-04-26
+ASSET-00491,Litter Bin,43.726426,-79.59546,Scarborough Village,Ward 23,West District,On demand,69,0,84,Low,73,78,1,39.1,Moderate,255,193,7,170,2026-02-07
+ASSET-00492,Container,43.806589,-79.543016,Annex,Ward 4,South District,3x weekly,100,26,55,High,60,101,1,84.4,Critical,214,39,40,210,2026-01-15
+ASSET-00493,Recycling Bin,43.653316,-79.548145,Waterfront Communities,Ward 14,West District,Weekly,100,38,91,Low,60,95,0,60.1,High,255,127,14,190,2026-01-21
+ASSET-00494,Recycling Bin,43.69469,-79.31283,Etobicoke Centre,Ward 9,East District,Daily,87,75,83,Low,58,11,3,63.7,High,255,127,14,190,2026-04-15
+ASSET-00495,Public Realm Asset,43.782776,-79.250707,North York Centre,Ward 11,East District,On demand,54,45,100,Low,73,77,1,44.0,Moderate,255,193,7,170,2026-02-08
+ASSET-00496,Container,43.625349,-79.356601,Etobicoke Centre,Ward 17,South District,Daily,62,50,30,Medium,23,33,3,68.8,High,255,127,14,190,2026-03-24
+ASSET-00497,Container,43.671633,-79.596085,Etobicoke Centre,Ward 19,West District,Daily,70,33,100,Medium,64,104,0,55.4,High,255,127,14,190,2026-01-12
+ASSET-00498,Park Waste Bin,43.792624,-79.213859,North York Centre,Ward 12,South District,2x weekly,60,28,77,High,54,16,3,60.0,High,255,127,14,190,2026-04-10
+ASSET-00499,Container,43.655899,-79.250785,Etobicoke Centre,Ward 16,West District,3x weekly,38,51,84,Medium,61,14,2,45.5,Moderate,255,193,7,170,2026-04-12
+ASSET-00500,Container,43.784899,-79.591299,Etobicoke Centre,Ward 22,South District,Daily,67,56,73,Medium,44,62,1,63.4,High,255,127,14,190,2026-02-23
+ASSET-00501,Litter Bin,43.606338,-79.523035,Flemingdon Park,Ward 16,East District,2x weekly,51,33,70,Medium,53,16,0,43.8,Moderate,255,193,7,170,2026-04-10
+ASSET-00502,Park Waste Bin,43.628523,-79.552253,High Park North,Ward 16,West District,3x weekly,58,3,65,Low,64,34,0,32.4,Low,44,160,44,160,2026-03-23
+ASSET-00503,Park Waste Bin,43.665038,-79.482284,High Park North,Ward 24,South District,On demand,60,48,88,Low,63,20,0,40.3,Moderate,255,193,7,170,2026-04-06
+ASSET-00504,Recycling Bin,43.745019,-79.59122,Scarborough Village,Ward 24,South District,On demand,51,30,60,Low,57,0,0,34.8,Low,44,160,44,160,2026-04-26
+ASSET-00505,Container,43.788872,-79.548734,Annex,Ward 3,East District,On demand,74,25,66,Medium,48,9,3,55.3,High,255,127,14,190,2026-04-17
+ASSET-00506,Container,43.774875,-79.556912,Waterfront Communities,Ward 6,North District,3x weekly,61,19,83,Medium,73,0,0,38.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00507,Public Realm Asset,43.652937,-79.395596,Waterfront Communities,Ward 12,North District,2x weekly,65,97,79,Low,29,6,0,56.8,High,255,127,14,190,2026-04-20
+ASSET-00508,Container,43.603105,-79.427441,Scarborough Village,Ward 21,West District,Daily,60,19,89,Medium,74,24,3,45.9,Moderate,255,193,7,170,2026-04-02
+ASSET-00509,Container,43.768721,-79.223387,Agincourt South,Ward 6,South District,On demand,98,30,100,Low,76,75,0,52.7,Moderate,255,193,7,170,2026-02-10
+ASSET-00510,Recycling Bin,43.634888,-79.394879,High Park North,Ward 24,West District,2x weekly,70,0,69,High,69,77,0,58.3,High,255,127,14,190,2026-02-08
+ASSET-00511,Recycling Bin,43.673123,-79.224494,Etobicoke Centre,Ward 25,North District,3x weekly,60,75,95,Low,44,42,1,51.8,Moderate,255,193,7,170,2026-03-15
+ASSET-00512,Park Waste Bin,43.61898,-79.529647,York University Heights,Ward 14,West District,Daily,26,17,100,Low,72,34,2,22.4,Low,44,160,44,160,2026-03-23
+ASSET-00513,Recycling Bin,43.64286,-79.365775,Etobicoke Centre,Ward 1,North District,2x weekly,100,73,100,Medium,66,38,0,69.7,High,255,127,14,190,2026-03-19
+ASSET-00514,Park Waste Bin,43.632612,-79.491824,Scarborough Village,Ward 13,East District,Weekly,93,12,77,High,66,3,3,65.1,High,255,127,14,190,2026-04-23
+ASSET-00515,Park Waste Bin,43.803238,-79.173834,York University Heights,Ward 17,South District,On demand,49,26,64,Medium,60,76,0,49.6,Moderate,255,193,7,170,2026-02-09
+ASSET-00516,Park Waste Bin,43.6745,-79.579972,North York Centre,Ward 21,East District,2x weekly,38,42,94,Low,70,25,0,30.2,Low,44,160,44,160,2026-04-01
+ASSET-00517,Park Waste Bin,43.744736,-79.518568,High Park North,Ward 21,East District,2x weekly,86,42,64,Low,43,63,1,59.8,High,255,127,14,190,2026-02-22
+ASSET-00518,Park Waste Bin,43.59015,-79.219492,Kensington Chinatown,Ward 5,North District,Daily,70,31,59,Medium,62,11,2,55.4,High,255,127,14,190,2026-04-15
+ASSET-00519,Recycling Bin,43.695414,-79.458439,Flemingdon Park,Ward 1,South District,2x weekly,73,65,63,High,42,62,1,80.2,Critical,214,39,40,210,2026-02-23
+ASSET-00520,Public Realm Asset,43.644774,-79.20212,Flemingdon Park,Ward 2,North District,2x weekly,61,17,58,Medium,59,19,1,47.2,Moderate,255,193,7,170,2026-04-07
+ASSET-00521,Public Realm Asset,43.702071,-79.422207,York University Heights,Ward 12,East District,3x weekly,14,0,63,Low,72,62,2,24.1,Low,44,160,44,160,2026-02-23
+ASSET-00522,Litter Bin,43.597007,-79.525954,Agincourt South,Ward 5,East District,On demand,50,68,67,High,42,59,0,69.9,High,255,127,14,190,2026-02-26
+ASSET-00523,Litter Bin,43.707266,-79.389413,Kensington Chinatown,Ward 12,North District,2x weekly,64,0,87,Low,76,53,2,35.6,Moderate,255,193,7,170,2026-03-04
+ASSET-00524,Park Waste Bin,43.595743,-79.413442,High Park North,Ward 19,East District,Weekly,18,75,69,Medium,41,55,3,55.9,High,255,127,14,190,2026-03-02
+ASSET-00525,Container,43.629904,-79.445314,Etobicoke Centre,Ward 20,West District,Weekly,50,45,48,Low,33,73,1,52.5,Moderate,255,193,7,170,2026-02-12
+ASSET-00526,Public Realm Asset,43.767737,-79.511011,North York Centre,Ward 10,South District,Daily,52,65,64,Low,36,58,1,54.2,Moderate,255,193,7,170,2026-02-27
+ASSET-00527,Park Waste Bin,43.605218,-79.611188,Scarborough Village,Ward 19,South District,3x weekly,76,78,71,Low,37,70,0,64.5,High,255,127,14,190,2026-02-15
+ASSET-00528,Litter Bin,43.669369,-79.606152,Agincourt South,Ward 11,North District,2x weekly,64,66,61,Medium,36,73,3,73.1,High,255,127,14,190,2026-02-12
+ASSET-00529,Park Waste Bin,43.730637,-79.30789,Kensington Chinatown,Ward 25,North District,On demand,63,43,72,Low,58,53,0,47.2,Moderate,255,193,7,170,2026-03-04
+ASSET-00530,Recycling Bin,43.654772,-79.176854,Etobicoke Centre,Ward 14,South District,Weekly,80,27,58,Low,45,81,1,56.6,High,255,127,14,190,2026-02-04
+ASSET-00531,Litter Bin,43.691844,-79.499918,Waterfront Communities,Ward 18,North District,2x weekly,80,70,63,Medium,42,36,1,70.9,High,255,127,14,190,2026-03-21
+ASSET-00532,Recycling Bin,43.604216,-79.577514,Waterfront Communities,Ward 22,West District,3x weekly,82,27,84,Low,71,37,0,44.6,Moderate,255,193,7,170,2026-03-20
+ASSET-00533,Park Waste Bin,43.646731,-79.403358,Annex,Ward 4,South District,On demand,68,12,75,Low,67,0,2,36.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00534,Litter Bin,43.798003,-79.243992,Waterfront Communities,Ward 10,East District,Weekly,87,55,81,High,49,102,0,81.5,Critical,214,39,40,210,2026-01-14
+ASSET-00535,Park Waste Bin,43.795979,-79.201779,Scarborough Village,Ward 22,North District,2x weekly,42,76,89,High,56,36,1,64.2,High,255,127,14,190,2026-03-21
+ASSET-00536,Recycling Bin,43.632465,-79.46263,Scarborough Village,Ward 1,North District,3x weekly,85,13,59,Medium,55,21,0,52.5,Moderate,255,193,7,170,2026-04-05
+ASSET-00537,Container,43.712235,-79.487545,North York Centre,Ward 6,West District,2x weekly,87,32,79,Low,51,23,0,47.1,Moderate,255,193,7,170,2026-04-03
+ASSET-00538,Park Waste Bin,43.627813,-79.566372,North York Centre,Ward 20,West District,On demand,21,36,50,Low,56,120,1,44.1,Moderate,255,193,7,170,2025-12-27
+ASSET-00539,Litter Bin,43.741492,-79.191485,Waterfront Communities,Ward 23,West District,Weekly,81,40,95,Low,58,12,2,46.8,Moderate,255,193,7,170,2026-04-14
+ASSET-00540,Container,43.681889,-79.469674,High Park North,Ward 16,North District,3x weekly,67,65,86,Medium,45,55,1,62.6,High,255,127,14,190,2026-03-02
+ASSET-00541,Litter Bin,43.617303,-79.168939,York University Heights,Ward 17,East District,On demand,59,40,54,Low,50,136,0,55.9,High,255,127,14,190,2025-12-11
+ASSET-00542,Public Realm Asset,43.712427,-79.572498,Downtown Yonge East,Ward 17,West District,2x weekly,93,51,75,High,46,36,2,79.3,Critical,214,39,40,210,2026-03-21
+ASSET-00543,Public Realm Asset,43.77831,-79.167559,Kensington Chinatown,Ward 20,North District,2x weekly,67,10,79,Low,62,39,3,41.5,Moderate,255,193,7,170,2026-03-18
+ASSET-00544,Public Realm Asset,43.6421,-79.337574,High Park North,Ward 6,West District,On demand,21,19,66,High,61,116,0,51.9,Moderate,255,193,7,170,2025-12-31
+ASSET-00545,Park Waste Bin,43.77876,-79.400419,Kensington Chinatown,Ward 1,West District,Daily,72,3,92,Medium,82,27,0,39.1,Moderate,255,193,7,170,2026-03-30
+ASSET-00546,Public Realm Asset,43.638084,-79.581043,Annex,Ward 3,West District,Daily,34,7,64,Low,71,84,3,37.7,Moderate,255,193,7,170,2026-02-01
+ASSET-00547,Public Realm Asset,43.677628,-79.248133,High Park North,Ward 9,South District,Daily,30,0,66,Medium,63,65,2,37.4,Moderate,255,193,7,170,2026-02-20
+ASSET-00548,Litter Bin,43.804488,-79.565424,High Park North,Ward 12,East District,Weekly,53,63,42,Low,28,30,3,58.8,High,255,127,14,190,2026-03-27
+ASSET-00549,Litter Bin,43.699387,-79.432436,Annex,Ward 22,North District,2x weekly,65,47,65,Low,40,46,0,49.6,Moderate,255,193,7,170,2026-03-11
+ASSET-00550,Park Waste Bin,43.754393,-79.588513,Flemingdon Park,Ward 3,East District,2x weekly,71,16,75,Medium,74,61,1,52.3,Moderate,255,193,7,170,2026-02-24
+ASSET-00551,Public Realm Asset,43.742209,-79.584671,Agincourt South,Ward 9,South District,Weekly,41,33,84,Low,65,50,0,33.7,Low,44,160,44,160,2026-03-07
+ASSET-00552,Litter Bin,43.777374,-79.338558,Annex,Ward 23,West District,3x weekly,77,0,93,Medium,73,32,2,44.3,Moderate,255,193,7,170,2026-03-25
+ASSET-00553,Public Realm Asset,43.68503,-79.309121,Etobicoke Centre,Ward 22,South District,3x weekly,33,22,69,Low,68,15,1,28.2,Low,44,160,44,160,2026-04-11
+ASSET-00554,Container,43.626067,-79.239441,Waterfront Communities,Ward 22,North District,Weekly,50,42,53,High,47,29,1,63.1,High,255,127,14,190,2026-03-28
+ASSET-00555,Public Realm Asset,43.705558,-79.283516,Waterfront Communities,Ward 3,East District,2x weekly,60,26,48,Medium,52,57,0,54.3,Moderate,255,193,7,170,2026-02-28
+ASSET-00556,Container,43.763052,-79.375605,Flemingdon Park,Ward 19,North District,2x weekly,66,53,52,Low,47,109,2,66.2,High,255,127,14,190,2026-01-07
+ASSET-00557,Litter Bin,43.62368,-79.236852,Scarborough Village,Ward 22,North District,Weekly,46,77,87,High,58,66,1,70.0,High,255,127,14,190,2026-02-19
+ASSET-00558,Public Realm Asset,43.800464,-79.504462,Annex,Ward 18,West District,Daily,87,41,40,Medium,50,2,2,67.0,High,255,127,14,190,2026-04-24
+ASSET-00559,Public Realm Asset,43.7218,-79.470403,Annex,Ward 3,South District,2x weekly,60,64,40,Low,37,50,1,60.5,High,255,127,14,190,2026-03-07
+ASSET-00560,Litter Bin,43.744351,-79.249502,North York Centre,Ward 8,South District,Weekly,60,47,59,Low,45,93,0,54.9,Moderate,255,193,7,170,2026-01-23
+ASSET-00561,Public Realm Asset,43.817776,-79.608146,Etobicoke Centre,Ward 15,West District,Weekly,59,50,61,Low,50,77,0,53.1,Moderate,255,193,7,170,2026-02-08
+ASSET-00562,Public Realm Asset,43.805862,-79.536656,Flemingdon Park,Ward 21,West District,Daily,96,61,61,Medium,36,58,0,74.9,High,255,127,14,190,2026-02-27
+ASSET-00563,Container,43.685954,-79.546296,North York Centre,Ward 1,West District,On demand,34,50,81,Medium,46,0,1,40.7,Moderate,255,193,7,170,2026-04-26
+ASSET-00564,Container,43.609349,-79.439172,North York Centre,Ward 7,South District,2x weekly,55,11,80,High,68,54,2,55.3,High,255,127,14,190,2026-03-03
+ASSET-00565,Recycling Bin,43.595453,-79.235924,Agincourt South,Ward 11,South District,2x weekly,84,74,65,Medium,31,21,3,75.2,Critical,214,39,40,210,2026-04-05
+ASSET-00566,Recycling Bin,43.601643,-79.60188,Waterfront Communities,Ward 11,East District,2x weekly,72,30,71,Medium,51,73,0,57.1,High,255,127,14,190,2026-02-12
+ASSET-00567,Litter Bin,43.5926,-79.257809,Waterfront Communities,Ward 6,South District,3x weekly,21,67,75,High,48,29,1,56.1,High,255,127,14,190,2026-03-28
+ASSET-00568,Container,43.813974,-79.369669,Kensington Chinatown,Ward 7,West District,Weekly,60,37,44,Medium,41,101,0,63.9,High,255,127,14,190,2026-01-15
+ASSET-00569,Park Waste Bin,43.676186,-79.36706,Downtown Yonge East,Ward 25,South District,Daily,81,15,82,Low,64,34,1,42.7,Moderate,255,193,7,170,2026-03-23
+ASSET-00570,Public Realm Asset,43.641593,-79.516004,York University Heights,Ward 19,North District,Weekly,59,24,81,High,69,62,0,57.4,High,255,127,14,190,2026-02-23
+ASSET-00571,Container,43.609211,-79.522882,Scarborough Village,Ward 19,South District,On demand,59,18,88,Low,61,30,1,34.2,Low,44,160,44,160,2026-03-27
+ASSET-00572,Recycling Bin,43.711886,-79.545771,Flemingdon Park,Ward 5,West District,Weekly,5,29,56,Low,60,0,2,23.2,Low,44,160,44,160,2026-04-26
+ASSET-00573,Container,43.624327,-79.49664,Scarborough Village,Ward 14,North District,2x weekly,89,44,63,High,49,62,1,79.5,Critical,214,39,40,210,2026-02-23
+ASSET-00574,Public Realm Asset,43.597975,-79.439721,Annex,Ward 5,South District,On demand,37,0,67,Medium,66,51,0,33.9,Low,44,160,44,160,2026-03-06
+ASSET-00575,Park Waste Bin,43.7938,-79.207983,Flemingdon Park,Ward 24,North District,3x weekly,42,51,51,High,49,74,0,67.0,High,255,127,14,190,2026-02-11
+ASSET-00576,Park Waste Bin,43.744648,-79.24001,York University Heights,Ward 5,North District,On demand,40,21,49,Low,50,25,1,35.6,Moderate,255,193,7,170,2026-04-01
+ASSET-00577,Park Waste Bin,43.759729,-79.454182,Flemingdon Park,Ward 4,East District,On demand,82,49,55,High,54,32,2,78.4,Critical,214,39,40,210,2026-03-25
+ASSET-00578,Public Realm Asset,43.789203,-79.486858,York University Heights,Ward 24,East District,Weekly,36,57,89,Medium,65,114,1,55.9,High,255,127,14,190,2026-01-02
+ASSET-00579,Litter Bin,43.665965,-79.360453,Scarborough Village,Ward 5,West District,Daily,100,24,47,Low,42,0,1,54.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00580,Park Waste Bin,43.779353,-79.364152,York University Heights,Ward 9,North District,Daily,54,47,77,Low,50,61,0,45.2,Moderate,255,193,7,170,2026-02-24
+ASSET-00581,Litter Bin,43.789079,-79.572692,Danforth East York,Ward 15,West District,On demand,42,23,60,Medium,62,76,0,47.1,Moderate,255,193,7,170,2026-02-09
+ASSET-00582,Container,43.726676,-79.342551,Scarborough Village,Ward 8,East District,Daily,80,47,94,High,59,0,3,67.3,High,255,127,14,190,2026-04-26
+ASSET-00583,Park Waste Bin,43.766774,-79.515915,North York Centre,Ward 2,West District,2x weekly,77,77,45,Medium,33,25,1,74.2,High,255,127,14,190,2026-04-01
+ASSET-00584,Recycling Bin,43.640304,-79.592426,York University Heights,Ward 23,East District,On demand,39,54,97,Low,65,71,1,41.3,Moderate,255,193,7,170,2026-02-14
+ASSET-00585,Recycling Bin,43.700062,-79.192725,Flemingdon Park,Ward 7,East District,Weekly,67,16,59,High,66,92,2,70.0,High,255,127,14,190,2026-01-24
+ASSET-00586,Recycling Bin,43.716073,-79.539662,Annex,Ward 24,West District,Weekly,53,0,55,Low,53,117,2,45.5,Moderate,255,193,7,170,2025-12-30
+ASSET-00587,Container,43.719702,-79.389872,High Park North,Ward 5,North District,On demand,83,10,77,Low,66,80,1,48.6,Moderate,255,193,7,170,2026-02-05
+ASSET-00588,Public Realm Asset,43.622955,-79.291229,Flemingdon Park,Ward 5,West District,3x weekly,26,61,71,Medium,47,74,0,50.5,Moderate,255,193,7,170,2026-02-11
+ASSET-00589,Container,43.772204,-79.308874,York University Heights,Ward 10,South District,On demand,66,0,84,Medium,65,56,1,43.3,Moderate,255,193,7,170,2026-03-01
+ASSET-00590,Park Waste Bin,43.742222,-79.328493,North York Centre,Ward 8,North District,On demand,69,41,59,High,41,17,0,64.8,High,255,127,14,190,2026-04-09
+ASSET-00591,Recycling Bin,43.742963,-79.363974,Scarborough Village,Ward 18,South District,Daily,56,39,58,Low,55,89,3,56.8,High,255,127,14,190,2026-01-27
+ASSET-00592,Park Waste Bin,43.61379,-79.435067,Danforth East York,Ward 12,East District,3x weekly,43,29,77,Medium,57,69,0,45.0,Moderate,255,193,7,170,2026-02-16
+ASSET-00593,Container,43.648531,-79.614067,York University Heights,Ward 1,West District,2x weekly,80,53,58,High,49,96,1,84.3,Critical,214,39,40,210,2026-01-20
+ASSET-00594,Container,43.708326,-79.580874,Etobicoke Centre,Ward 8,West District,2x weekly,86,40,75,Medium,66,66,0,63.3,High,255,127,14,190,2026-02-19
+ASSET-00595,Public Realm Asset,43.645269,-79.576316,High Park North,Ward 18,East District,Daily,16,57,47,Medium,31,102,3,60.0,High,255,127,14,190,2026-01-14
+ASSET-00596,Container,43.790932,-79.162038,North York Centre,Ward 15,South District,Daily,48,31,98,High,71,0,3,50.5,Moderate,255,193,7,170,2026-04-26
+ASSET-00597,Park Waste Bin,43.682622,-79.310647,North York Centre,Ward 3,West District,3x weekly,88,45,53,Medium,41,4,2,66.2,High,255,127,14,190,2026-04-22
+ASSET-00598,Litter Bin,43.619515,-79.353893,Kensington Chinatown,Ward 22,North District,Weekly,37,63,79,High,40,9,1,57.2,High,255,127,14,190,2026-04-17
+ASSET-00599,Public Realm Asset,43.704991,-79.284085,York University Heights,Ward 3,North District,Daily,85,61,83,Low,60,58,0,58.7,High,255,127,14,190,2026-02-27
+ASSET-00600,Litter Bin,43.785491,-79.529727,Downtown Yonge East,Ward 3,West District,3x weekly,37,47,100,Medium,65,6,2,39.8,Moderate,255,193,7,170,2026-04-20
+ASSET-00601,Container,43.609787,-79.593768,Kensington Chinatown,Ward 9,South District,Weekly,60,16,93,Medium,65,133,1,51.2,Moderate,255,193,7,170,2025-12-14
+ASSET-00602,Public Realm Asset,43.736688,-79.242769,Danforth East York,Ward 1,South District,Daily,66,18,47,Medium,53,54,2,57.8,High,255,127,14,190,2026-03-03
+ASSET-00603,Container,43.660787,-79.337727,Downtown Yonge East,Ward 25,West District,Daily,61,25,55,High,63,76,0,65.3,High,255,127,14,190,2026-02-09
+ASSET-00604,Park Waste Bin,43.697222,-79.532629,York University Heights,Ward 10,West District,2x weekly,95,50,97,Medium,56,0,1,58.9,High,255,127,14,190,2026-04-26
+ASSET-00605,Litter Bin,43.594815,-79.474744,Agincourt South,Ward 6,North District,3x weekly,72,77,86,Medium,50,35,1,65.5,High,255,127,14,190,2026-03-22
+ASSET-00606,Park Waste Bin,43.763938,-79.411076,York University Heights,Ward 5,East District,2x weekly,40,65,57,Medium,46,106,3,69.3,High,255,127,14,190,2026-01-10
+ASSET-00607,Recycling Bin,43.724445,-79.174112,Downtown Yonge East,Ward 2,West District,On demand,76,34,65,Low,61,32,1,49.8,Moderate,255,193,7,170,2026-03-25
+ASSET-00608,Container,43.627242,-79.317273,Downtown Yonge East,Ward 10,North District,2x weekly,49,34,75,High,65,0,1,52.3,Moderate,255,193,7,170,2026-04-26
+ASSET-00609,Container,43.741729,-79.416665,Annex,Ward 6,North District,3x weekly,37,0,43,Low,66,0,1,26.4,Low,44,160,44,160,2026-04-26
+ASSET-00610,Recycling Bin,43.624829,-79.400389,Downtown Yonge East,Ward 6,West District,On demand,50,41,80,High,56,49,3,63.9,High,255,127,14,190,2026-03-08
+ASSET-00611,Litter Bin,43.61917,-79.439798,High Park North,Ward 22,West District,2x weekly,92,77,45,Medium,37,6,2,79.0,Critical,214,39,40,210,2026-04-20
+ASSET-00612,Public Realm Asset,43.79054,-79.354588,Danforth East York,Ward 12,North District,3x weekly,72,21,100,Low,82,90,0,42.8,Moderate,255,193,7,170,2026-01-26
+ASSET-00613,Litter Bin,43.720146,-79.202311,Kensington Chinatown,Ward 11,South District,Weekly,85,25,60,Low,64,47,0,51.1,Moderate,255,193,7,170,2026-03-10
+ASSET-00614,Container,43.689537,-79.345987,Annex,Ward 19,East District,2x weekly,28,20,72,Medium,61,42,1,36.6,Moderate,255,193,7,170,2026-03-15
+ASSET-00615,Park Waste Bin,43.78059,-79.259604,Kensington Chinatown,Ward 8,South District,2x weekly,72,70,100,Medium,47,29,0,57.8,High,255,127,14,190,2026-03-28
+ASSET-00616,Public Realm Asset,43.723548,-79.189469,Agincourt South,Ward 15,East District,2x weekly,66,35,81,Medium,61,0,0,45.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00617,Recycling Bin,43.691167,-79.32378,York University Heights,Ward 20,West District,2x weekly,57,83,62,Medium,28,29,1,66.1,High,255,127,14,190,2026-03-28
+ASSET-00618,Park Waste Bin,43.67814,-79.520487,Flemingdon Park,Ward 21,West District,Daily,50,34,88,Low,60,52,1,38.6,Moderate,255,193,7,170,2026-03-05
+ASSET-00619,Litter Bin,43.72524,-79.457573,Etobicoke Centre,Ward 19,South District,On demand,49,36,81,Low,66,60,3,45.2,Moderate,255,193,7,170,2026-02-25
+ASSET-00620,Park Waste Bin,43.770413,-79.344661,North York Centre,Ward 18,South District,3x weekly,67,68,81,Low,56,86,0,58.4,High,255,127,14,190,2026-01-30
+ASSET-00621,Container,43.640712,-79.332201,Flemingdon Park,Ward 10,North District,Weekly,72,35,100,Medium,66,78,1,55.5,High,255,127,14,190,2026-02-07
+ASSET-00622,Public Realm Asset,43.765649,-79.379235,Danforth East York,Ward 17,West District,3x weekly,34,44,76,High,47,21,1,52.5,Moderate,255,193,7,170,2026-04-05
+ASSET-00623,Container,43.627574,-79.535149,Annex,Ward 15,North District,3x weekly,76,12,72,High,60,14,2,59.5,High,255,127,14,190,2026-04-12
+ASSET-00624,Public Realm Asset,43.707693,-79.397685,Danforth East York,Ward 2,North District,Weekly,51,10,71,High,59,23,1,49.5,Moderate,255,193,7,170,2026-04-03
+ASSET-00625,Park Waste Bin,43.60427,-79.587268,Kensington Chinatown,Ward 2,North District,On demand,84,29,74,Low,58,0,0,43.3,Moderate,255,193,7,170,2026-04-26
+ASSET-00626,Public Realm Asset,43.810752,-79.5976,Waterfront Communities,Ward 2,East District,Daily,97,79,76,Medium,48,83,1,82.8,Critical,214,39,40,210,2026-02-02
+ASSET-00627,Park Waste Bin,43.807573,-79.232604,Etobicoke Centre,Ward 18,North District,Weekly,65,8,66,High,61,50,2,60.2,High,255,127,14,190,2026-03-07
+ASSET-00628,Litter Bin,43.618355,-79.381462,North York Centre,Ward 9,South District,3x weekly,52,33,72,Medium,65,41,0,46.8,Moderate,255,193,7,170,2026-03-16
+ASSET-00629,Park Waste Bin,43.607654,-79.618074,Agincourt South,Ward 16,West District,On demand,46,9,90,High,75,0,1,40.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00630,Recycling Bin,43.685552,-79.608958,Downtown Yonge East,Ward 17,East District,3x weekly,86,68,68,Low,38,0,1,58.9,High,255,127,14,190,2026-04-26
+ASSET-00631,Park Waste Bin,43.662534,-79.439152,Etobicoke Centre,Ward 23,West District,3x weekly,40,26,100,Low,67,70,0,30.6,Low,44,160,44,160,2026-02-15
+ASSET-00632,Litter Bin,43.745836,-79.368413,Agincourt South,Ward 22,South District,Weekly,55,33,82,Medium,62,24,3,49.8,Moderate,255,193,7,170,2026-04-02
+ASSET-00633,Public Realm Asset,43.670486,-79.260084,Waterfront Communities,Ward 8,West District,3x weekly,79,36,70,Low,50,31,1,50.3,Moderate,255,193,7,170,2026-03-26
+ASSET-00634,Recycling Bin,43.684225,-79.170018,York University Heights,Ward 17,West District,On demand,62,39,65,High,47,0,1,60.4,High,255,127,14,190,2026-04-26
+ASSET-00635,Park Waste Bin,43.686603,-79.353955,Annex,Ward 17,South District,On demand,72,26,94,Low,65,11,0,35.6,Moderate,255,193,7,170,2026-04-15
+ASSET-00636,Park Waste Bin,43.685638,-79.367649,Downtown Yonge East,Ward 7,South District,On demand,71,48,60,High,37,61,2,76.9,Critical,214,39,40,210,2026-02-24
+ASSET-00637,Recycling Bin,43.620592,-79.546981,Kensington Chinatown,Ward 14,North District,On demand,72,0,57,Medium,67,106,3,61.0,High,255,127,14,190,2026-01-10
+ASSET-00638,Park Waste Bin,43.68623,-79.455407,Annex,Ward 24,East District,Weekly,49,12,70,Low,70,123,1,42.8,Moderate,255,193,7,170,2025-12-24
+ASSET-00639,Recycling Bin,43.717299,-79.357668,Scarborough Village,Ward 13,North District,Daily,93,78,72,High,34,0,1,81.5,Critical,214,39,40,210,2026-04-26
+ASSET-00640,Container,43.769449,-79.360609,York University Heights,Ward 14,North District,On demand,76,20,73,Low,68,38,0,42.7,Moderate,255,193,7,170,2026-03-19
+ASSET-00641,Container,43.759056,-79.33935,Etobicoke Centre,Ward 2,West District,Daily,80,14,97,Low,80,56,0,39.8,Moderate,255,193,7,170,2026-03-01
+ASSET-00642,Container,43.727839,-79.383694,North York Centre,Ward 1,South District,On demand,38,37,64,Medium,46,0,2,43.6,Moderate,255,193,7,170,2026-04-26
+ASSET-00643,Container,43.630114,-79.403041,Scarborough Village,Ward 8,South District,Weekly,23,37,84,Medium,52,49,0,36.5,Moderate,255,193,7,170,2026-03-08
+ASSET-00644,Litter Bin,43.709917,-79.207576,Scarborough Village,Ward 5,East District,Weekly,66,21,36,Medium,53,90,1,63.5,High,255,127,14,190,2026-01-26
+ASSET-00645,Park Waste Bin,43.776337,-79.42235,Etobicoke Centre,Ward 18,South District,2x weekly,66,61,77,Low,42,79,3,61.9,High,255,127,14,190,2026-02-06
+ASSET-00646,Container,43.651823,-79.528623,North York Centre,Ward 4,West District,Weekly,68,42,52,Low,35,55,0,52.9,Moderate,255,193,7,170,2026-03-02
+ASSET-00647,Public Realm Asset,43.688095,-79.336906,Danforth East York,Ward 4,North District,Weekly,44,14,100,Low,77,95,2,35.5,Moderate,255,193,7,170,2026-01-21
+ASSET-00648,Container,43.682072,-79.246542,Scarborough Village,Ward 19,East District,On demand,63,9,62,High,59,10,0,51.6,Moderate,255,193,7,170,2026-04-16
+ASSET-00649,Recycling Bin,43.742496,-79.307629,Scarborough Village,Ward 18,South District,3x weekly,84,51,100,Medium,66,0,2,56.7,High,255,127,14,190,2026-04-26
+ASSET-00650,Public Realm Asset,43.648924,-79.518501,High Park North,Ward 10,East District,Weekly,41,60,79,Medium,58,36,1,51.1,Moderate,255,193,7,170,2026-03-21
+ASSET-00651,Recycling Bin,43.764801,-79.476205,Agincourt South,Ward 23,North District,Daily,100,38,87,Low,55,14,3,56.8,High,255,127,14,190,2026-04-12
+ASSET-00652,Park Waste Bin,43.804945,-79.480443,North York Centre,Ward 20,West District,3x weekly,33,28,74,Low,62,49,1,33.3,Low,44,160,44,160,2026-03-08
+ASSET-00653,Litter Bin,43.744493,-79.284517,Annex,Ward 16,South District,Daily,76,54,57,Medium,33,34,2,67.7,High,255,127,14,190,2026-03-23
+ASSET-00654,Park Waste Bin,43.688317,-79.323199,Downtown Yonge East,Ward 20,West District,Weekly,33,45,40,Low,36,46,0,42.8,Moderate,255,193,7,170,2026-03-11
+ASSET-00655,Container,43.635685,-79.259642,High Park North,Ward 23,West District,3x weekly,44,54,47,Medium,49,20,1,54.7,Moderate,255,193,7,170,2026-04-06
+ASSET-00656,Recycling Bin,43.784609,-79.535906,York University Heights,Ward 17,East District,3x weekly,57,54,81,Medium,44,55,1,56.8,High,255,127,14,190,2026-03-02
+ASSET-00657,Container,43.70182,-79.569854,North York Centre,Ward 23,North District,On demand,59,48,65,Low,58,38,3,52.8,Moderate,255,193,7,170,2026-03-19
+ASSET-00658,Park Waste Bin,43.659567,-79.224999,Kensington Chinatown,Ward 21,West District,3x weekly,44,13,78,Low,58,53,2,34.3,Low,44,160,44,160,2026-03-04
+ASSET-00659,Park Waste Bin,43.807356,-79.306031,York University Heights,Ward 13,South District,On demand,70,50,81,Low,57,13,0,44.9,Moderate,255,193,7,170,2026-04-13
+ASSET-00660,Litter Bin,43.617589,-79.476451,Downtown Yonge East,Ward 18,East District,On demand,62,0,76,Low,61,129,1,42.5,Moderate,255,193,7,170,2025-12-18
+ASSET-00661,Park Waste Bin,43.76292,-79.246505,Kensington Chinatown,Ward 20,North District,Weekly,69,44,94,High,64,0,0,56.5,High,255,127,14,190,2026-04-26
+ASSET-00662,Park Waste Bin,43.745876,-79.503935,Annex,Ward 14,West District,On demand,59,45,91,Medium,52,78,1,55.7,High,255,127,14,190,2026-02-07
+ASSET-00663,Park Waste Bin,43.699359,-79.229415,Downtown Yonge East,Ward 17,East District,On demand,60,39,75,Low,56,39,1,44.6,Moderate,255,193,7,170,2026-03-18
+ASSET-00664,Public Realm Asset,43.633515,-79.288623,Etobicoke Centre,Ward 16,North District,2x weekly,38,29,77,High,65,91,0,56.0,High,255,127,14,190,2026-01-25
+ASSET-00665,Container,43.780799,-79.293681,Waterfront Communities,Ward 16,West District,2x weekly,100,43,95,Medium,68,39,2,65.8,High,255,127,14,190,2026-03-18
+ASSET-00666,Recycling Bin,43.756835,-79.568208,York University Heights,Ward 23,North District,2x weekly,87,61,88,Low,65,33,1,57.3,High,255,127,14,190,2026-03-24
+ASSET-00667,Container,43.652229,-79.505556,Waterfront Communities,Ward 23,East District,3x weekly,81,33,92,Medium,72,100,0,60.4,High,255,127,14,190,2026-01-16
+ASSET-00668,Park Waste Bin,43.622028,-79.615071,Downtown Yonge East,Ward 18,North District,Weekly,59,44,65,Medium,52,96,0,60.8,High,255,127,14,190,2026-01-20
+ASSET-00669,Container,43.669141,-79.38055,High Park North,Ward 6,North District,Weekly,70,38,49,Medium,41,0,0,54.1,Moderate,255,193,7,170,2026-04-26
+ASSET-00670,Park Waste Bin,43.621825,-79.16794,Kensington Chinatown,Ward 8,North District,3x weekly,83,34,100,Low,67,132,0,53.2,Moderate,255,193,7,170,2025-12-15
+ASSET-00671,Litter Bin,43.685484,-79.425792,Downtown Yonge East,Ward 3,South District,On demand,58,35,90,High,59,109,0,64.4,High,255,127,14,190,2026-01-07
+ASSET-00672,Litter Bin,43.686363,-79.409307,Agincourt South,Ward 12,East District,Weekly,48,50,82,Low,63,85,3,52.0,Moderate,255,193,7,170,2026-01-31
+ASSET-00673,Public Realm Asset,43.727092,-79.161962,Annex,Ward 25,East District,Weekly,80,19,39,High,45,50,3,76.2,Critical,214,39,40,210,2026-03-07
+ASSET-00674,Recycling Bin,43.636976,-79.4274,Waterfront Communities,Ward 17,South District,Weekly,78,35,66,Low,62,38,3,55.3,High,255,127,14,190,2026-03-19
+ASSET-00675,Park Waste Bin,43.689023,-79.565195,Scarborough Village,Ward 22,North District,Weekly,46,49,79,High,61,51,0,59.4,High,255,127,14,190,2026-03-06
+ASSET-00676,Public Realm Asset,43.755305,-79.569122,Danforth East York,Ward 23,West District,Daily,16,41,98,Low,72,0,2,22.3,Low,44,160,44,160,2026-04-26
+ASSET-00677,Litter Bin,43.745385,-79.385909,Danforth East York,Ward 12,East District,3x weekly,88,28,62,Low,63,0,1,48.8,Moderate,255,193,7,170,2026-04-26
+ASSET-00678,Park Waste Bin,43.763551,-79.505642,Agincourt South,Ward 20,East District,2x weekly,67,37,79,High,56,44,0,62.2,High,255,127,14,190,2026-03-13
+ASSET-00679,Recycling Bin,43.591606,-79.434399,Scarborough Village,Ward 23,East District,2x weekly,66,38,57,Low,52,94,1,56.9,High,255,127,14,190,2026-01-22
+ASSET-00680,Recycling Bin,43.590138,-79.478403,Etobicoke Centre,Ward 5,North District,Daily,75,25,91,Medium,73,26,0,46.8,Moderate,255,193,7,170,2026-03-31
+ASSET-00681,Container,43.686001,-79.446641,Scarborough Village,Ward 13,North District,3x weekly,45,21,43,Medium,46,62,3,55.2,High,255,127,14,190,2026-02-23
+ASSET-00682,Recycling Bin,43.658555,-79.472615,Scarborough Village,Ward 16,North District,On demand,18,36,71,Low,46,32,1,28.9,Low,44,160,44,160,2026-03-25
+ASSET-00683,Public Realm Asset,43.618485,-79.587554,High Park North,Ward 9,West District,Weekly,71,25,79,High,63,11,2,59.9,High,255,127,14,190,2026-04-15
+ASSET-00684,Litter Bin,43.628826,-79.227186,Kensington Chinatown,Ward 9,South District,Daily,65,66,83,Low,46,29,2,53.6,Moderate,255,193,7,170,2026-03-28
+ASSET-00685,Park Waste Bin,43.655362,-79.487074,Danforth East York,Ward 12,East District,2x weekly,62,30,71,Medium,58,53,2,55.1,High,255,127,14,190,2026-03-04
+ASSET-00686,Park Waste Bin,43.748987,-79.542919,York University Heights,Ward 20,North District,On demand,32,2,53,Low,53,51,1,29.6,Low,44,160,44,160,2026-03-06
+ASSET-00687,Container,43.738473,-79.548344,Annex,Ward 25,East District,2x weekly,62,0,85,High,85,75,2,56.1,High,255,127,14,190,2026-02-10
+ASSET-00688,Public Realm Asset,43.599157,-79.493965,Flemingdon Park,Ward 15,West District,Weekly,44,40,52,Medium,52,0,2,49.0,Moderate,255,193,7,170,2026-04-26
+ASSET-00689,Recycling Bin,43.807989,-79.555048,Annex,Ward 21,East District,Weekly,53,35,67,High,58,0,0,53.6,Moderate,255,193,7,170,2026-04-26
+ASSET-00690,Litter Bin,43.768304,-79.462408,Downtown Yonge East,Ward 6,East District,3x weekly,53,43,73,High,56,51,1,63.2,High,255,127,14,190,2026-03-06
+ASSET-00691,Park Waste Bin,43.605878,-79.465997,Flemingdon Park,Ward 9,South District,2x weekly,37,48,94,Medium,72,63,0,44.4,Moderate,255,193,7,170,2026-02-22
+ASSET-00692,Container,43.727187,-79.245383,North York Centre,Ward 15,South District,3x weekly,83,6,57,Medium,61,29,3,57.1,High,255,127,14,190,2026-03-28
+ASSET-00693,Recycling Bin,43.658976,-79.324314,Flemingdon Park,Ward 8,East District,Daily,41,31,63,Low,44,18,3,39.3,Moderate,255,193,7,170,2026-04-08
+ASSET-00694,Litter Bin,43.63694,-79.404241,Downtown Yonge East,Ward 3,South District,On demand,95,56,92,Low,60,27,0,55.0,High,255,127,14,190,2026-03-30
+ASSET-00695,Container,43.59583,-79.302578,Downtown Yonge East,Ward 4,East District,On demand,50,48,96,Low,65,2,0,32.9,Low,44,160,44,160,2026-04-24
+ASSET-00696,Public Realm Asset,43.678966,-79.582933,High Park North,Ward 8,North District,2x weekly,54,34,50,Low,57,67,0,47.5,Moderate,255,193,7,170,2026-02-18
+ASSET-00697,Recycling Bin,43.618347,-79.478468,North York Centre,Ward 6,West District,Daily,52,20,73,Medium,56,36,2,46.1,Moderate,255,193,7,170,2026-03-21
+ASSET-00698,Public Realm Asset,43.712949,-79.530089,Agincourt South,Ward 18,East District,On demand,68,74,76,Medium,45,82,3,75.0,Critical,214,39,40,210,2026-02-03
+ASSET-00699,Recycling Bin,43.808974,-79.280553,Etobicoke Centre,Ward 20,South District,On demand,38,5,61,Medium,69,90,0,41.9,Moderate,255,193,7,170,2026-01-26
+ASSET-00700,Container,43.761098,-79.197164,High Park North,Ward 12,South District,On demand,81,43,47,Medium,53,37,1,66.5,High,255,127,14,190,2026-03-20
+ASSET-00701,Public Realm Asset,43.702481,-79.458241,High Park North,Ward 12,South District,2x weekly,23,18,72,Low,55,65,3,33.2,Low,44,160,44,160,2026-02-20
+ASSET-00702,Litter Bin,43.668625,-79.420501,North York Centre,Ward 25,North District,2x weekly,65,56,85,Low,45,67,0,50.9,Moderate,255,193,7,170,2026-02-18
+ASSET-00703,Litter Bin,43.775172,-79.231282,Flemingdon Park,Ward 16,South District,2x weekly,53,60,97,Medium,66,72,1,56.1,High,255,127,14,190,2026-02-13
+ASSET-00704,Park Waste Bin,43.693581,-79.275477,Etobicoke Centre,Ward 8,West District,On demand,50,35,100,Low,72,9,3,35.1,Moderate,255,193,7,170,2026-04-17
+ASSET-00705,Container,43.71551,-79.52613,Scarborough Village,Ward 13,North District,3x weekly,89,7,83,Medium,74,17,0,46.8,Moderate,255,193,7,170,2026-04-09
+ASSET-00706,Recycling Bin,43.812472,-79.291042,High Park North,Ward 3,South District,3x weekly,83,19,48,Medium,53,41,3,64.3,High,255,127,14,190,2026-03-16
+ASSET-00707,Park Waste Bin,43.710761,-79.294652,High Park North,Ward 21,East District,Weekly,60,50,90,High,69,42,3,67.2,High,255,127,14,190,2026-03-15
+ASSET-00708,Recycling Bin,43.590217,-79.601938,Annex,Ward 10,West District,Weekly,54,2,69,Low,59,32,3,35.7,Moderate,255,193,7,170,2026-03-25
+ASSET-00709,Container,43.757467,-79.343884,Agincourt South,Ward 7,East District,Daily,82,48,53,High,42,51,1,78.9,Critical,214,39,40,210,2026-03-06
+ASSET-00710,Litter Bin,43.668577,-79.321706,Annex,Ward 4,East District,2x weekly,80,54,75,Low,58,59,0,56.6,High,255,127,14,190,2026-02-26
+ASSET-00711,Litter Bin,43.680536,-79.40222,Kensington Chinatown,Ward 3,North District,Daily,54,21,80,Low,69,91,2,44.6,Moderate,255,193,7,170,2026-01-25
+ASSET-00712,Public Realm Asset,43.631818,-79.422041,High Park North,Ward 16,East District,Weekly,53,58,83,Medium,54,61,0,55.0,High,255,127,14,190,2026-02-24
+ASSET-00713,Recycling Bin,43.635192,-79.522597,Waterfront Communities,Ward 9,South District,Daily,72,19,100,Low,67,66,0,39.1,Moderate,255,193,7,170,2026-02-19
+ASSET-00714,Recycling Bin,43.743393,-79.419718,High Park North,Ward 13,West District,Daily,60,32,92,High,62,52,1,58.7,High,255,127,14,190,2026-03-05
+ASSET-00715,Recycling Bin,43.659638,-79.375063,Flemingdon Park,Ward 2,North District,Weekly,63,54,63,Low,50,58,1,54.9,Moderate,255,193,7,170,2026-02-27
+ASSET-00716,Public Realm Asset,43.731955,-79.173883,Scarborough Village,Ward 22,East District,2x weekly,100,66,67,Low,40,3,1,63.8,High,255,127,14,190,2026-04-23
+ASSET-00717,Container,43.634165,-79.313325,North York Centre,Ward 4,East District,Weekly,69,42,82,Low,50,99,2,56.7,High,255,127,14,190,2026-01-17
+ASSET-00718,Litter Bin,43.666922,-79.381116,York University Heights,Ward 7,West District,3x weekly,90,74,100,Medium,57,2,0,61.9,High,255,127,14,190,2026-04-24
+ASSET-00719,Recycling Bin,43.690675,-79.492693,High Park North,Ward 19,West District,Weekly,73,25,100,Medium,63,15,0,42.9,Moderate,255,193,7,170,2026-04-11
+ASSET-00720,Container,43.75954,-79.603112,Flemingdon Park,Ward 16,North District,2x weekly,20,54,38,Low,26,46,0,41.4,Moderate,255,193,7,170,2026-03-11
+ASSET-00721,Public Realm Asset,43.701554,-79.580715,Downtown Yonge East,Ward 22,East District,Daily,18,30,100,Low,66,58,0,22.6,Low,44,160,44,160,2026-02-27
+ASSET-00722,Recycling Bin,43.701205,-79.422591,Flemingdon Park,Ward 18,West District,3x weekly,62,48,50,Low,52,67,0,54.5,Moderate,255,193,7,170,2026-02-18
+ASSET-00723,Container,43.766812,-79.591505,York University Heights,Ward 25,East District,Weekly,51,51,74,Medium,52,0,0,46.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00724,Park Waste Bin,43.784118,-79.499292,Flemingdon Park,Ward 5,East District,Daily,41,42,72,Low,56,22,0,35.3,Moderate,255,193,7,170,2026-04-04
+ASSET-00725,Container,43.721309,-79.467084,High Park North,Ward 18,South District,3x weekly,51,36,100,Medium,73,0,2,40.6,Moderate,255,193,7,170,2026-04-26
+ASSET-00726,Park Waste Bin,43.766317,-79.175514,Danforth East York,Ward 24,South District,2x weekly,47,30,60,High,60,35,0,55.8,High,255,127,14,190,2026-03-22
+ASSET-00727,Recycling Bin,43.694799,-79.398272,Downtown Yonge East,Ward 17,North District,Weekly,95,55,88,High,64,0,3,76.2,Critical,214,39,40,210,2026-04-26
+ASSET-00728,Container,43.602932,-79.396608,Danforth East York,Ward 15,West District,On demand,45,59,82,Medium,51,36,3,55.5,High,255,127,14,190,2026-03-21
+ASSET-00729,Litter Bin,43.668953,-79.228058,Etobicoke Centre,Ward 12,North District,2x weekly,66,54,46,Medium,33,56,2,69.1,High,255,127,14,190,2026-03-01
+ASSET-00730,Public Realm Asset,43.728739,-79.583331,Kensington Chinatown,Ward 17,South District,On demand,76,99,72,Low,41,59,2,73.3,High,255,127,14,190,2026-02-26
+ASSET-00731,Park Waste Bin,43.723796,-79.26748,Scarborough Village,Ward 21,East District,Daily,71,42,56,Low,46,52,1,54.8,Moderate,255,193,7,170,2026-03-05
+ASSET-00732,Litter Bin,43.733406,-79.559608,Annex,Ward 6,West District,3x weekly,82,32,86,Low,56,55,1,50.0,Moderate,255,193,7,170,2026-03-02
+ASSET-00733,Litter Bin,43.745572,-79.481555,Waterfront Communities,Ward 19,South District,Weekly,41,24,77,Low,59,56,1,35.1,Moderate,255,193,7,170,2026-03-01
+ASSET-00734,Park Waste Bin,43.731823,-79.601446,Waterfront Communities,Ward 12,North District,On demand,74,22,47,High,58,39,1,68.0,High,255,127,14,190,2026-03-18
+ASSET-00735,Public Realm Asset,43.636813,-79.266232,Downtown Yonge East,Ward 15,West District,2x weekly,54,0,67,Low,63,33,0,29.6,Low,44,160,44,160,2026-03-24
+ASSET-00736,Park Waste Bin,43.793605,-79.580115,Flemingdon Park,Ward 2,East District,On demand,97,0,96,High,83,36,2,61.2,High,255,127,14,190,2026-03-21
+ASSET-00737,Park Waste Bin,43.62075,-79.189719,Downtown Yonge East,Ward 7,West District,Daily,80,39,93,Low,57,30,2,48.9,Moderate,255,193,7,170,2026-03-27
+ASSET-00738,Recycling Bin,43.6664,-79.297628,Kensington Chinatown,Ward 17,North District,On demand,38,69,72,Low,47,53,1,48.2,Moderate,255,193,7,170,2026-03-04
+ASSET-00739,Public Realm Asset,43.679061,-79.489928,Flemingdon Park,Ward 4,East District,Weekly,74,25,71,Low,67,47,1,47.1,Moderate,255,193,7,170,2026-03-10
+ASSET-00740,Recycling Bin,43.774423,-79.420116,North York Centre,Ward 13,East District,3x weekly,90,57,72,Medium,44,54,0,68.9,High,255,127,14,190,2026-03-03
+ASSET-00741,Park Waste Bin,43.680564,-79.340223,Danforth East York,Ward 18,East District,2x weekly,57,43,93,High,67,15,1,56.1,High,255,127,14,190,2026-04-11
+ASSET-00742,Public Realm Asset,43.628645,-79.456793,Flemingdon Park,Ward 11,North District,On demand,96,29,69,Medium,67,0,3,62.5,High,255,127,14,190,2026-04-26
+ASSET-00743,Container,43.624901,-79.345008,Flemingdon Park,Ward 9,East District,Weekly,49,34,90,High,67,52,0,53.8,Moderate,255,193,7,170,2026-03-05
+ASSET-00744,Litter Bin,43.706067,-79.616618,High Park North,Ward 20,West District,On demand,43,77,61,Medium,27,107,1,69.3,High,255,127,14,190,2026-01-09
+ASSET-00745,Park Waste Bin,43.815177,-79.426461,Kensington Chinatown,Ward 7,East District,Daily,84,65,72,Low,36,30,0,58.2,High,255,127,14,190,2026-03-27
+ASSET-00746,Container,43.773495,-79.222392,Etobicoke Centre,Ward 19,North District,Daily,80,38,84,Medium,67,107,1,66.0,High,255,127,14,190,2026-01-09
+ASSET-00747,Recycling Bin,43.750348,-79.581717,Annex,Ward 9,East District,On demand,30,0,80,Low,74,41,1,21.6,Low,44,160,44,160,2026-03-16
+ASSET-00748,Park Waste Bin,43.685948,-79.216235,Downtown Yonge East,Ward 19,South District,On demand,60,62,75,Low,47,16,0,46.6,Moderate,255,193,7,170,2026-04-10
+ASSET-00749,Park Waste Bin,43.813524,-79.384197,Agincourt South,Ward 6,South District,On demand,73,27,62,Low,47,48,2,51.2,Moderate,255,193,7,170,2026-03-09
+ASSET-00750,Park Waste Bin,43.634316,-79.560627,Waterfront Communities,Ward 24,South District,Daily,56,0,66,Low,76,75,1,37.8,Moderate,255,193,7,170,2026-02-10
+ASSET-00751,Park Waste Bin,43.628223,-79.466944,Scarborough Village,Ward 14,West District,3x weekly,82,22,47,Low,50,38,3,56.6,High,255,127,14,190,2026-03-19
+ASSET-00752,Public Realm Asset,43.631208,-79.210076,Waterfront Communities,Ward 10,West District,2x weekly,58,48,73,High,63,56,0,65.1,High,255,127,14,190,2026-03-01
+ASSET-00753,Park Waste Bin,43.65482,-79.535221,North York Centre,Ward 23,North District,3x weekly,100,30,78,High,55,25,1,71.5,High,255,127,14,190,2026-04-01
+ASSET-00754,Public Realm Asset,43.688521,-79.607531,Etobicoke Centre,Ward 19,West District,3x weekly,51,45,100,Low,68,17,2,37.5,Moderate,255,193,7,170,2026-04-09
+ASSET-00755,Recycling Bin,43.699706,-79.440964,Annex,Ward 11,West District,Weekly,70,43,95,Medium,66,0,0,46.4,Moderate,255,193,7,170,2026-04-26
+ASSET-00756,Container,43.6541,-79.178919,Scarborough Village,Ward 9,West District,Weekly,85,3,22,High,36,66,2,76.5,Critical,214,39,40,210,2026-02-19
+ASSET-00757,Recycling Bin,43.683143,-79.160555,Agincourt South,Ward 18,North District,Weekly,67,14,57,High,51,8,1,57.2,High,255,127,14,190,2026-04-18
+ASSET-00758,Recycling Bin,43.649522,-79.47443,North York Centre,Ward 20,North District,3x weekly,64,24,82,Medium,73,0,2,45.2,Moderate,255,193,7,170,2026-04-26
+ASSET-00759,Park Waste Bin,43.799207,-79.617155,York University Heights,Ward 19,West District,Daily,56,26,87,Low,70,0,0,30.0,Low,44,160,44,160,2026-04-26
+ASSET-00760,Park Waste Bin,43.758627,-79.162106,Kensington Chinatown,Ward 11,East District,On demand,62,50,100,Medium,65,26,1,50.0,Moderate,255,193,7,170,2026-03-31
+ASSET-00761,Recycling Bin,43.628907,-79.17037,Danforth East York,Ward 20,South District,On demand,68,0,33,Low,50,77,3,52.8,Moderate,255,193,7,170,2026-02-08
+ASSET-00762,Recycling Bin,43.715071,-79.300314,Kensington Chinatown,Ward 22,East District,3x weekly,61,63,50,Low,28,64,1,60.2,High,255,127,14,190,2026-02-21
+ASSET-00763,Recycling Bin,43.767595,-79.541587,Etobicoke Centre,Ward 5,East District,Daily,67,38,47,Low,35,96,0,57.5,High,255,127,14,190,2026-01-20
+ASSET-00764,Park Waste Bin,43.70136,-79.254753,Agincourt South,Ward 16,West District,2x weekly,29,12,98,Medium,69,31,2,30.0,Low,44,160,44,160,2026-03-26
+ASSET-00765,Recycling Bin,43.641608,-79.387929,Kensington Chinatown,Ward 18,East District,On demand,23,57,63,Low,52,71,2,45.4,Moderate,255,193,7,170,2026-02-14
+ASSET-00766,Litter Bin,43.721376,-79.222821,Scarborough Village,Ward 19,West District,2x weekly,65,86,82,Medium,37,42,1,67.4,High,255,127,14,190,2026-03-15
+ASSET-00767,Recycling Bin,43.755143,-79.44886,Flemingdon Park,Ward 20,East District,Daily,66,13,77,Low,66,84,0,42.1,Moderate,255,193,7,170,2026-02-01
+ASSET-00768,Litter Bin,43.646119,-79.175302,Scarborough Village,Ward 22,East District,2x weekly,60,18,90,Medium,61,34,2,44.6,Moderate,255,193,7,170,2026-03-23
+ASSET-00769,Public Realm Asset,43.663829,-79.377997,Kensington Chinatown,Ward 13,West District,2x weekly,77,31,72,Low,57,63,0,49.7,Moderate,255,193,7,170,2026-02-22
+ASSET-00770,Container,43.671299,-79.474809,Downtown Yonge East,Ward 6,North District,On demand,38,58,71,Medium,57,25,3,53.6,Moderate,255,193,7,170,2026-04-01
+ASSET-00771,Litter Bin,43.814228,-79.430888,Kensington Chinatown,Ward 17,East District,2x weekly,19,35,63,Medium,43,8,1,35.5,Moderate,255,193,7,170,2026-04-18
+ASSET-00772,Litter Bin,43.729685,-79.579254,Danforth East York,Ward 22,East District,2x weekly,100,4,93,Medium,72,81,1,57.7,High,255,127,14,190,2026-02-04
+ASSET-00773,Park Waste Bin,43.638523,-79.232854,Waterfront Communities,Ward 21,East District,Weekly,52,42,99,Medium,72,68,0,47.5,Moderate,255,193,7,170,2026-02-17
+ASSET-00774,Recycling Bin,43.715304,-79.562204,Annex,Ward 11,South District,3x weekly,30,33,94,Low,65,0,1,23.6,Low,44,160,44,160,2026-04-26
+ASSET-00775,Container,43.751927,-79.519972,York University Heights,Ward 20,North District,Weekly,41,20,66,Low,61,0,2,31.2,Low,44,160,44,160,2026-04-26
+ASSET-00776,Public Realm Asset,43.605649,-79.474224,High Park North,Ward 20,East District,Weekly,34,2,63,Low,58,72,1,30.9,Low,44,160,44,160,2026-02-13
+ASSET-00777,Recycling Bin,43.784319,-79.454549,Etobicoke Centre,Ward 18,North District,3x weekly,62,0,82,High,69,59,0,50.7,Moderate,255,193,7,170,2026-02-26
+ASSET-00778,Recycling Bin,43.59226,-79.431776,Scarborough Village,Ward 25,North District,On demand,38,62,76,Medium,55,32,2,52.7,Moderate,255,193,7,170,2026-03-25
+ASSET-00779,Container,43.776674,-79.484798,North York Centre,Ward 24,West District,3x weekly,87,14,61,Low,51,84,0,53.0,Moderate,255,193,7,170,2026-02-01
+ASSET-00780,Litter Bin,43.730227,-79.199055,Danforth East York,Ward 14,South District,2x weekly,97,29,85,Medium,59,1,3,59.8,High,255,127,14,190,2026-04-25
+ASSET-00781,Park Waste Bin,43.69912,-79.466463,Annex,Ward 25,North District,Daily,71,23,45,Medium,59,64,2,62.8,High,255,127,14,190,2026-02-21
+ASSET-00782,Container,43.709312,-79.596464,Etobicoke Centre,Ward 9,North District,On demand,81,42,100,Low,57,83,0,51.3,Moderate,255,193,7,170,2026-02-02
+ASSET-00783,Park Waste Bin,43.705951,-79.471507,Downtown Yonge East,Ward 23,South District,3x weekly,61,3,58,Low,52,23,0,33.5,Low,44,160,44,160,2026-04-03
+ASSET-00784,Public Realm Asset,43.614429,-79.263096,Flemingdon Park,Ward 21,East District,3x weekly,56,1,80,High,81,72,3,56.9,High,255,127,14,190,2026-02-13
+ASSET-00785,Recycling Bin,43.781895,-79.354417,Annex,Ward 7,North District,Daily,74,52,79,Medium,59,13,1,57.3,High,255,127,14,190,2026-04-13
+ASSET-00786,Park Waste Bin,43.736961,-79.582534,Scarborough Village,Ward 8,North District,3x weekly,49,84,65,Medium,26,46,3,69.1,High,255,127,14,190,2026-03-11
+ASSET-00787,Container,43.749078,-79.254295,Agincourt South,Ward 23,East District,Weekly,25,25,55,Low,57,50,0,31.5,Low,44,160,44,160,2026-03-07
+ASSET-00788,Litter Bin,43.78964,-79.239035,Etobicoke Centre,Ward 24,South District,2x weekly,12,82,79,Low,45,15,1,36.9,Moderate,255,193,7,170,2026-04-11
+ASSET-00789,Container,43.649811,-79.442873,North York Centre,Ward 17,West District,On demand,47,42,63,Medium,58,29,1,50.1,Moderate,255,193,7,170,2026-03-28
+ASSET-00790,Litter Bin,43.615876,-79.281477,Kensington Chinatown,Ward 17,South District,Daily,65,50,82,Low,60,76,1,52.9,Moderate,255,193,7,170,2026-02-09
+ASSET-00791,Litter Bin,43.804055,-79.608664,Kensington Chinatown,Ward 10,South District,Weekly,79,8,58,High,66,8,1,59.4,High,255,127,14,190,2026-04-18
+ASSET-00792,Public Realm Asset,43.738889,-79.560959,Annex,Ward 14,East District,On demand,84,58,82,Medium,52,85,3,75.0,Critical,214,39,40,210,2026-01-31
+ASSET-00793,Recycling Bin,43.78007,-79.29731,Agincourt South,Ward 21,South District,Daily,59,56,72,Low,55,30,2,50.8,Moderate,255,193,7,170,2026-03-27
+ASSET-00794,Container,43.803568,-79.3251,Flemingdon Park,Ward 18,North District,Weekly,47,36,56,High,44,0,0,54.0,Moderate,255,193,7,170,2026-04-26
+ASSET-00795,Litter Bin,43.671715,-79.306045,Annex,Ward 15,North District,Weekly,67,0,68,Medium,71,0,0,37.9,Moderate,255,193,7,170,2026-04-26
+ASSET-00796,Recycling Bin,43.618808,-79.318465,Flemingdon Park,Ward 24,West District,Daily,88,58,58,Low,42,1,0,56.7,High,255,127,14,190,2026-04-25
+ASSET-00797,Park Waste Bin,43.607703,-79.311448,Downtown Yonge East,Ward 17,South District,On demand,64,27,43,Low,50,0,2,45.9,Moderate,255,193,7,170,2026-04-26
+ASSET-00798,Container,43.791738,-79.508137,Scarborough Village,Ward 2,North District,2x weekly,50,53,93,High,62,34,0,57.0,High,255,127,14,190,2026-03-23
+ASSET-00799,Recycling Bin,43.601216,-79.231885,Annex,Ward 6,West District,Weekly,33,42,83,High,53,70,3,60.3,High,255,127,14,190,2026-02-15
+ASSET-00800,Park Waste Bin,43.764029,-79.35208,York University Heights,Ward 6,West District,3x weekly,21,21,59,Medium,60,48,0,35.9,Moderate,255,193,7,170,2026-03-09

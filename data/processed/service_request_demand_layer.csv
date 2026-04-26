@@ -1,0 +1,1401 @@
+request_id,category,status,priority,latitude,longitude,neighbourhood,ward,service_district,created_date,days_open
+SR-000001,Missed Collection,Open,High,43.632916,-79.533413,Waterfront Communities,Ward 15,South District,2025-12-20,35
+SR-000002,Public Realm Cleanliness,Open,Urgent,43.632377,-79.593779,Kensington Chinatown,Ward 7,South District,2025-12-31,27
+SR-000003,Missed Collection,Closed,Low,43.725194,-79.23344,Kensington Chinatown,Ward 18,East District,2025-11-19,0
+SR-000004,Public Realm Cleanliness,Closed,Medium,43.594025,-79.597458,Waterfront Communities,Ward 6,North District,2026-04-12,0
+SR-000005,Illegal Dumping,Closed,Low,43.721737,-79.243032,Annex,Ward 2,East District,2026-02-01,0
+SR-000006,Missed Collection,Open,Low,43.66515,-79.459177,Scarborough Village,Ward 6,North District,2025-11-05,19
+SR-000007,Public Realm Cleanliness,Closed,Medium,43.72716,-79.493862,Agincourt South,Ward 24,East District,2026-04-17,0
+SR-000008,Illegal Dumping,Open,High,43.59612,-79.281795,Danforth East York,Ward 13,West District,2026-01-07,36
+SR-000009,Illegal Dumping,Open,Urgent,43.733899,-79.352852,Annex,Ward 4,East District,2026-02-01,34
+SR-000010,Public Realm Cleanliness,Closed,Medium,43.760587,-79.309394,Flemingdon Park,Ward 7,West District,2026-03-30,0
+SR-000011,Public Realm Cleanliness,Closed,Low,43.637353,-79.457859,Agincourt South,Ward 24,East District,2026-01-07,0
+SR-000012,Illegal Dumping,Closed,High,43.619005,-79.560266,North York Centre,Ward 19,East District,2026-03-24,0
+SR-000013,Public Realm Cleanliness,Closed,Urgent,43.745525,-79.225044,North York Centre,Ward 24,South District,2025-12-21,0
+SR-000014,Public Realm Cleanliness,Open,Medium,43.811428,-79.33096,Flemingdon Park,Ward 10,North District,2026-04-26,8
+SR-000015,Damaged Bin,Open,Low,43.632343,-79.571401,Flemingdon Park,Ward 7,South District,2026-01-11,3
+SR-000016,Illegal Dumping,In Progress,Medium,43.776956,-79.353772,Waterfront Communities,Ward 21,North District,2025-11-01,19
+SR-000017,Missed Collection,In Progress,High,43.732206,-79.260527,High Park North,Ward 17,East District,2026-04-25,8
+SR-000018,Illegal Dumping,Closed,High,43.751754,-79.236149,Scarborough Village,Ward 24,West District,2026-03-13,0
+SR-000019,Illegal Dumping,Open,High,43.602929,-79.276141,York University Heights,Ward 16,South District,2026-04-17,42
+SR-000020,Damaged Bin,Open,Medium,43.785696,-79.488378,York University Heights,Ward 15,East District,2025-12-29,27
+SR-000021,Missed Collection,Closed,High,43.737303,-79.475485,Etobicoke Centre,Ward 24,East District,2025-12-05,0
+SR-000022,Missed Collection,Closed,Medium,43.810333,-79.604625,Etobicoke Centre,Ward 22,East District,2026-01-26,0
+SR-000023,Overflowing Litter Bin,Open,High,43.723352,-79.543408,Waterfront Communities,Ward 11,South District,2025-11-17,35
+SR-000024,Public Realm Cleanliness,Open,Urgent,43.753811,-79.53909,Annex,Ward 20,West District,2026-02-07,21
+SR-000025,Missed Collection,Closed,High,43.644138,-79.392589,Scarborough Village,Ward 3,South District,2026-02-25,0
+SR-000026,Damaged Bin,In Progress,High,43.800412,-79.522611,Kensington Chinatown,Ward 17,East District,2026-03-13,8
+SR-000027,Missed Collection,In Progress,Medium,43.623175,-79.270871,Downtown Yonge East,Ward 15,West District,2025-12-24,33
+SR-000028,Overflowing Litter Bin,Open,High,43.705142,-79.200579,Agincourt South,Ward 24,East District,2026-02-02,10
+SR-000029,Public Realm Cleanliness,Open,Medium,43.623721,-79.322873,Kensington Chinatown,Ward 24,West District,2025-12-30,25
+SR-000030,Public Realm Cleanliness,Closed,Low,43.643562,-79.54789,Waterfront Communities,Ward 10,West District,2025-11-02,0
+SR-000031,Missed Collection,Closed,High,43.747189,-79.346905,Agincourt South,Ward 2,West District,2025-12-14,0
+SR-000032,Illegal Dumping,Closed,Low,43.76361,-79.477647,Etobicoke Centre,Ward 25,East District,2025-11-14,0
+SR-000033,Illegal Dumping,Open,Medium,43.693033,-79.433483,Kensington Chinatown,Ward 10,East District,2025-12-11,21
+SR-000034,Missed Collection,Closed,High,43.816341,-79.485565,Annex,Ward 6,East District,2026-03-28,0
+SR-000035,Public Realm Cleanliness,Open,Low,43.657808,-79.456908,Kensington Chinatown,Ward 18,East District,2025-12-07,21
+SR-000036,Overflowing Litter Bin,In Progress,High,43.719857,-79.503932,Etobicoke Centre,Ward 8,North District,2026-04-08,20
+SR-000037,Illegal Dumping,Closed,Urgent,43.800517,-79.497785,Waterfront Communities,Ward 5,West District,2025-12-27,0
+SR-000038,Missed Collection,Closed,Low,43.796038,-79.572401,Scarborough Village,Ward 2,West District,2026-01-07,0
+SR-000039,Overflowing Litter Bin,Closed,Urgent,43.741009,-79.202787,Etobicoke Centre,Ward 12,East District,2026-01-31,0
+SR-000040,Public Realm Cleanliness,Open,Low,43.628812,-79.17457,Agincourt South,Ward 19,North District,2026-04-03,45
+SR-000041,Missed Collection,Closed,Urgent,43.694163,-79.184971,High Park North,Ward 22,South District,2025-12-27,0
+SR-000042,Overflowing Litter Bin,Open,Medium,43.745669,-79.48127,Etobicoke Centre,Ward 9,East District,2026-01-16,12
+SR-000043,Illegal Dumping,Closed,High,43.63331,-79.480282,Agincourt South,Ward 16,West District,2026-04-10,0
+SR-000044,Missed Collection,Closed,High,43.611394,-79.553821,Agincourt South,Ward 15,North District,2026-02-13,0
+SR-000045,Public Realm Cleanliness,In Progress,Medium,43.614072,-79.425446,North York Centre,Ward 4,South District,2026-03-30,21
+SR-000046,Missed Collection,Closed,High,43.772983,-79.554964,North York Centre,Ward 15,South District,2025-11-26,0
+SR-000047,Overflowing Litter Bin,Closed,Medium,43.619974,-79.324023,North York Centre,Ward 6,South District,2026-01-18,0
+SR-000048,Illegal Dumping,Open,Medium,43.635352,-79.575099,Flemingdon Park,Ward 19,South District,2026-01-05,37
+SR-000049,Public Realm Cleanliness,In Progress,Medium,43.628375,-79.195084,Annex,Ward 22,West District,2025-12-01,32
+SR-000050,Public Realm Cleanliness,Open,Urgent,43.778938,-79.45713,Danforth East York,Ward 18,West District,2026-01-03,12
+SR-000051,Damaged Bin,In Progress,Low,43.740839,-79.372853,Etobicoke Centre,Ward 4,South District,2026-02-02,32
+SR-000052,Missed Collection,Closed,Low,43.745739,-79.305971,Kensington Chinatown,Ward 5,West District,2026-03-20,0
+SR-000053,Overflowing Litter Bin,Closed,Urgent,43.734609,-79.497593,North York Centre,Ward 10,South District,2025-11-20,0
+SR-000054,Damaged Bin,Closed,Medium,43.598971,-79.410439,Kensington Chinatown,Ward 22,East District,2026-02-09,0
+SR-000055,Illegal Dumping,Closed,Urgent,43.794924,-79.358031,Flemingdon Park,Ward 12,West District,2025-11-28,0
+SR-000056,Public Realm Cleanliness,Open,Urgent,43.78145,-79.163853,Annex,Ward 10,West District,2026-01-22,36
+SR-000057,Missed Collection,Open,High,43.627632,-79.301782,Downtown Yonge East,Ward 10,West District,2026-02-25,28
+SR-000058,Public Realm Cleanliness,Closed,Urgent,43.745088,-79.16922,York University Heights,Ward 11,South District,2026-01-13,0
+SR-000059,Damaged Bin,Closed,Medium,43.816688,-79.304128,York University Heights,Ward 6,South District,2026-03-22,0
+SR-000060,Public Realm Cleanliness,Open,Urgent,43.646031,-79.252664,Danforth East York,Ward 14,North District,2026-02-12,43
+SR-000061,Overflowing Litter Bin,Open,Low,43.614617,-79.260878,Downtown Yonge East,Ward 21,West District,2026-03-21,32
+SR-000062,Damaged Bin,Closed,Medium,43.799345,-79.443897,Downtown Yonge East,Ward 5,South District,2025-12-31,0
+SR-000063,Public Realm Cleanliness,Closed,Urgent,43.735046,-79.422134,Etobicoke Centre,Ward 6,South District,2025-12-17,0
+SR-000064,Public Realm Cleanliness,Closed,Urgent,43.690686,-79.477229,Scarborough Village,Ward 12,North District,2026-03-10,0
+SR-000065,Public Realm Cleanliness,Closed,Low,43.76529,-79.189359,Etobicoke Centre,Ward 16,North District,2025-12-19,0
+SR-000066,Damaged Bin,In Progress,High,43.806373,-79.539601,Waterfront Communities,Ward 2,South District,2025-10-28,24
+SR-000067,Public Realm Cleanliness,Open,Urgent,43.791191,-79.280782,Flemingdon Park,Ward 3,North District,2025-12-13,18
+SR-000068,Public Realm Cleanliness,Closed,Low,43.648153,-79.589049,North York Centre,Ward 20,West District,2026-02-23,0
+SR-000069,Missed Collection,Closed,High,43.651639,-79.200384,Etobicoke Centre,Ward 2,East District,2025-12-11,0
+SR-000070,Damaged Bin,Open,Urgent,43.735631,-79.288315,North York Centre,Ward 16,East District,2026-01-09,23
+SR-000071,Illegal Dumping,In Progress,Medium,43.649145,-79.289081,Waterfront Communities,Ward 23,East District,2025-12-03,17
+SR-000072,Damaged Bin,Open,Medium,43.596468,-79.447352,Etobicoke Centre,Ward 2,East District,2025-11-18,2
+SR-000073,Damaged Bin,In Progress,Low,43.734153,-79.552796,Annex,Ward 17,West District,2026-02-14,17
+SR-000074,Public Realm Cleanliness,Open,High,43.779291,-79.511886,High Park North,Ward 9,West District,2026-03-29,39
+SR-000075,Public Realm Cleanliness,Open,Medium,43.740025,-79.433609,York University Heights,Ward 15,East District,2026-03-13,17
+SR-000076,Overflowing Litter Bin,Closed,Urgent,43.72709,-79.570573,Annex,Ward 17,West District,2026-01-29,0
+SR-000077,Overflowing Litter Bin,Open,Medium,43.59389,-79.2016,Agincourt South,Ward 25,South District,2026-01-18,16
+SR-000078,Damaged Bin,Closed,Medium,43.652015,-79.242949,Kensington Chinatown,Ward 19,East District,2026-04-13,0
+SR-000079,Illegal Dumping,Closed,Low,43.819851,-79.522742,Waterfront Communities,Ward 6,South District,2026-01-14,0
+SR-000080,Illegal Dumping,Closed,Urgent,43.650989,-79.315084,Flemingdon Park,Ward 25,North District,2026-01-19,0
+SR-000081,Damaged Bin,Closed,Urgent,43.812053,-79.198725,High Park North,Ward 5,South District,2026-04-23,0
+SR-000082,Damaged Bin,In Progress,Urgent,43.705661,-79.254249,York University Heights,Ward 11,West District,2026-04-02,35
+SR-000083,Illegal Dumping,Closed,Urgent,43.621222,-79.170378,Etobicoke Centre,Ward 21,East District,2026-01-31,0
+SR-000084,Illegal Dumping,In Progress,Low,43.811801,-79.544685,High Park North,Ward 21,South District,2025-12-29,44
+SR-000085,Overflowing Litter Bin,Closed,Medium,43.658867,-79.573929,North York Centre,Ward 11,North District,2026-02-05,0
+SR-000086,Missed Collection,Closed,Low,43.652495,-79.24466,Downtown Yonge East,Ward 1,South District,2026-04-01,0
+SR-000087,Missed Collection,Closed,Urgent,43.677013,-79.579337,Danforth East York,Ward 8,East District,2026-02-21,0
+SR-000088,Missed Collection,Open,Low,43.668712,-79.168564,Etobicoke Centre,Ward 3,West District,2025-11-25,43
+SR-000089,Public Realm Cleanliness,Open,Low,43.734827,-79.428566,Flemingdon Park,Ward 4,West District,2025-11-23,9
+SR-000090,Public Realm Cleanliness,Closed,Medium,43.628304,-79.166359,Downtown Yonge East,Ward 23,North District,2026-02-21,0
+SR-000091,Damaged Bin,In Progress,Low,43.778795,-79.49052,York University Heights,Ward 15,East District,2026-01-07,45
+SR-000092,Illegal Dumping,Closed,High,43.606116,-79.593952,Annex,Ward 25,West District,2026-02-15,0
+SR-000093,Damaged Bin,Open,Urgent,43.617687,-79.352846,Danforth East York,Ward 2,East District,2026-02-18,12
+SR-000094,Missed Collection,Closed,Urgent,43.803616,-79.391498,Kensington Chinatown,Ward 20,South District,2026-03-12,0
+SR-000095,Damaged Bin,Closed,Low,43.783877,-79.414892,Annex,Ward 18,South District,2026-03-02,0
+SR-000096,Missed Collection,Closed,Urgent,43.752974,-79.283339,Flemingdon Park,Ward 9,West District,2026-04-18,0
+SR-000097,Missed Collection,Open,High,43.630012,-79.453841,Agincourt South,Ward 1,South District,2026-03-19,42
+SR-000098,Missed Collection,Closed,Low,43.736579,-79.58748,York University Heights,Ward 13,East District,2026-03-19,0
+SR-000099,Illegal Dumping,Closed,Urgent,43.673154,-79.373992,Etobicoke Centre,Ward 1,South District,2025-12-25,0
+SR-000100,Damaged Bin,Closed,Low,43.819132,-79.401715,North York Centre,Ward 8,West District,2026-01-18,0
+SR-000101,Damaged Bin,Closed,Low,43.777693,-79.421249,Etobicoke Centre,Ward 18,East District,2026-01-31,0
+SR-000102,Illegal Dumping,Closed,Urgent,43.77317,-79.346109,Waterfront Communities,Ward 21,West District,2026-01-23,0
+SR-000103,Illegal Dumping,Closed,Low,43.793917,-79.430966,Agincourt South,Ward 25,East District,2025-11-12,0
+SR-000104,Overflowing Litter Bin,Open,Low,43.72899,-79.330191,Scarborough Village,Ward 22,North District,2026-02-09,45
+SR-000105,Missed Collection,Closed,High,43.685998,-79.553616,Agincourt South,Ward 3,South District,2026-03-09,0
+SR-000106,Missed Collection,Open,Medium,43.611519,-79.612331,Waterfront Communities,Ward 24,North District,2025-12-22,25
+SR-000107,Public Realm Cleanliness,Open,High,43.790913,-79.511222,Agincourt South,Ward 18,South District,2026-04-22,3
+SR-000108,Missed Collection,In Progress,High,43.638647,-79.281424,Flemingdon Park,Ward 2,South District,2026-03-27,14
+SR-000109,Public Realm Cleanliness,Closed,Urgent,43.663604,-79.387219,York University Heights,Ward 18,North District,2025-11-29,0
+SR-000110,Missed Collection,Open,Low,43.627378,-79.178517,Flemingdon Park,Ward 5,South District,2025-11-10,2
+SR-000111,Public Realm Cleanliness,Closed,Low,43.785864,-79.222657,Kensington Chinatown,Ward 23,North District,2026-04-23,0
+SR-000112,Missed Collection,Open,High,43.683558,-79.269314,Downtown Yonge East,Ward 15,North District,2025-11-26,5
+SR-000113,Missed Collection,Open,Urgent,43.623092,-79.616035,Etobicoke Centre,Ward 20,North District,2026-04-10,13
+SR-000114,Illegal Dumping,Closed,Urgent,43.594594,-79.350163,Danforth East York,Ward 4,North District,2026-02-03,0
+SR-000115,Missed Collection,Open,Medium,43.694741,-79.381713,Danforth East York,Ward 3,West District,2026-02-15,10
+SR-000116,Overflowing Litter Bin,Closed,High,43.591717,-79.425564,North York Centre,Ward 6,South District,2026-02-23,0
+SR-000117,Missed Collection,Closed,Medium,43.755156,-79.416361,Downtown Yonge East,Ward 21,South District,2026-03-17,0
+SR-000118,Damaged Bin,Open,Low,43.75841,-79.512811,Waterfront Communities,Ward 1,North District,2026-04-04,42
+SR-000119,Illegal Dumping,Closed,Urgent,43.777023,-79.349322,Flemingdon Park,Ward 25,South District,2025-10-31,0
+SR-000120,Overflowing Litter Bin,Open,Medium,43.638476,-79.511109,York University Heights,Ward 9,South District,2026-01-11,16
+SR-000121,Public Realm Cleanliness,Open,Low,43.734447,-79.238228,Etobicoke Centre,Ward 6,South District,2025-11-21,6
+SR-000122,Illegal Dumping,Closed,High,43.685594,-79.501182,Scarborough Village,Ward 1,North District,2026-03-08,0
+SR-000123,Public Realm Cleanliness,Open,Low,43.789413,-79.312137,Etobicoke Centre,Ward 12,North District,2025-12-29,41
+SR-000124,Overflowing Litter Bin,Closed,High,43.69306,-79.395566,Waterfront Communities,Ward 7,West District,2026-03-19,0
+SR-000125,Damaged Bin,Closed,Urgent,43.636979,-79.331671,Annex,Ward 6,West District,2026-04-13,0
+SR-000126,Illegal Dumping,Closed,High,43.672511,-79.162003,Kensington Chinatown,Ward 14,East District,2026-01-31,0
+SR-000127,Damaged Bin,Closed,Low,43.700442,-79.396493,Downtown Yonge East,Ward 24,West District,2025-12-10,0
+SR-000128,Overflowing Litter Bin,Open,Low,43.720146,-79.198292,Agincourt South,Ward 17,West District,2026-04-08,16
+SR-000129,Damaged Bin,Closed,High,43.774188,-79.41248,Scarborough Village,Ward 7,East District,2026-02-27,0
+SR-000130,Illegal Dumping,Open,Medium,43.755301,-79.350332,Downtown Yonge East,Ward 8,South District,2026-03-06,25
+SR-000131,Missed Collection,Open,Urgent,43.703244,-79.531535,Etobicoke Centre,Ward 16,West District,2026-01-05,10
+SR-000132,Public Realm Cleanliness,Open,Urgent,43.696705,-79.506923,Annex,Ward 13,East District,2026-03-23,30
+SR-000133,Overflowing Litter Bin,Closed,High,43.800414,-79.465713,High Park North,Ward 7,East District,2026-03-25,0
+SR-000134,Public Realm Cleanliness,Open,Low,43.809021,-79.374795,High Park North,Ward 5,West District,2025-12-28,30
+SR-000135,Overflowing Litter Bin,Closed,High,43.735255,-79.370247,Kensington Chinatown,Ward 10,North District,2025-11-14,0
+SR-000136,Overflowing Litter Bin,Closed,Medium,43.619758,-79.447122,Downtown Yonge East,Ward 14,South District,2026-03-02,0
+SR-000137,Damaged Bin,Closed,Urgent,43.612804,-79.333441,High Park North,Ward 1,South District,2026-02-22,0
+SR-000138,Illegal Dumping,Open,Urgent,43.692781,-79.262127,Etobicoke Centre,Ward 8,North District,2025-12-01,1
+SR-000139,Missed Collection,Closed,Low,43.640708,-79.5443,Agincourt South,Ward 24,West District,2026-01-08,0
+SR-000140,Damaged Bin,Closed,Urgent,43.683456,-79.193771,Flemingdon Park,Ward 4,South District,2025-12-21,0
+SR-000141,Missed Collection,Open,Low,43.753397,-79.427295,Flemingdon Park,Ward 24,South District,2026-03-02,9
+SR-000142,Illegal Dumping,In Progress,Medium,43.708973,-79.581262,York University Heights,Ward 3,West District,2025-12-25,43
+SR-000143,Overflowing Litter Bin,In Progress,Urgent,43.816452,-79.313453,Etobicoke Centre,Ward 24,West District,2025-12-31,30
+SR-000144,Damaged Bin,Open,Medium,43.655643,-79.350528,Danforth East York,Ward 21,South District,2025-10-28,41
+SR-000145,Missed Collection,Open,Urgent,43.615181,-79.175715,Flemingdon Park,Ward 11,West District,2026-02-10,28
+SR-000146,Public Realm Cleanliness,In Progress,Medium,43.630201,-79.321906,York University Heights,Ward 3,East District,2026-04-12,33
+SR-000147,Illegal Dumping,Closed,Low,43.646455,-79.289922,Downtown Yonge East,Ward 13,East District,2025-12-28,0
+SR-000148,Missed Collection,Closed,High,43.768669,-79.310227,Danforth East York,Ward 6,West District,2025-12-04,0
+SR-000149,Overflowing Litter Bin,Closed,Medium,43.731335,-79.209464,Danforth East York,Ward 8,West District,2025-11-11,0
+SR-000150,Public Realm Cleanliness,Closed,Medium,43.608084,-79.467779,Flemingdon Park,Ward 25,North District,2026-02-03,0
+SR-000151,Illegal Dumping,In Progress,Urgent,43.647106,-79.165514,High Park North,Ward 2,West District,2026-01-21,23
+SR-000152,Damaged Bin,Closed,Low,43.67956,-79.282998,Agincourt South,Ward 23,East District,2026-01-01,0
+SR-000153,Illegal Dumping,Closed,Low,43.747487,-79.522443,Kensington Chinatown,Ward 15,West District,2026-04-06,0
+SR-000154,Overflowing Litter Bin,Closed,High,43.644969,-79.490609,Downtown Yonge East,Ward 4,North District,2026-02-15,0
+SR-000155,Overflowing Litter Bin,Open,Urgent,43.684559,-79.51221,Annex,Ward 7,West District,2026-02-10,27
+SR-000156,Public Realm Cleanliness,Closed,Medium,43.59452,-79.215479,Agincourt South,Ward 12,South District,2026-01-03,0
+SR-000157,Missed Collection,Closed,High,43.81209,-79.462878,Kensington Chinatown,Ward 3,West District,2026-02-26,0
+SR-000158,Illegal Dumping,Closed,Urgent,43.667857,-79.616738,Etobicoke Centre,Ward 11,East District,2025-12-23,0
+SR-000159,Public Realm Cleanliness,Closed,Urgent,43.746458,-79.240298,Agincourt South,Ward 10,North District,2026-02-07,0
+SR-000160,Illegal Dumping,Open,Medium,43.62372,-79.546553,Agincourt South,Ward 12,East District,2026-04-14,10
+SR-000161,Illegal Dumping,In Progress,Urgent,43.771719,-79.336506,Annex,Ward 20,North District,2025-12-10,19
+SR-000162,Overflowing Litter Bin,Open,Medium,43.600318,-79.333628,Annex,Ward 8,West District,2026-04-16,21
+SR-000163,Overflowing Litter Bin,Closed,Urgent,43.661051,-79.450386,High Park North,Ward 12,North District,2026-03-05,0
+SR-000164,Missed Collection,Closed,High,43.767038,-79.24697,Danforth East York,Ward 5,East District,2026-01-02,0
+SR-000165,Overflowing Litter Bin,Closed,High,43.682082,-79.18431,Downtown Yonge East,Ward 1,South District,2025-12-20,0
+SR-000166,Damaged Bin,Open,High,43.683486,-79.264955,Annex,Ward 1,East District,2025-11-12,19
+SR-000167,Illegal Dumping,Closed,Medium,43.701292,-79.207135,Etobicoke Centre,Ward 24,South District,2026-01-30,0
+SR-000168,Missed Collection,Closed,Urgent,43.798785,-79.579788,Waterfront Communities,Ward 5,West District,2026-02-07,0
+SR-000169,Damaged Bin,Open,Medium,43.805393,-79.240254,Agincourt South,Ward 12,West District,2026-02-02,4
+SR-000170,Overflowing Litter Bin,Closed,Medium,43.772001,-79.527581,High Park North,Ward 7,West District,2026-04-05,0
+SR-000171,Damaged Bin,Closed,Low,43.775177,-79.228939,North York Centre,Ward 13,North District,2025-12-22,0
+SR-000172,Public Realm Cleanliness,In Progress,Low,43.656505,-79.18196,York University Heights,Ward 12,South District,2026-03-20,28
+SR-000173,Damaged Bin,In Progress,High,43.601468,-79.551042,Waterfront Communities,Ward 10,East District,2026-01-27,20
+SR-000174,Public Realm Cleanliness,Closed,Low,43.713644,-79.355135,Kensington Chinatown,Ward 24,South District,2026-01-10,0
+SR-000175,Illegal Dumping,Closed,Medium,43.738385,-79.612194,Flemingdon Park,Ward 14,South District,2026-03-22,0
+SR-000176,Public Realm Cleanliness,Closed,Low,43.810884,-79.599489,Annex,Ward 7,East District,2025-12-26,0
+SR-000177,Illegal Dumping,Closed,Low,43.622904,-79.613553,Etobicoke Centre,Ward 25,South District,2026-04-04,0
+SR-000178,Damaged Bin,Open,High,43.720377,-79.191157,Scarborough Village,Ward 6,South District,2025-12-02,9
+SR-000179,Overflowing Litter Bin,Open,Urgent,43.743168,-79.241578,High Park North,Ward 18,South District,2026-04-16,20
+SR-000180,Illegal Dumping,Closed,Urgent,43.593055,-79.370673,North York Centre,Ward 24,South District,2026-02-28,0
+SR-000181,Missed Collection,Open,Medium,43.695699,-79.390475,High Park North,Ward 10,South District,2026-03-26,42
+SR-000182,Illegal Dumping,Closed,Urgent,43.606609,-79.30516,Annex,Ward 16,North District,2026-04-19,0
+SR-000183,Illegal Dumping,Open,Urgent,43.705741,-79.268032,Downtown Yonge East,Ward 20,East District,2025-11-29,31
+SR-000184,Damaged Bin,Closed,High,43.701617,-79.551284,York University Heights,Ward 22,South District,2025-10-31,0
+SR-000185,Illegal Dumping,Open,Low,43.739099,-79.540702,High Park North,Ward 6,West District,2026-03-20,21
+SR-000186,Overflowing Litter Bin,Closed,High,43.790651,-79.337967,Annex,Ward 2,East District,2026-01-24,0
+SR-000187,Illegal Dumping,Closed,Low,43.626157,-79.177324,High Park North,Ward 10,West District,2025-12-16,0
+SR-000188,Overflowing Litter Bin,Open,Low,43.709224,-79.586467,Etobicoke Centre,Ward 25,North District,2025-12-08,21
+SR-000189,Illegal Dumping,In Progress,High,43.734172,-79.503529,York University Heights,Ward 23,East District,2026-04-02,35
+SR-000190,Illegal Dumping,Closed,Medium,43.774849,-79.243802,Waterfront Communities,Ward 5,East District,2026-01-21,0
+SR-000191,Damaged Bin,Closed,High,43.815158,-79.38914,Annex,Ward 4,North District,2026-03-18,0
+SR-000192,Overflowing Litter Bin,Closed,Medium,43.69464,-79.273401,North York Centre,Ward 20,West District,2026-01-10,0
+SR-000193,Missed Collection,Closed,Low,43.620468,-79.368419,Annex,Ward 1,South District,2026-01-27,0
+SR-000194,Illegal Dumping,In Progress,Medium,43.715637,-79.578842,Agincourt South,Ward 20,East District,2026-03-13,20
+SR-000195,Missed Collection,Open,Medium,43.686136,-79.227489,Annex,Ward 23,North District,2025-11-01,15
+SR-000196,Overflowing Litter Bin,In Progress,Medium,43.786915,-79.574351,Annex,Ward 3,South District,2025-11-01,8
+SR-000197,Missed Collection,Open,Urgent,43.610866,-79.49916,Scarborough Village,Ward 2,North District,2026-03-30,3
+SR-000198,Public Realm Cleanliness,Closed,Low,43.791196,-79.560705,Agincourt South,Ward 4,East District,2026-04-15,0
+SR-000199,Illegal Dumping,Open,Low,43.755599,-79.573464,Downtown Yonge East,Ward 4,North District,2025-11-27,13
+SR-000200,Illegal Dumping,Open,Low,43.733322,-79.456209,Downtown Yonge East,Ward 5,East District,2025-11-29,23
+SR-000201,Overflowing Litter Bin,In Progress,Medium,43.77145,-79.512502,North York Centre,Ward 19,West District,2026-04-01,38
+SR-000202,Public Realm Cleanliness,Open,Medium,43.737016,-79.511586,Flemingdon Park,Ward 7,East District,2026-03-14,35
+SR-000203,Missed Collection,Open,Medium,43.754142,-79.218108,North York Centre,Ward 23,South District,2026-01-23,45
+SR-000204,Overflowing Litter Bin,Closed,Urgent,43.619164,-79.221366,York University Heights,Ward 4,North District,2026-01-26,0
+SR-000205,Damaged Bin,Closed,Medium,43.726522,-79.561529,North York Centre,Ward 8,South District,2026-03-29,0
+SR-000206,Missed Collection,In Progress,Urgent,43.688335,-79.546004,Downtown Yonge East,Ward 17,North District,2025-12-21,24
+SR-000207,Illegal Dumping,Closed,Low,43.75108,-79.270921,Downtown Yonge East,Ward 11,South District,2026-03-28,0
+SR-000208,Illegal Dumping,Closed,Urgent,43.614333,-79.387176,Etobicoke Centre,Ward 24,East District,2025-11-02,0
+SR-000209,Overflowing Litter Bin,Closed,Urgent,43.777364,-79.189365,High Park North,Ward 14,North District,2026-04-09,0
+SR-000210,Illegal Dumping,Closed,Medium,43.708109,-79.182872,Waterfront Communities,Ward 22,South District,2025-11-05,0
+SR-000211,Damaged Bin,Open,Urgent,43.713208,-79.438672,North York Centre,Ward 22,West District,2026-03-27,10
+SR-000212,Damaged Bin,Closed,Low,43.785087,-79.393228,Flemingdon Park,Ward 6,West District,2026-01-23,0
+SR-000213,Illegal Dumping,Open,Medium,43.698538,-79.394456,Etobicoke Centre,Ward 13,West District,2026-02-26,28
+SR-000214,Damaged Bin,Closed,High,43.784761,-79.237307,Flemingdon Park,Ward 25,East District,2025-11-13,0
+SR-000215,Illegal Dumping,Closed,Urgent,43.68281,-79.466682,York University Heights,Ward 20,South District,2025-12-23,0
+SR-000216,Illegal Dumping,Closed,Medium,43.703143,-79.356525,Agincourt South,Ward 4,West District,2026-02-21,0
+SR-000217,Damaged Bin,Closed,Medium,43.644818,-79.254781,York University Heights,Ward 5,West District,2026-04-01,0
+SR-000218,Missed Collection,Closed,Low,43.701891,-79.466339,Agincourt South,Ward 22,West District,2026-03-12,0
+SR-000219,Public Realm Cleanliness,Closed,High,43.614569,-79.510131,Annex,Ward 10,West District,2026-04-07,0
+SR-000220,Public Realm Cleanliness,Closed,Urgent,43.808335,-79.479654,Agincourt South,Ward 7,East District,2025-11-08,0
+SR-000221,Damaged Bin,Closed,High,43.628838,-79.408091,North York Centre,Ward 11,West District,2026-04-18,0
+SR-000222,Missed Collection,Closed,Urgent,43.66063,-79.603827,Agincourt South,Ward 11,South District,2026-01-03,0
+SR-000223,Missed Collection,Closed,Low,43.664323,-79.36971,Annex,Ward 18,East District,2025-10-28,0
+SR-000224,Damaged Bin,Open,Urgent,43.716894,-79.455983,Annex,Ward 10,South District,2025-12-23,8
+SR-000225,Damaged Bin,Closed,Urgent,43.69288,-79.175862,Agincourt South,Ward 18,North District,2025-12-18,0
+SR-000226,Damaged Bin,Open,High,43.67679,-79.501216,Agincourt South,Ward 19,South District,2025-11-20,44
+SR-000227,Illegal Dumping,In Progress,High,43.645997,-79.409428,Waterfront Communities,Ward 1,West District,2026-03-25,24
+SR-000228,Public Realm Cleanliness,In Progress,Low,43.76469,-79.525245,York University Heights,Ward 11,South District,2026-04-02,28
+SR-000229,Illegal Dumping,In Progress,Urgent,43.753138,-79.610271,Danforth East York,Ward 2,North District,2026-02-22,16
+SR-000230,Illegal Dumping,Closed,Low,43.686355,-79.263102,Flemingdon Park,Ward 3,East District,2026-03-28,0
+SR-000231,Overflowing Litter Bin,In Progress,Low,43.667909,-79.360681,North York Centre,Ward 11,West District,2025-12-30,43
+SR-000232,Public Realm Cleanliness,Closed,Urgent,43.637145,-79.278682,High Park North,Ward 1,South District,2025-11-27,0
+SR-000233,Illegal Dumping,Open,Urgent,43.602024,-79.22783,Etobicoke Centre,Ward 13,East District,2025-12-01,7
+SR-000234,Missed Collection,Closed,Medium,43.635585,-79.217777,Danforth East York,Ward 16,East District,2026-03-15,0
+SR-000235,Illegal Dumping,Closed,High,43.671082,-79.287566,Scarborough Village,Ward 7,South District,2025-11-15,0
+SR-000236,Public Realm Cleanliness,Open,Medium,43.663422,-79.203281,High Park North,Ward 9,West District,2026-02-09,37
+SR-000237,Overflowing Litter Bin,Closed,Low,43.619127,-79.537881,Flemingdon Park,Ward 19,West District,2025-11-26,0
+SR-000238,Illegal Dumping,In Progress,Low,43.703397,-79.582308,Etobicoke Centre,Ward 17,South District,2026-01-07,14
+SR-000239,Missed Collection,In Progress,High,43.635075,-79.185867,North York Centre,Ward 10,South District,2025-11-08,35
+SR-000240,Overflowing Litter Bin,In Progress,Urgent,43.814593,-79.446921,Scarborough Village,Ward 9,South District,2025-11-06,36
+SR-000241,Missed Collection,Open,Medium,43.802356,-79.369381,Etobicoke Centre,Ward 16,North District,2025-11-08,30
+SR-000242,Public Realm Cleanliness,In Progress,Urgent,43.652041,-79.296897,Etobicoke Centre,Ward 24,West District,2025-12-14,13
+SR-000243,Damaged Bin,In Progress,Medium,43.741547,-79.165002,Kensington Chinatown,Ward 5,East District,2026-01-05,27
+SR-000244,Missed Collection,In Progress,Medium,43.650961,-79.310853,Scarborough Village,Ward 9,East District,2025-11-12,11
+SR-000245,Public Realm Cleanliness,In Progress,Medium,43.601965,-79.567723,Scarborough Village,Ward 8,West District,2026-03-19,13
+SR-000246,Overflowing Litter Bin,Open,High,43.590901,-79.160248,Agincourt South,Ward 16,South District,2026-01-08,42
+SR-000247,Overflowing Litter Bin,Open,Medium,43.774523,-79.258107,High Park North,Ward 5,West District,2026-02-19,18
+SR-000248,Public Realm Cleanliness,Closed,Medium,43.707237,-79.481969,York University Heights,Ward 2,South District,2026-04-21,0
+SR-000249,Missed Collection,Open,High,43.624791,-79.48905,Etobicoke Centre,Ward 10,West District,2026-01-12,24
+SR-000250,Missed Collection,Closed,Urgent,43.676473,-79.272097,Flemingdon Park,Ward 5,North District,2026-03-29,0
+SR-000251,Public Realm Cleanliness,Closed,Low,43.714122,-79.584358,North York Centre,Ward 22,East District,2025-12-20,0
+SR-000252,Overflowing Litter Bin,Open,Low,43.594147,-79.572927,Danforth East York,Ward 11,South District,2026-02-25,28
+SR-000253,Overflowing Litter Bin,Open,Low,43.684415,-79.190731,Annex,Ward 7,East District,2026-01-04,27
+SR-000254,Public Realm Cleanliness,In Progress,Low,43.736603,-79.25116,Agincourt South,Ward 18,East District,2025-10-29,8
+SR-000255,Public Realm Cleanliness,In Progress,Urgent,43.697266,-79.453634,Agincourt South,Ward 22,North District,2026-02-14,10
+SR-000256,Damaged Bin,In Progress,High,43.614932,-79.217071,High Park North,Ward 1,West District,2025-11-08,4
+SR-000257,Overflowing Litter Bin,Closed,High,43.770127,-79.542666,North York Centre,Ward 13,East District,2025-11-14,0
+SR-000258,Illegal Dumping,Closed,Low,43.70782,-79.395808,North York Centre,Ward 8,South District,2026-01-17,0
+SR-000259,Damaged Bin,Open,High,43.733771,-79.184754,High Park North,Ward 3,North District,2026-02-09,14
+SR-000260,Damaged Bin,Open,High,43.723347,-79.3715,York University Heights,Ward 14,West District,2026-02-15,6
+SR-000261,Damaged Bin,Closed,Urgent,43.601574,-79.591063,Danforth East York,Ward 23,South District,2026-04-01,0
+SR-000262,Illegal Dumping,Open,Low,43.63309,-79.605063,Danforth East York,Ward 14,East District,2025-12-31,45
+SR-000263,Missed Collection,Open,Medium,43.760971,-79.287268,York University Heights,Ward 15,North District,2026-04-26,26
+SR-000264,Illegal Dumping,Open,High,43.621293,-79.235404,Etobicoke Centre,Ward 3,West District,2026-03-17,16
+SR-000265,Overflowing Litter Bin,Closed,Urgent,43.625601,-79.481459,Danforth East York,Ward 15,South District,2026-03-23,0
+SR-000266,Overflowing Litter Bin,In Progress,High,43.647265,-79.448739,High Park North,Ward 7,West District,2026-01-10,24
+SR-000267,Damaged Bin,Open,Urgent,43.648573,-79.395083,Etobicoke Centre,Ward 8,West District,2026-04-21,36
+SR-000268,Public Realm Cleanliness,Closed,Medium,43.683704,-79.166178,Downtown Yonge East,Ward 15,North District,2026-02-18,0
+SR-000269,Overflowing Litter Bin,Closed,Low,43.602863,-79.554597,Scarborough Village,Ward 20,South District,2025-11-24,0
+SR-000270,Overflowing Litter Bin,In Progress,Low,43.60215,-79.332113,Danforth East York,Ward 6,West District,2026-04-23,34
+SR-000271,Damaged Bin,Closed,Urgent,43.602537,-79.235238,Downtown Yonge East,Ward 8,North District,2026-03-09,0
+SR-000272,Illegal Dumping,In Progress,Urgent,43.707746,-79.377576,Scarborough Village,Ward 5,South District,2026-03-05,39
+SR-000273,Illegal Dumping,Open,Medium,43.719167,-79.541426,Scarborough Village,Ward 6,South District,2026-03-20,2
+SR-000274,Illegal Dumping,In Progress,Medium,43.635469,-79.473344,Etobicoke Centre,Ward 15,North District,2026-01-22,38
+SR-000275,Damaged Bin,Closed,Low,43.726504,-79.523346,Waterfront Communities,Ward 16,North District,2026-02-03,0
+SR-000276,Damaged Bin,Closed,Medium,43.616756,-79.173746,Flemingdon Park,Ward 13,South District,2025-11-25,0
+SR-000277,Missed Collection,In Progress,Low,43.595056,-79.250759,North York Centre,Ward 2,West District,2026-01-31,16
+SR-000278,Illegal Dumping,Closed,Low,43.771248,-79.483282,Waterfront Communities,Ward 9,South District,2026-02-08,0
+SR-000279,Illegal Dumping,Closed,Medium,43.621194,-79.553011,North York Centre,Ward 2,North District,2026-02-19,0
+SR-000280,Public Realm Cleanliness,Open,Urgent,43.750409,-79.324309,Danforth East York,Ward 15,North District,2026-04-04,21
+SR-000281,Public Realm Cleanliness,Closed,Urgent,43.770032,-79.188759,Annex,Ward 9,West District,2026-02-05,0
+SR-000282,Overflowing Litter Bin,Open,Urgent,43.749143,-79.548308,High Park North,Ward 24,East District,2026-01-06,19
+SR-000283,Public Realm Cleanliness,In Progress,High,43.645992,-79.232591,North York Centre,Ward 11,South District,2026-03-15,21
+SR-000284,Damaged Bin,Closed,Medium,43.63814,-79.58664,North York Centre,Ward 22,South District,2026-04-13,0
+SR-000285,Overflowing Litter Bin,Open,Low,43.751754,-79.434838,Kensington Chinatown,Ward 6,West District,2025-12-27,17
+SR-000286,Damaged Bin,Open,Urgent,43.801609,-79.320883,Downtown Yonge East,Ward 16,West District,2026-01-03,23
+SR-000287,Public Realm Cleanliness,Closed,Urgent,43.610796,-79.183986,Agincourt South,Ward 16,West District,2026-03-20,0
+SR-000288,Illegal Dumping,Open,Low,43.649468,-79.464882,Kensington Chinatown,Ward 10,North District,2026-03-14,33
+SR-000289,Public Realm Cleanliness,In Progress,Medium,43.68252,-79.596437,Etobicoke Centre,Ward 1,North District,2026-01-10,5
+SR-000290,Damaged Bin,Open,Low,43.704199,-79.563273,Danforth East York,Ward 1,East District,2025-11-03,44
+SR-000291,Damaged Bin,Open,High,43.682223,-79.458673,Etobicoke Centre,Ward 4,East District,2026-03-18,2
+SR-000292,Damaged Bin,Open,Urgent,43.767753,-79.250542,Agincourt South,Ward 21,East District,2025-11-25,43
+SR-000293,Illegal Dumping,Open,Low,43.625285,-79.451386,York University Heights,Ward 20,South District,2026-02-02,37
+SR-000294,Overflowing Litter Bin,Open,Low,43.675871,-79.550351,York University Heights,Ward 10,East District,2026-04-12,5
+SR-000295,Public Realm Cleanliness,Closed,Urgent,43.773644,-79.294675,Downtown Yonge East,Ward 13,East District,2026-03-12,0
+SR-000296,Damaged Bin,Open,Low,43.633788,-79.451308,Waterfront Communities,Ward 7,North District,2026-01-17,26
+SR-000297,Overflowing Litter Bin,In Progress,Low,43.614335,-79.331025,High Park North,Ward 16,South District,2026-02-06,44
+SR-000298,Overflowing Litter Bin,Closed,High,43.617916,-79.16647,York University Heights,Ward 4,East District,2025-12-16,0
+SR-000299,Damaged Bin,Open,Urgent,43.769557,-79.44049,Scarborough Village,Ward 16,East District,2025-12-03,39
+SR-000300,Missed Collection,Closed,Urgent,43.72307,-79.200783,Danforth East York,Ward 20,North District,2026-01-05,0
+SR-000301,Damaged Bin,Closed,Low,43.717443,-79.539731,Waterfront Communities,Ward 17,East District,2025-12-29,0
+SR-000302,Overflowing Litter Bin,Closed,Medium,43.677102,-79.232153,Agincourt South,Ward 17,West District,2026-02-11,0
+SR-000303,Damaged Bin,Closed,Low,43.738169,-79.320667,Agincourt South,Ward 10,North District,2026-03-25,0
+SR-000304,Illegal Dumping,Closed,Medium,43.789369,-79.208772,North York Centre,Ward 14,East District,2025-12-02,0
+SR-000305,Public Realm Cleanliness,Open,Low,43.801552,-79.576369,Waterfront Communities,Ward 17,West District,2025-12-17,28
+SR-000306,Missed Collection,Closed,Urgent,43.715149,-79.279366,York University Heights,Ward 24,East District,2026-01-26,0
+SR-000307,Public Realm Cleanliness,In Progress,Low,43.764093,-79.340911,North York Centre,Ward 1,West District,2025-11-08,30
+SR-000308,Overflowing Litter Bin,Open,Urgent,43.628361,-79.253187,Waterfront Communities,Ward 3,South District,2025-10-28,20
+SR-000309,Public Realm Cleanliness,In Progress,Urgent,43.755626,-79.580378,York University Heights,Ward 15,East District,2026-01-29,12
+SR-000310,Overflowing Litter Bin,Open,Low,43.696676,-79.53997,Flemingdon Park,Ward 20,East District,2025-11-05,7
+SR-000311,Public Realm Cleanliness,Closed,Low,43.66762,-79.611683,Waterfront Communities,Ward 13,West District,2026-04-23,0
+SR-000312,Damaged Bin,Open,Urgent,43.682076,-79.367057,Flemingdon Park,Ward 13,South District,2026-02-08,40
+SR-000313,Illegal Dumping,Closed,Urgent,43.732504,-79.314794,High Park North,Ward 3,North District,2026-03-23,0
+SR-000314,Overflowing Litter Bin,Open,Low,43.782347,-79.520887,Waterfront Communities,Ward 23,North District,2026-04-20,14
+SR-000315,Overflowing Litter Bin,Closed,Medium,43.617711,-79.228293,Scarborough Village,Ward 21,North District,2026-04-04,0
+SR-000316,Damaged Bin,In Progress,Medium,43.626021,-79.17161,Agincourt South,Ward 14,West District,2026-03-28,11
+SR-000317,Damaged Bin,Open,Urgent,43.783784,-79.389597,Agincourt South,Ward 1,South District,2025-11-28,16
+SR-000318,Illegal Dumping,Open,Urgent,43.815727,-79.575207,Waterfront Communities,Ward 11,West District,2026-03-31,41
+SR-000319,Damaged Bin,Closed,Urgent,43.659705,-79.326417,Agincourt South,Ward 24,East District,2026-04-17,0
+SR-000320,Damaged Bin,Closed,Urgent,43.670502,-79.192949,North York Centre,Ward 19,South District,2026-02-26,0
+SR-000321,Missed Collection,Closed,Low,43.605094,-79.367271,Scarborough Village,Ward 19,East District,2025-12-06,0
+SR-000322,Illegal Dumping,Open,Urgent,43.725899,-79.319745,Agincourt South,Ward 4,South District,2025-11-18,42
+SR-000323,Damaged Bin,In Progress,Urgent,43.648803,-79.452299,Waterfront Communities,Ward 6,East District,2026-03-08,31
+SR-000324,Damaged Bin,In Progress,Medium,43.784047,-79.530326,North York Centre,Ward 8,East District,2025-11-23,43
+SR-000325,Overflowing Litter Bin,Closed,High,43.78018,-79.361179,Flemingdon Park,Ward 23,South District,2026-01-10,0
+SR-000326,Illegal Dumping,Closed,Urgent,43.765303,-79.291741,Annex,Ward 20,North District,2026-02-13,0
+SR-000327,Missed Collection,Closed,Urgent,43.637728,-79.358346,Annex,Ward 6,North District,2026-03-17,0
+SR-000328,Damaged Bin,Closed,Low,43.789576,-79.421227,Scarborough Village,Ward 16,East District,2026-02-25,0
+SR-000329,Public Realm Cleanliness,Open,Low,43.812316,-79.411981,Waterfront Communities,Ward 12,East District,2026-01-25,44
+SR-000330,Overflowing Litter Bin,Open,Low,43.622841,-79.44086,Downtown Yonge East,Ward 11,South District,2026-03-28,40
+SR-000331,Missed Collection,Open,Medium,43.808892,-79.472928,Agincourt South,Ward 9,East District,2026-01-26,3
+SR-000332,Illegal Dumping,Closed,Medium,43.789663,-79.214625,Flemingdon Park,Ward 17,West District,2025-10-28,0
+SR-000333,Damaged Bin,Open,Urgent,43.670543,-79.581701,Downtown Yonge East,Ward 4,West District,2025-12-04,3
+SR-000334,Missed Collection,Closed,Medium,43.756648,-79.476704,York University Heights,Ward 4,North District,2026-01-24,0
+SR-000335,Illegal Dumping,Open,Urgent,43.770072,-79.416379,North York Centre,Ward 16,West District,2026-03-18,42
+SR-000336,Illegal Dumping,In Progress,Medium,43.701611,-79.262162,Downtown Yonge East,Ward 7,South District,2026-01-10,1
+SR-000337,Damaged Bin,Open,High,43.677944,-79.416161,High Park North,Ward 17,North District,2026-04-05,18
+SR-000338,Damaged Bin,In Progress,High,43.676524,-79.451023,York University Heights,Ward 22,North District,2026-03-19,34
+SR-000339,Overflowing Litter Bin,Closed,Medium,43.710968,-79.247952,Scarborough Village,Ward 14,South District,2025-12-30,0
+SR-000340,Illegal Dumping,Closed,Low,43.673207,-79.378843,Agincourt South,Ward 5,West District,2025-12-15,0
+SR-000341,Missed Collection,Open,High,43.744267,-79.496058,Danforth East York,Ward 13,North District,2026-01-05,4
+SR-000342,Missed Collection,Closed,Medium,43.65383,-79.19063,Etobicoke Centre,Ward 2,East District,2026-01-09,0
+SR-000343,Public Realm Cleanliness,Closed,High,43.756413,-79.354494,Flemingdon Park,Ward 24,East District,2026-01-28,0
+SR-000344,Illegal Dumping,Open,Medium,43.738976,-79.606522,Flemingdon Park,Ward 13,South District,2025-11-13,14
+SR-000345,Public Realm Cleanliness,Closed,Urgent,43.732164,-79.385626,Flemingdon Park,Ward 12,South District,2026-03-07,0
+SR-000346,Missed Collection,In Progress,Low,43.715522,-79.454665,North York Centre,Ward 11,South District,2026-03-25,34
+SR-000347,Illegal Dumping,Closed,Medium,43.608739,-79.531064,Downtown Yonge East,Ward 17,East District,2025-12-14,0
+SR-000348,Overflowing Litter Bin,In Progress,Low,43.808671,-79.431998,Waterfront Communities,Ward 18,East District,2026-02-24,20
+SR-000349,Damaged Bin,Closed,Low,43.697337,-79.595753,Flemingdon Park,Ward 2,East District,2026-02-19,0
+SR-000350,Public Realm Cleanliness,Closed,High,43.59864,-79.290097,Downtown Yonge East,Ward 2,West District,2026-01-02,0
+SR-000351,Public Realm Cleanliness,In Progress,Low,43.713762,-79.385995,Agincourt South,Ward 11,North District,2025-11-29,37
+SR-000352,Public Realm Cleanliness,Closed,Medium,43.645919,-79.277415,Danforth East York,Ward 10,East District,2025-11-07,0
+SR-000353,Public Realm Cleanliness,Closed,Medium,43.628694,-79.53263,Flemingdon Park,Ward 13,North District,2026-03-31,0
+SR-000354,Public Realm Cleanliness,In Progress,Medium,43.695964,-79.488311,Danforth East York,Ward 15,West District,2026-03-20,28
+SR-000355,Missed Collection,Closed,Low,43.646916,-79.323191,Waterfront Communities,Ward 14,North District,2025-12-26,0
+SR-000356,Damaged Bin,Open,Low,43.739724,-79.240722,Danforth East York,Ward 22,South District,2025-11-27,36
+SR-000357,Damaged Bin,Closed,High,43.686073,-79.586381,Etobicoke Centre,Ward 16,South District,2026-01-04,0
+SR-000358,Damaged Bin,Closed,Urgent,43.652943,-79.169197,Annex,Ward 5,North District,2025-12-23,0
+SR-000359,Damaged Bin,Closed,Medium,43.727139,-79.293521,Flemingdon Park,Ward 17,West District,2025-10-31,0
+SR-000360,Damaged Bin,Open,Urgent,43.591692,-79.381625,Waterfront Communities,Ward 24,North District,2025-12-04,24
+SR-000361,Public Realm Cleanliness,Open,Urgent,43.598632,-79.358154,Downtown Yonge East,Ward 4,East District,2025-12-01,19
+SR-000362,Public Realm Cleanliness,Open,Medium,43.801777,-79.174527,Downtown Yonge East,Ward 12,East District,2026-01-21,20
+SR-000363,Damaged Bin,In Progress,Low,43.714327,-79.409226,Annex,Ward 5,South District,2026-04-14,20
+SR-000364,Overflowing Litter Bin,In Progress,Medium,43.807354,-79.310139,Flemingdon Park,Ward 16,West District,2026-03-26,36
+SR-000365,Missed Collection,In Progress,Low,43.604927,-79.405766,Scarborough Village,Ward 16,East District,2025-12-03,29
+SR-000366,Damaged Bin,In Progress,Urgent,43.645256,-79.40389,Flemingdon Park,Ward 20,North District,2026-03-22,33
+SR-000367,Damaged Bin,Closed,Urgent,43.694757,-79.352213,York University Heights,Ward 15,North District,2026-02-02,0
+SR-000368,Public Realm Cleanliness,Open,Urgent,43.672057,-79.544436,Scarborough Village,Ward 8,South District,2026-01-30,35
+SR-000369,Damaged Bin,Open,High,43.705855,-79.238107,York University Heights,Ward 3,North District,2026-04-20,37
+SR-000370,Illegal Dumping,Closed,Low,43.742723,-79.464351,York University Heights,Ward 18,West District,2026-03-08,0
+SR-000371,Public Realm Cleanliness,Closed,Low,43.80517,-79.200385,Etobicoke Centre,Ward 17,North District,2025-12-26,0
+SR-000372,Missed Collection,Closed,Low,43.63815,-79.601868,York University Heights,Ward 18,North District,2026-04-22,0
+SR-000373,Overflowing Litter Bin,In Progress,Medium,43.760501,-79.239299,Flemingdon Park,Ward 19,South District,2026-04-05,35
+SR-000374,Illegal Dumping,Closed,Urgent,43.812609,-79.210675,Etobicoke Centre,Ward 2,South District,2026-04-21,0
+SR-000375,Damaged Bin,In Progress,Medium,43.728123,-79.376176,Scarborough Village,Ward 1,East District,2026-01-19,17
+SR-000376,Missed Collection,Open,Low,43.596403,-79.506538,North York Centre,Ward 6,East District,2026-03-21,12
+SR-000377,Missed Collection,In Progress,Medium,43.695711,-79.330888,High Park North,Ward 14,North District,2026-04-11,40
+SR-000378,Overflowing Litter Bin,In Progress,Low,43.718168,-79.278387,Flemingdon Park,Ward 2,East District,2026-01-17,7
+SR-000379,Overflowing Litter Bin,In Progress,Urgent,43.654346,-79.360122,Danforth East York,Ward 9,South District,2026-03-27,4
+SR-000380,Overflowing Litter Bin,Open,Medium,43.610273,-79.429714,Agincourt South,Ward 17,South District,2026-03-28,18
+SR-000381,Illegal Dumping,Open,Urgent,43.762537,-79.301036,North York Centre,Ward 14,West District,2025-12-24,2
+SR-000382,Overflowing Litter Bin,Closed,Low,43.817848,-79.49217,High Park North,Ward 18,West District,2026-02-22,0
+SR-000383,Overflowing Litter Bin,Closed,High,43.704584,-79.468416,Etobicoke Centre,Ward 14,South District,2026-04-05,0
+SR-000384,Public Realm Cleanliness,Closed,Medium,43.691339,-79.225803,Annex,Ward 12,North District,2026-02-23,0
+SR-000385,Damaged Bin,Closed,Urgent,43.747368,-79.214077,Waterfront Communities,Ward 1,South District,2025-11-19,0
+SR-000386,Overflowing Litter Bin,In Progress,Low,43.636808,-79.218254,Waterfront Communities,Ward 16,East District,2025-11-24,17
+SR-000387,Damaged Bin,Closed,High,43.603745,-79.211244,York University Heights,Ward 7,East District,2026-04-15,0
+SR-000388,Public Realm Cleanliness,Open,Low,43.665687,-79.47529,High Park North,Ward 3,South District,2025-10-30,8
+SR-000389,Public Realm Cleanliness,Open,High,43.70778,-79.187283,Scarborough Village,Ward 7,East District,2025-11-03,22
+SR-000390,Illegal Dumping,Closed,Urgent,43.60099,-79.457974,High Park North,Ward 8,East District,2026-01-29,0
+SR-000391,Damaged Bin,Open,High,43.787012,-79.437815,Waterfront Communities,Ward 23,North District,2025-11-12,1
+SR-000392,Damaged Bin,Closed,Low,43.635806,-79.424595,Waterfront Communities,Ward 22,North District,2026-01-11,0
+SR-000393,Damaged Bin,Closed,Urgent,43.678677,-79.198909,North York Centre,Ward 3,West District,2025-12-10,0
+SR-000394,Damaged Bin,Open,Low,43.765245,-79.387647,Danforth East York,Ward 13,East District,2026-01-17,12
+SR-000395,Missed Collection,Closed,Low,43.817325,-79.405972,Agincourt South,Ward 12,North District,2026-01-03,0
+SR-000396,Overflowing Litter Bin,Open,Low,43.603395,-79.499354,High Park North,Ward 22,East District,2026-03-08,6
+SR-000397,Illegal Dumping,Closed,Medium,43.690296,-79.547825,Kensington Chinatown,Ward 16,East District,2026-04-17,0
+SR-000398,Damaged Bin,In Progress,Medium,43.80794,-79.26725,Waterfront Communities,Ward 7,South District,2026-03-29,18
+SR-000399,Public Realm Cleanliness,Closed,Urgent,43.651706,-79.34823,Annex,Ward 18,North District,2025-11-09,0
+SR-000400,Public Realm Cleanliness,Closed,Medium,43.755933,-79.187012,Downtown Yonge East,Ward 19,North District,2026-04-10,0
+SR-000401,Illegal Dumping,Open,Medium,43.792776,-79.383012,North York Centre,Ward 24,East District,2026-03-08,44
+SR-000402,Public Realm Cleanliness,Open,High,43.76817,-79.361413,York University Heights,Ward 18,South District,2026-04-26,28
+SR-000403,Missed Collection,Closed,High,43.717122,-79.567219,Scarborough Village,Ward 14,East District,2026-03-26,0
+SR-000404,Public Realm Cleanliness,Closed,Urgent,43.619012,-79.376415,Agincourt South,Ward 12,West District,2026-02-28,0
+SR-000405,Illegal Dumping,Open,Urgent,43.651838,-79.610323,North York Centre,Ward 15,East District,2026-04-25,26
+SR-000406,Illegal Dumping,Open,Low,43.756253,-79.605056,Etobicoke Centre,Ward 1,North District,2025-11-01,28
+SR-000407,Overflowing Litter Bin,Open,Medium,43.726914,-79.371971,Annex,Ward 11,East District,2026-04-10,41
+SR-000408,Missed Collection,Closed,Low,43.812827,-79.397262,Agincourt South,Ward 14,West District,2025-11-26,0
+SR-000409,Illegal Dumping,Closed,High,43.604628,-79.366224,Kensington Chinatown,Ward 4,South District,2026-02-24,0
+SR-000410,Missed Collection,In Progress,High,43.783452,-79.161449,North York Centre,Ward 8,West District,2025-11-24,40
+SR-000411,Missed Collection,Closed,Urgent,43.688979,-79.472663,Etobicoke Centre,Ward 4,West District,2026-04-11,0
+SR-000412,Damaged Bin,Open,High,43.79853,-79.532029,Flemingdon Park,Ward 3,North District,2026-04-11,29
+SR-000413,Illegal Dumping,Open,Urgent,43.731549,-79.433371,Downtown Yonge East,Ward 4,West District,2025-12-04,4
+SR-000414,Damaged Bin,In Progress,Urgent,43.599449,-79.460247,Downtown Yonge East,Ward 20,South District,2026-02-26,39
+SR-000415,Public Realm Cleanliness,Closed,Low,43.651003,-79.304398,Agincourt South,Ward 13,South District,2026-01-07,0
+SR-000416,Public Realm Cleanliness,Closed,Low,43.808222,-79.496698,Danforth East York,Ward 21,West District,2025-12-31,0
+SR-000417,Illegal Dumping,Closed,Medium,43.776637,-79.594534,Downtown Yonge East,Ward 4,West District,2025-11-25,0
+SR-000418,Missed Collection,Closed,Medium,43.713768,-79.587547,Etobicoke Centre,Ward 5,East District,2026-01-26,0
+SR-000419,Damaged Bin,Closed,Urgent,43.804828,-79.267478,Annex,Ward 8,North District,2026-04-15,0
+SR-000420,Overflowing Litter Bin,Open,High,43.741328,-79.241008,Etobicoke Centre,Ward 14,East District,2026-02-06,38
+SR-000421,Overflowing Litter Bin,Closed,Medium,43.73893,-79.174286,Agincourt South,Ward 10,East District,2026-02-11,0
+SR-000422,Missed Collection,In Progress,Medium,43.75421,-79.194657,Waterfront Communities,Ward 8,West District,2026-01-08,23
+SR-000423,Overflowing Litter Bin,Open,Medium,43.70894,-79.56615,Downtown Yonge East,Ward 11,North District,2025-11-07,31
+SR-000424,Damaged Bin,Closed,High,43.711481,-79.561638,Etobicoke Centre,Ward 19,East District,2025-11-20,0
+SR-000425,Damaged Bin,In Progress,High,43.726274,-79.398053,Annex,Ward 4,South District,2026-04-16,32
+SR-000426,Missed Collection,Open,Medium,43.733192,-79.615378,Flemingdon Park,Ward 8,South District,2025-11-18,14
+SR-000427,Damaged Bin,Open,High,43.634813,-79.393988,Flemingdon Park,Ward 13,North District,2026-01-14,12
+SR-000428,Illegal Dumping,Open,Low,43.808616,-79.44354,Downtown Yonge East,Ward 12,West District,2025-12-05,8
+SR-000429,Illegal Dumping,Open,Urgent,43.687606,-79.29124,Kensington Chinatown,Ward 21,East District,2026-04-15,2
+SR-000430,Overflowing Litter Bin,Open,High,43.728872,-79.482494,Annex,Ward 8,East District,2026-03-13,22
+SR-000431,Overflowing Litter Bin,Closed,Medium,43.684488,-79.519858,Kensington Chinatown,Ward 1,North District,2026-02-18,0
+SR-000432,Missed Collection,Open,Medium,43.812185,-79.559908,Scarborough Village,Ward 21,West District,2026-01-30,14
+SR-000433,Damaged Bin,In Progress,Medium,43.675522,-79.608114,Danforth East York,Ward 12,North District,2025-12-13,40
+SR-000434,Missed Collection,Closed,Low,43.641009,-79.260983,Annex,Ward 5,North District,2026-03-08,0
+SR-000435,Damaged Bin,Closed,High,43.63627,-79.583171,Danforth East York,Ward 20,South District,2025-11-15,0
+SR-000436,Missed Collection,Open,Medium,43.699124,-79.615414,North York Centre,Ward 10,North District,2026-02-02,16
+SR-000437,Illegal Dumping,Open,Medium,43.609496,-79.248492,North York Centre,Ward 19,South District,2026-03-04,6
+SR-000438,Public Realm Cleanliness,Closed,Low,43.767439,-79.199036,Annex,Ward 17,South District,2025-11-12,0
+SR-000439,Illegal Dumping,Closed,Urgent,43.786539,-79.305739,North York Centre,Ward 15,North District,2026-02-03,0
+SR-000440,Illegal Dumping,Closed,Urgent,43.602037,-79.25989,Flemingdon Park,Ward 16,South District,2026-02-17,0
+SR-000441,Damaged Bin,Closed,Low,43.784467,-79.252422,Kensington Chinatown,Ward 8,North District,2026-01-01,0
+SR-000442,Damaged Bin,Open,Medium,43.70695,-79.512865,High Park North,Ward 14,South District,2025-12-01,11
+SR-000443,Illegal Dumping,In Progress,Low,43.784426,-79.285505,Annex,Ward 25,West District,2026-02-10,29
+SR-000444,Illegal Dumping,Closed,Medium,43.815575,-79.548381,Etobicoke Centre,Ward 2,South District,2025-12-16,0
+SR-000445,Illegal Dumping,Closed,Urgent,43.641903,-79.522573,Agincourt South,Ward 15,South District,2026-01-12,0
+SR-000446,Damaged Bin,In Progress,High,43.772284,-79.534023,High Park North,Ward 13,West District,2026-03-12,29
+SR-000447,Illegal Dumping,Open,Low,43.605332,-79.160662,Danforth East York,Ward 3,East District,2025-12-19,33
+SR-000448,Missed Collection,Closed,High,43.595708,-79.235788,Kensington Chinatown,Ward 4,West District,2026-04-08,0
+SR-000449,Missed Collection,In Progress,Medium,43.674034,-79.232857,Danforth East York,Ward 7,East District,2026-02-21,20
+SR-000450,Illegal Dumping,Closed,Medium,43.717563,-79.20525,Flemingdon Park,Ward 20,North District,2025-12-08,0
+SR-000451,Missed Collection,In Progress,High,43.803024,-79.615815,High Park North,Ward 12,South District,2026-01-13,38
+SR-000452,Missed Collection,Closed,Urgent,43.607345,-79.504835,York University Heights,Ward 17,North District,2026-01-15,0
+SR-000453,Overflowing Litter Bin,Open,Medium,43.743943,-79.211395,Agincourt South,Ward 8,South District,2025-12-29,22
+SR-000454,Illegal Dumping,Open,Medium,43.695787,-79.340792,Scarborough Village,Ward 25,South District,2026-03-04,29
+SR-000455,Public Realm Cleanliness,Closed,Low,43.633355,-79.249715,Danforth East York,Ward 5,North District,2026-02-07,0
+SR-000456,Missed Collection,Closed,Urgent,43.812485,-79.496444,York University Heights,Ward 12,East District,2026-02-28,0
+SR-000457,Damaged Bin,Closed,Urgent,43.70381,-79.580387,Flemingdon Park,Ward 18,East District,2026-02-02,0
+SR-000458,Missed Collection,Closed,Low,43.718601,-79.38872,Annex,Ward 5,East District,2025-12-02,0
+SR-000459,Public Realm Cleanliness,Closed,Urgent,43.62322,-79.41665,Scarborough Village,Ward 7,South District,2026-04-10,0
+SR-000460,Damaged Bin,Closed,Medium,43.666844,-79.379958,Agincourt South,Ward 4,East District,2025-12-02,0
+SR-000461,Illegal Dumping,Closed,Low,43.7247,-79.616092,Annex,Ward 4,North District,2026-04-18,0
+SR-000462,Public Realm Cleanliness,Closed,Urgent,43.765031,-79.292013,Waterfront Communities,Ward 6,North District,2026-04-09,0
+SR-000463,Illegal Dumping,Closed,Medium,43.674246,-79.595649,Kensington Chinatown,Ward 10,West District,2025-12-31,0
+SR-000464,Illegal Dumping,Open,Low,43.763634,-79.180619,Annex,Ward 11,South District,2026-01-16,11
+SR-000465,Overflowing Litter Bin,Open,Urgent,43.645235,-79.471179,Agincourt South,Ward 24,West District,2026-01-17,14
+SR-000466,Overflowing Litter Bin,Open,High,43.632277,-79.354609,Scarborough Village,Ward 23,South District,2026-03-17,39
+SR-000467,Illegal Dumping,Closed,Medium,43.625614,-79.456151,North York Centre,Ward 23,South District,2026-02-15,0
+SR-000468,Missed Collection,Open,Medium,43.750313,-79.362347,Agincourt South,Ward 3,South District,2025-11-23,16
+SR-000469,Illegal Dumping,Closed,Urgent,43.678886,-79.426685,Agincourt South,Ward 15,West District,2026-04-03,0
+SR-000470,Damaged Bin,In Progress,High,43.719286,-79.617302,Flemingdon Park,Ward 23,East District,2026-01-16,40
+SR-000471,Damaged Bin,Open,Medium,43.608057,-79.214621,Annex,Ward 20,South District,2025-12-30,25
+SR-000472,Overflowing Litter Bin,Closed,Low,43.607912,-79.29487,Scarborough Village,Ward 23,West District,2026-02-24,0
+SR-000473,Illegal Dumping,Open,High,43.801609,-79.495486,York University Heights,Ward 3,North District,2025-12-21,27
+SR-000474,Missed Collection,Closed,High,43.675213,-79.358296,Downtown Yonge East,Ward 25,West District,2025-12-18,0
+SR-000475,Damaged Bin,In Progress,Urgent,43.792793,-79.186723,Annex,Ward 9,North District,2025-12-18,3
+SR-000476,Missed Collection,Closed,Low,43.7601,-79.580155,York University Heights,Ward 23,South District,2026-01-19,0
+SR-000477,Damaged Bin,In Progress,Medium,43.743905,-79.43126,Scarborough Village,Ward 2,West District,2026-02-21,8
+SR-000478,Overflowing Litter Bin,Closed,High,43.698261,-79.597392,York University Heights,Ward 24,South District,2025-12-23,0
+SR-000479,Missed Collection,Closed,Low,43.633944,-79.256364,North York Centre,Ward 22,North District,2026-01-04,0
+SR-000480,Damaged Bin,Open,High,43.694411,-79.481235,Annex,Ward 6,West District,2025-11-22,7
+SR-000481,Illegal Dumping,Open,Low,43.678324,-79.226976,North York Centre,Ward 24,South District,2026-03-14,5
+SR-000482,Missed Collection,Closed,High,43.76227,-79.494735,Annex,Ward 15,East District,2026-03-12,0
+SR-000483,Missed Collection,Open,Medium,43.617025,-79.504081,Agincourt South,Ward 23,West District,2025-11-15,34
+SR-000484,Missed Collection,Closed,Urgent,43.801774,-79.352469,Flemingdon Park,Ward 10,South District,2026-04-13,0
+SR-000485,Missed Collection,Closed,Low,43.7127,-79.345659,Scarborough Village,Ward 25,North District,2026-02-22,0
+SR-000486,Overflowing Litter Bin,In Progress,Medium,43.674187,-79.248731,Downtown Yonge East,Ward 1,South District,2026-04-19,1
+SR-000487,Overflowing Litter Bin,In Progress,Low,43.710356,-79.566296,Kensington Chinatown,Ward 4,North District,2026-03-15,3
+SR-000488,Public Realm Cleanliness,Closed,Low,43.619685,-79.373045,Danforth East York,Ward 11,North District,2025-11-18,0
+SR-000489,Public Realm Cleanliness,Open,Urgent,43.805411,-79.478158,Scarborough Village,Ward 4,North District,2026-03-03,7
+SR-000490,Illegal Dumping,In Progress,Medium,43.789994,-79.268516,Waterfront Communities,Ward 13,East District,2026-04-23,25
+SR-000491,Damaged Bin,Open,Medium,43.646997,-79.603283,Downtown Yonge East,Ward 22,East District,2025-11-11,40
+SR-000492,Missed Collection,In Progress,Low,43.613425,-79.284893,Kensington Chinatown,Ward 14,East District,2025-11-24,32
+SR-000493,Public Realm Cleanliness,Open,Medium,43.635924,-79.449215,High Park North,Ward 4,East District,2025-11-16,45
+SR-000494,Overflowing Litter Bin,Closed,High,43.705391,-79.286285,Annex,Ward 21,East District,2025-11-07,0
+SR-000495,Missed Collection,Closed,High,43.616043,-79.433071,Waterfront Communities,Ward 20,South District,2026-01-19,0
+SR-000496,Overflowing Litter Bin,Closed,Low,43.701567,-79.37122,Kensington Chinatown,Ward 1,West District,2026-02-06,0
+SR-000497,Damaged Bin,Open,Medium,43.778223,-79.541028,Etobicoke Centre,Ward 3,West District,2026-03-22,24
+SR-000498,Illegal Dumping,Closed,Medium,43.775801,-79.301276,Annex,Ward 13,North District,2025-11-13,0
+SR-000499,Overflowing Litter Bin,Open,Urgent,43.71785,-79.298217,Flemingdon Park,Ward 11,North District,2026-02-14,21
+SR-000500,Missed Collection,Closed,Urgent,43.684764,-79.556337,York University Heights,Ward 10,West District,2026-02-27,0
+SR-000501,Illegal Dumping,Closed,High,43.743126,-79.378651,Kensington Chinatown,Ward 7,West District,2025-11-07,0
+SR-000502,Overflowing Litter Bin,Open,Urgent,43.737056,-79.464521,North York Centre,Ward 11,North District,2026-01-03,41
+SR-000503,Missed Collection,Open,Urgent,43.798579,-79.34981,Downtown Yonge East,Ward 7,West District,2025-11-15,10
+SR-000504,Overflowing Litter Bin,Open,Low,43.609643,-79.41309,Annex,Ward 19,North District,2026-02-25,33
+SR-000505,Damaged Bin,Open,Urgent,43.763962,-79.254698,High Park North,Ward 6,North District,2026-02-23,28
+SR-000506,Public Realm Cleanliness,Open,Medium,43.703757,-79.208416,High Park North,Ward 10,South District,2025-11-15,13
+SR-000507,Damaged Bin,In Progress,Low,43.651564,-79.431125,Danforth East York,Ward 13,South District,2026-03-15,31
+SR-000508,Damaged Bin,Closed,Urgent,43.796677,-79.207722,Annex,Ward 16,West District,2026-01-19,0
+SR-000509,Missed Collection,Closed,High,43.747714,-79.224869,Etobicoke Centre,Ward 18,North District,2025-12-06,0
+SR-000510,Overflowing Litter Bin,Closed,High,43.610418,-79.222102,Scarborough Village,Ward 15,East District,2025-12-31,0
+SR-000511,Damaged Bin,In Progress,Urgent,43.663743,-79.537968,Downtown Yonge East,Ward 11,North District,2025-12-27,13
+SR-000512,Overflowing Litter Bin,Open,Low,43.645055,-79.427734,Waterfront Communities,Ward 17,East District,2025-12-22,26
+SR-000513,Damaged Bin,Closed,High,43.647774,-79.472539,Scarborough Village,Ward 16,East District,2025-11-13,0
+SR-000514,Missed Collection,Closed,Urgent,43.621045,-79.483759,Waterfront Communities,Ward 4,South District,2025-12-03,0
+SR-000515,Overflowing Litter Bin,Open,Urgent,43.721625,-79.416747,High Park North,Ward 25,East District,2025-12-17,32
+SR-000516,Illegal Dumping,Closed,Low,43.669745,-79.276632,York University Heights,Ward 13,South District,2026-02-22,0
+SR-000517,Damaged Bin,Open,Low,43.795507,-79.271877,Danforth East York,Ward 21,West District,2025-10-30,43
+SR-000518,Overflowing Litter Bin,Closed,High,43.66636,-79.277557,Etobicoke Centre,Ward 15,North District,2026-02-20,0
+SR-000519,Public Realm Cleanliness,Open,Medium,43.624955,-79.560054,Waterfront Communities,Ward 4,West District,2025-11-13,25
+SR-000520,Public Realm Cleanliness,Closed,Low,43.669494,-79.248457,North York Centre,Ward 7,South District,2026-03-15,0
+SR-000521,Illegal Dumping,Closed,High,43.64666,-79.590903,North York Centre,Ward 18,South District,2025-11-27,0
+SR-000522,Damaged Bin,In Progress,Low,43.620293,-79.224977,Downtown Yonge East,Ward 21,East District,2026-03-21,18
+SR-000523,Overflowing Litter Bin,Closed,Urgent,43.73577,-79.503527,Flemingdon Park,Ward 10,West District,2026-03-14,0
+SR-000524,Missed Collection,Closed,Low,43.717718,-79.377313,Downtown Yonge East,Ward 25,South District,2025-12-13,0
+SR-000525,Illegal Dumping,Closed,Urgent,43.74075,-79.512734,Annex,Ward 6,East District,2026-03-10,0
+SR-000526,Overflowing Litter Bin,Closed,Medium,43.788813,-79.47769,Agincourt South,Ward 6,West District,2026-01-01,0
+SR-000527,Overflowing Litter Bin,Closed,Medium,43.74965,-79.612583,Kensington Chinatown,Ward 2,North District,2026-03-08,0
+SR-000528,Damaged Bin,In Progress,Urgent,43.675711,-79.458213,York University Heights,Ward 20,West District,2025-11-15,11
+SR-000529,Illegal Dumping,Open,Low,43.715001,-79.586541,Scarborough Village,Ward 4,East District,2026-04-10,22
+SR-000530,Public Realm Cleanliness,Open,Medium,43.77173,-79.519821,Agincourt South,Ward 16,West District,2026-04-24,4
+SR-000531,Missed Collection,In Progress,Low,43.745719,-79.250522,Downtown Yonge East,Ward 7,West District,2026-01-20,39
+SR-000532,Illegal Dumping,Closed,Urgent,43.719232,-79.279194,Agincourt South,Ward 25,East District,2025-11-23,0
+SR-000533,Illegal Dumping,Closed,High,43.742228,-79.456456,York University Heights,Ward 11,East District,2026-02-24,0
+SR-000534,Damaged Bin,In Progress,Urgent,43.776037,-79.484437,Etobicoke Centre,Ward 2,East District,2026-02-01,7
+SR-000535,Damaged Bin,Open,Urgent,43.721379,-79.277117,Flemingdon Park,Ward 5,West District,2025-11-23,8
+SR-000536,Illegal Dumping,Closed,Medium,43.67716,-79.480727,Danforth East York,Ward 15,South District,2025-12-16,0
+SR-000537,Overflowing Litter Bin,Closed,Low,43.69565,-79.243737,York University Heights,Ward 11,West District,2025-11-15,0
+SR-000538,Missed Collection,In Progress,High,43.803882,-79.369262,York University Heights,Ward 15,North District,2025-11-22,32
+SR-000539,Public Realm Cleanliness,Closed,Low,43.742137,-79.204494,Danforth East York,Ward 14,South District,2025-11-09,0
+SR-000540,Missed Collection,Closed,Urgent,43.612666,-79.513244,High Park North,Ward 20,North District,2026-03-21,0
+SR-000541,Public Realm Cleanliness,Closed,Low,43.753047,-79.241078,Annex,Ward 16,West District,2026-02-08,0
+SR-000542,Public Realm Cleanliness,Closed,Urgent,43.787117,-79.429051,Annex,Ward 15,West District,2025-12-24,0
+SR-000543,Public Realm Cleanliness,Closed,Medium,43.610548,-79.418621,Kensington Chinatown,Ward 7,North District,2025-11-09,0
+SR-000544,Missed Collection,Closed,Low,43.643069,-79.48605,Scarborough Village,Ward 23,West District,2026-03-16,0
+SR-000545,Damaged Bin,In Progress,High,43.767622,-79.585258,Kensington Chinatown,Ward 24,East District,2025-11-07,31
+SR-000546,Missed Collection,Closed,Medium,43.780344,-79.423272,North York Centre,Ward 21,South District,2026-04-03,0
+SR-000547,Illegal Dumping,Closed,Medium,43.727095,-79.57876,Etobicoke Centre,Ward 25,West District,2025-11-13,0
+SR-000548,Damaged Bin,In Progress,Urgent,43.667593,-79.578738,York University Heights,Ward 21,South District,2026-02-26,15
+SR-000549,Missed Collection,In Progress,High,43.811155,-79.24866,Downtown Yonge East,Ward 4,West District,2026-01-29,38
+SR-000550,Missed Collection,Open,High,43.695716,-79.517143,Annex,Ward 11,South District,2025-11-30,1
+SR-000551,Missed Collection,In Progress,Medium,43.804695,-79.461486,Scarborough Village,Ward 14,East District,2026-01-23,44
+SR-000552,Public Realm Cleanliness,Open,Medium,43.627026,-79.360944,Downtown Yonge East,Ward 13,West District,2025-12-10,30
+SR-000553,Overflowing Litter Bin,In Progress,High,43.807068,-79.618238,Kensington Chinatown,Ward 16,South District,2026-03-20,39
+SR-000554,Overflowing Litter Bin,In Progress,Low,43.644769,-79.188314,Etobicoke Centre,Ward 11,East District,2025-12-19,45
+SR-000555,Illegal Dumping,Open,Urgent,43.62935,-79.567908,York University Heights,Ward 7,South District,2026-02-11,25
+SR-000556,Illegal Dumping,Open,Medium,43.721143,-79.223552,Flemingdon Park,Ward 7,North District,2025-10-29,4
+SR-000557,Damaged Bin,Open,Urgent,43.699735,-79.1625,High Park North,Ward 22,North District,2026-04-21,36
+SR-000558,Illegal Dumping,Closed,Urgent,43.746209,-79.585926,York University Heights,Ward 16,East District,2026-01-16,0
+SR-000559,Missed Collection,Closed,High,43.818351,-79.432369,High Park North,Ward 23,North District,2025-10-29,0
+SR-000560,Damaged Bin,Closed,Low,43.656103,-79.363376,Annex,Ward 11,West District,2026-02-08,0
+SR-000561,Overflowing Litter Bin,Closed,Medium,43.659991,-79.58023,Agincourt South,Ward 23,South District,2026-02-11,0
+SR-000562,Overflowing Litter Bin,Open,Medium,43.590329,-79.413192,Flemingdon Park,Ward 7,West District,2026-01-24,37
+SR-000563,Overflowing Litter Bin,Open,Urgent,43.782479,-79.356735,Scarborough Village,Ward 22,North District,2026-04-12,7
+SR-000564,Damaged Bin,In Progress,Medium,43.819818,-79.488051,Waterfront Communities,Ward 4,East District,2025-11-26,28
+SR-000565,Damaged Bin,Open,Medium,43.654505,-79.546515,Waterfront Communities,Ward 4,North District,2026-01-15,32
+SR-000566,Public Realm Cleanliness,In Progress,Medium,43.627735,-79.488814,York University Heights,Ward 24,South District,2025-10-31,43
+SR-000567,Missed Collection,Closed,Urgent,43.772353,-79.203352,York University Heights,Ward 13,East District,2025-11-16,0
+SR-000568,Damaged Bin,Closed,High,43.81427,-79.513147,Waterfront Communities,Ward 4,West District,2026-04-05,0
+SR-000569,Damaged Bin,Open,Medium,43.792698,-79.469003,Waterfront Communities,Ward 19,South District,2026-02-15,45
+SR-000570,Missed Collection,Closed,Medium,43.615953,-79.219789,Scarborough Village,Ward 16,South District,2026-02-09,0
+SR-000571,Overflowing Litter Bin,Closed,Low,43.736304,-79.544224,Danforth East York,Ward 3,North District,2026-01-13,0
+SR-000572,Missed Collection,Closed,Urgent,43.688861,-79.487861,North York Centre,Ward 18,South District,2026-04-10,0
+SR-000573,Public Realm Cleanliness,Closed,Low,43.759463,-79.411429,Kensington Chinatown,Ward 22,West District,2026-03-11,0
+SR-000574,Overflowing Litter Bin,Closed,Low,43.817534,-79.594817,North York Centre,Ward 15,East District,2026-03-26,0
+SR-000575,Overflowing Litter Bin,Open,Medium,43.671654,-79.398326,York University Heights,Ward 6,West District,2025-12-04,17
+SR-000576,Missed Collection,Open,Low,43.705721,-79.47467,North York Centre,Ward 10,East District,2025-12-08,11
+SR-000577,Missed Collection,Closed,Medium,43.757725,-79.217616,High Park North,Ward 2,East District,2025-11-09,0
+SR-000578,Damaged Bin,Closed,Medium,43.805905,-79.249657,Etobicoke Centre,Ward 16,East District,2025-12-14,0
+SR-000579,Public Realm Cleanliness,In Progress,Medium,43.785633,-79.366749,Flemingdon Park,Ward 4,West District,2026-02-25,3
+SR-000580,Overflowing Litter Bin,Open,High,43.779954,-79.480388,Kensington Chinatown,Ward 5,North District,2025-11-26,23
+SR-000581,Overflowing Litter Bin,In Progress,Urgent,43.68165,-79.47422,Downtown Yonge East,Ward 18,East District,2026-02-19,25
+SR-000582,Overflowing Litter Bin,Closed,Urgent,43.697499,-79.488633,Agincourt South,Ward 3,East District,2025-11-04,0
+SR-000583,Overflowing Litter Bin,Closed,Medium,43.811171,-79.476091,Downtown Yonge East,Ward 21,East District,2025-11-15,0
+SR-000584,Overflowing Litter Bin,Closed,High,43.61255,-79.377664,Etobicoke Centre,Ward 22,North District,2026-01-09,0
+SR-000585,Illegal Dumping,Open,Urgent,43.603133,-79.56915,Scarborough Village,Ward 1,North District,2026-04-07,18
+SR-000586,Public Realm Cleanliness,Open,Low,43.64046,-79.406399,York University Heights,Ward 18,South District,2026-04-10,22
+SR-000587,Missed Collection,Closed,High,43.689648,-79.252142,Danforth East York,Ward 25,East District,2026-03-20,0
+SR-000588,Illegal Dumping,Open,Low,43.760079,-79.423894,Downtown Yonge East,Ward 13,North District,2026-01-20,7
+SR-000589,Overflowing Litter Bin,Open,High,43.666752,-79.474424,Etobicoke Centre,Ward 16,West District,2025-12-12,23
+SR-000590,Public Realm Cleanliness,Closed,High,43.768019,-79.596047,North York Centre,Ward 9,West District,2026-04-14,0
+SR-000591,Illegal Dumping,Open,Urgent,43.592949,-79.25405,Annex,Ward 12,South District,2025-12-25,38
+SR-000592,Illegal Dumping,Open,Low,43.699744,-79.559795,York University Heights,Ward 17,North District,2025-11-09,9
+SR-000593,Damaged Bin,Open,High,43.64418,-79.191048,Waterfront Communities,Ward 24,East District,2026-02-22,44
+SR-000594,Damaged Bin,Closed,Urgent,43.787686,-79.293499,Annex,Ward 15,East District,2025-12-28,0
+SR-000595,Illegal Dumping,Closed,High,43.700912,-79.380651,Scarborough Village,Ward 17,North District,2026-02-07,0
+SR-000596,Missed Collection,Closed,High,43.814306,-79.175746,Scarborough Village,Ward 25,East District,2026-04-03,0
+SR-000597,Missed Collection,Closed,Low,43.639512,-79.246892,Flemingdon Park,Ward 8,West District,2026-03-15,0
+SR-000598,Missed Collection,Closed,Low,43.635366,-79.521773,Flemingdon Park,Ward 10,South District,2026-04-24,0
+SR-000599,Public Realm Cleanliness,Closed,Medium,43.745501,-79.433699,Agincourt South,Ward 16,West District,2026-01-13,0
+SR-000600,Public Realm Cleanliness,Open,Medium,43.804255,-79.579056,Flemingdon Park,Ward 1,South District,2025-10-29,35
+SR-000601,Illegal Dumping,Closed,Medium,43.707651,-79.19748,Flemingdon Park,Ward 22,West District,2025-11-22,0
+SR-000602,Overflowing Litter Bin,Closed,Medium,43.797946,-79.547997,Annex,Ward 3,East District,2026-03-23,0
+SR-000603,Illegal Dumping,Closed,Low,43.674327,-79.335204,Scarborough Village,Ward 16,South District,2026-03-14,0
+SR-000604,Missed Collection,In Progress,High,43.626661,-79.17471,York University Heights,Ward 8,West District,2026-02-11,20
+SR-000605,Illegal Dumping,Closed,High,43.800392,-79.543203,Kensington Chinatown,Ward 1,South District,2026-03-02,0
+SR-000606,Public Realm Cleanliness,In Progress,Low,43.617866,-79.580712,Agincourt South,Ward 20,South District,2026-04-12,23
+SR-000607,Public Realm Cleanliness,Open,Urgent,43.799172,-79.530933,Danforth East York,Ward 10,East District,2026-03-30,1
+SR-000608,Overflowing Litter Bin,In Progress,Urgent,43.685746,-79.413528,Danforth East York,Ward 1,West District,2026-01-06,32
+SR-000609,Missed Collection,Open,Medium,43.727773,-79.587002,Scarborough Village,Ward 4,South District,2026-04-25,10
+SR-000610,Illegal Dumping,Closed,Medium,43.642154,-79.191514,Agincourt South,Ward 13,East District,2026-02-09,0
+SR-000611,Damaged Bin,In Progress,Medium,43.798934,-79.260606,North York Centre,Ward 9,West District,2026-01-04,43
+SR-000612,Overflowing Litter Bin,Closed,Medium,43.594462,-79.469577,Danforth East York,Ward 24,South District,2026-04-25,0
+SR-000613,Overflowing Litter Bin,In Progress,Low,43.734431,-79.493413,Kensington Chinatown,Ward 10,West District,2026-03-23,26
+SR-000614,Illegal Dumping,Closed,Low,43.799205,-79.328411,Annex,Ward 22,North District,2025-12-25,0
+SR-000615,Illegal Dumping,Closed,Low,43.606539,-79.201857,Scarborough Village,Ward 16,South District,2025-11-03,0
+SR-000616,Overflowing Litter Bin,Closed,High,43.810286,-79.584252,Scarborough Village,Ward 17,South District,2026-03-24,0
+SR-000617,Missed Collection,Open,Low,43.712443,-79.480452,Annex,Ward 5,East District,2025-12-19,1
+SR-000618,Overflowing Litter Bin,Closed,Low,43.680353,-79.53736,York University Heights,Ward 11,South District,2025-11-25,0
+SR-000619,Missed Collection,Closed,Urgent,43.722957,-79.179329,Agincourt South,Ward 10,East District,2025-12-23,0
+SR-000620,Damaged Bin,Open,Medium,43.705707,-79.581859,Etobicoke Centre,Ward 5,North District,2026-02-22,18
+SR-000621,Illegal Dumping,Open,Medium,43.7326,-79.463497,York University Heights,Ward 14,North District,2025-12-26,7
+SR-000622,Public Realm Cleanliness,Closed,Medium,43.786863,-79.420048,Kensington Chinatown,Ward 19,North District,2026-02-27,0
+SR-000623,Overflowing Litter Bin,Open,Urgent,43.634353,-79.532091,Waterfront Communities,Ward 9,North District,2026-03-20,28
+SR-000624,Public Realm Cleanliness,Open,Medium,43.766816,-79.49783,Downtown Yonge East,Ward 2,South District,2026-01-12,34
+SR-000625,Overflowing Litter Bin,In Progress,Medium,43.766464,-79.525292,Danforth East York,Ward 14,South District,2026-04-11,33
+SR-000626,Missed Collection,Closed,High,43.663988,-79.405876,Downtown Yonge East,Ward 9,East District,2026-02-14,0
+SR-000627,Damaged Bin,In Progress,Medium,43.806935,-79.191404,Danforth East York,Ward 2,North District,2026-04-16,1
+SR-000628,Illegal Dumping,Open,Medium,43.637581,-79.455219,High Park North,Ward 16,East District,2025-11-22,7
+SR-000629,Overflowing Litter Bin,Closed,High,43.624362,-79.385407,Agincourt South,Ward 12,East District,2026-02-08,0
+SR-000630,Missed Collection,Open,Low,43.695934,-79.20565,York University Heights,Ward 18,North District,2026-02-01,24
+SR-000631,Illegal Dumping,Closed,High,43.803901,-79.443559,Kensington Chinatown,Ward 21,East District,2026-03-04,0
+SR-000632,Damaged Bin,Closed,Low,43.7031,-79.207731,Downtown Yonge East,Ward 5,West District,2026-04-16,0
+SR-000633,Overflowing Litter Bin,Closed,Medium,43.775543,-79.618318,Flemingdon Park,Ward 15,West District,2026-04-07,0
+SR-000634,Public Realm Cleanliness,Closed,High,43.663614,-79.425984,High Park North,Ward 24,South District,2026-03-06,0
+SR-000635,Overflowing Litter Bin,Closed,Low,43.642835,-79.528197,Annex,Ward 7,South District,2025-12-07,0
+SR-000636,Illegal Dumping,Closed,High,43.59869,-79.32405,Danforth East York,Ward 15,West District,2026-01-05,0
+SR-000637,Damaged Bin,Open,Urgent,43.650377,-79.59592,North York Centre,Ward 17,West District,2026-03-15,39
+SR-000638,Overflowing Litter Bin,In Progress,High,43.643125,-79.25112,Waterfront Communities,Ward 19,West District,2025-10-31,13
+SR-000639,Damaged Bin,Closed,Urgent,43.785843,-79.39779,York University Heights,Ward 18,West District,2026-03-15,0
+SR-000640,Public Realm Cleanliness,Closed,Urgent,43.685696,-79.170187,North York Centre,Ward 25,South District,2026-01-14,0
+SR-000641,Illegal Dumping,Closed,Medium,43.63613,-79.520935,Annex,Ward 1,North District,2025-12-01,0
+SR-000642,Public Realm Cleanliness,Open,Low,43.657129,-79.540532,North York Centre,Ward 15,East District,2026-02-08,15
+SR-000643,Illegal Dumping,In Progress,Low,43.677254,-79.201016,Annex,Ward 8,West District,2025-12-11,16
+SR-000644,Missed Collection,In Progress,Medium,43.73153,-79.430505,High Park North,Ward 5,East District,2026-04-13,42
+SR-000645,Overflowing Litter Bin,Open,Low,43.804914,-79.597706,Waterfront Communities,Ward 21,East District,2025-11-16,39
+SR-000646,Illegal Dumping,In Progress,Low,43.638364,-79.359691,Flemingdon Park,Ward 18,East District,2026-03-23,27
+SR-000647,Illegal Dumping,Closed,High,43.731577,-79.601804,Waterfront Communities,Ward 21,West District,2026-01-25,0
+SR-000648,Illegal Dumping,Open,Medium,43.682699,-79.321389,High Park North,Ward 1,West District,2025-11-01,25
+SR-000649,Illegal Dumping,Closed,Medium,43.750556,-79.326456,Agincourt South,Ward 8,East District,2026-02-17,0
+SR-000650,Public Realm Cleanliness,Open,Urgent,43.66373,-79.576981,Annex,Ward 15,North District,2026-01-05,24
+SR-000651,Damaged Bin,Open,Low,43.688236,-79.560773,Agincourt South,Ward 6,South District,2026-03-10,12
+SR-000652,Public Realm Cleanliness,Open,Urgent,43.807953,-79.401421,Flemingdon Park,Ward 6,East District,2026-04-21,20
+SR-000653,Overflowing Litter Bin,Open,Urgent,43.66297,-79.2675,York University Heights,Ward 20,North District,2026-04-09,10
+SR-000654,Damaged Bin,Open,Medium,43.704528,-79.477384,Agincourt South,Ward 21,South District,2026-04-01,34
+SR-000655,Missed Collection,Open,Low,43.776753,-79.22111,Scarborough Village,Ward 13,West District,2026-03-29,1
+SR-000656,Missed Collection,Closed,Medium,43.744792,-79.598396,Kensington Chinatown,Ward 25,West District,2026-02-17,0
+SR-000657,Public Realm Cleanliness,Open,Low,43.720254,-79.268884,Waterfront Communities,Ward 4,East District,2026-04-05,13
+SR-000658,Damaged Bin,Open,Urgent,43.621396,-79.514811,Annex,Ward 10,East District,2025-12-25,10
+SR-000659,Missed Collection,Open,High,43.792974,-79.610744,York University Heights,Ward 18,West District,2026-04-21,3
+SR-000660,Public Realm Cleanliness,Open,High,43.763127,-79.402064,Downtown Yonge East,Ward 17,South District,2026-03-21,1
+SR-000661,Missed Collection,Open,Medium,43.692758,-79.616736,Scarborough Village,Ward 13,North District,2026-01-26,42
+SR-000662,Overflowing Litter Bin,In Progress,Urgent,43.778462,-79.454481,York University Heights,Ward 23,West District,2025-12-22,11
+SR-000663,Overflowing Litter Bin,Open,Low,43.714376,-79.308442,High Park North,Ward 12,West District,2025-11-20,22
+SR-000664,Illegal Dumping,Open,Low,43.751605,-79.180249,Waterfront Communities,Ward 20,North District,2026-03-12,28
+SR-000665,Illegal Dumping,Closed,Medium,43.712208,-79.436129,York University Heights,Ward 14,North District,2025-11-07,0
+SR-000666,Illegal Dumping,Closed,High,43.809352,-79.324629,Danforth East York,Ward 4,East District,2025-12-20,0
+SR-000667,Illegal Dumping,Closed,High,43.658575,-79.561826,Flemingdon Park,Ward 3,West District,2026-03-19,0
+SR-000668,Overflowing Litter Bin,Closed,High,43.783788,-79.453396,Annex,Ward 13,South District,2025-12-25,0
+SR-000669,Missed Collection,Open,Urgent,43.741908,-79.403424,Flemingdon Park,Ward 9,North District,2026-04-03,21
+SR-000670,Overflowing Litter Bin,Open,Urgent,43.635754,-79.343224,Danforth East York,Ward 11,South District,2026-01-08,31
+SR-000671,Damaged Bin,Closed,High,43.603957,-79.429862,Annex,Ward 21,North District,2026-01-18,0
+SR-000672,Public Realm Cleanliness,Closed,Urgent,43.715721,-79.419418,North York Centre,Ward 18,South District,2025-12-11,0
+SR-000673,Overflowing Litter Bin,Closed,Urgent,43.762195,-79.239155,Downtown Yonge East,Ward 19,South District,2025-12-13,0
+SR-000674,Overflowing Litter Bin,Closed,Low,43.767386,-79.602146,Kensington Chinatown,Ward 12,West District,2026-03-05,0
+SR-000675,Illegal Dumping,Open,Urgent,43.63465,-79.373161,Annex,Ward 4,West District,2026-01-27,24
+SR-000676,Illegal Dumping,Open,Urgent,43.805009,-79.23592,Annex,Ward 18,South District,2026-02-23,14
+SR-000677,Missed Collection,Open,Medium,43.783783,-79.480524,Downtown Yonge East,Ward 23,North District,2026-01-20,2
+SR-000678,Damaged Bin,Closed,High,43.688773,-79.403475,Waterfront Communities,Ward 23,West District,2025-11-08,0
+SR-000679,Missed Collection,Closed,Urgent,43.626195,-79.605709,Etobicoke Centre,Ward 6,West District,2026-03-20,0
+SR-000680,Overflowing Litter Bin,In Progress,Low,43.807788,-79.509272,Kensington Chinatown,Ward 3,West District,2025-12-02,27
+SR-000681,Overflowing Litter Bin,Open,Urgent,43.645188,-79.581646,Flemingdon Park,Ward 5,East District,2025-12-27,27
+SR-000682,Illegal Dumping,Closed,Urgent,43.803557,-79.353321,York University Heights,Ward 23,West District,2026-02-12,0
+SR-000683,Overflowing Litter Bin,Open,Low,43.743418,-79.200675,York University Heights,Ward 2,North District,2025-12-19,11
+SR-000684,Damaged Bin,Open,Urgent,43.669493,-79.334107,York University Heights,Ward 15,East District,2025-12-01,33
+SR-000685,Overflowing Litter Bin,In Progress,Urgent,43.598924,-79.534085,Annex,Ward 9,West District,2025-12-14,25
+SR-000686,Overflowing Litter Bin,Open,Urgent,43.781187,-79.267287,Etobicoke Centre,Ward 2,North District,2026-01-16,12
+SR-000687,Public Realm Cleanliness,Closed,Low,43.670648,-79.446667,Flemingdon Park,Ward 15,South District,2026-02-05,0
+SR-000688,Damaged Bin,Closed,Urgent,43.712718,-79.619889,Annex,Ward 2,East District,2025-11-12,0
+SR-000689,Overflowing Litter Bin,Closed,High,43.645486,-79.524213,Downtown Yonge East,Ward 4,West District,2026-01-24,0
+SR-000690,Illegal Dumping,Closed,Low,43.647611,-79.249283,Kensington Chinatown,Ward 10,North District,2025-12-09,0
+SR-000691,Missed Collection,Open,Medium,43.654325,-79.5319,Etobicoke Centre,Ward 1,East District,2026-03-09,36
+SR-000692,Missed Collection,Open,Medium,43.705981,-79.221803,High Park North,Ward 3,West District,2025-12-03,31
+SR-000693,Missed Collection,Open,High,43.64551,-79.583873,Downtown Yonge East,Ward 10,West District,2026-01-25,19
+SR-000694,Public Realm Cleanliness,Closed,Medium,43.671973,-79.27608,Danforth East York,Ward 25,South District,2026-01-25,0
+SR-000695,Missed Collection,Open,High,43.716659,-79.244275,Scarborough Village,Ward 24,West District,2025-12-19,10
+SR-000696,Public Realm Cleanliness,Open,Urgent,43.810706,-79.255375,Agincourt South,Ward 19,West District,2026-02-11,11
+SR-000697,Damaged Bin,Open,Low,43.728875,-79.393063,York University Heights,Ward 3,North District,2026-03-02,44
+SR-000698,Overflowing Litter Bin,Closed,Medium,43.599216,-79.167212,North York Centre,Ward 17,East District,2026-01-02,0
+SR-000699,Illegal Dumping,Open,High,43.678201,-79.549975,Danforth East York,Ward 20,South District,2026-04-16,44
+SR-000700,Overflowing Litter Bin,Closed,Medium,43.743343,-79.489227,Etobicoke Centre,Ward 20,West District,2026-03-18,0
+SR-000701,Damaged Bin,Closed,Low,43.724729,-79.350087,Waterfront Communities,Ward 5,East District,2025-12-07,0
+SR-000702,Damaged Bin,Open,Low,43.692518,-79.235385,Agincourt South,Ward 11,North District,2026-02-10,11
+SR-000703,Illegal Dumping,Open,High,43.650942,-79.413629,Danforth East York,Ward 3,West District,2026-03-12,30
+SR-000704,Damaged Bin,In Progress,High,43.713669,-79.314733,Agincourt South,Ward 21,North District,2026-03-26,37
+SR-000705,Missed Collection,Closed,High,43.770314,-79.438389,High Park North,Ward 13,South District,2025-11-19,0
+SR-000706,Overflowing Litter Bin,Closed,Urgent,43.738591,-79.550719,Danforth East York,Ward 17,East District,2026-01-21,0
+SR-000707,Damaged Bin,Open,Urgent,43.804509,-79.443793,High Park North,Ward 22,West District,2025-11-19,42
+SR-000708,Overflowing Litter Bin,Open,Low,43.75779,-79.610643,Annex,Ward 4,East District,2026-01-20,11
+SR-000709,Damaged Bin,Closed,Low,43.637193,-79.395942,Kensington Chinatown,Ward 13,South District,2025-11-06,0
+SR-000710,Illegal Dumping,Open,Urgent,43.791998,-79.377463,Agincourt South,Ward 21,South District,2026-03-30,6
+SR-000711,Missed Collection,Open,Urgent,43.80387,-79.397453,Scarborough Village,Ward 7,South District,2026-02-01,5
+SR-000712,Illegal Dumping,In Progress,Urgent,43.702803,-79.564916,Kensington Chinatown,Ward 23,South District,2026-03-28,18
+SR-000713,Missed Collection,Closed,Medium,43.774611,-79.506396,Agincourt South,Ward 5,North District,2026-02-04,0
+SR-000714,Missed Collection,Closed,Urgent,43.796911,-79.201021,Waterfront Communities,Ward 12,South District,2025-12-26,0
+SR-000715,Missed Collection,Open,Medium,43.806961,-79.380694,Waterfront Communities,Ward 25,South District,2026-02-16,17
+SR-000716,Overflowing Litter Bin,Closed,Low,43.745732,-79.261883,Annex,Ward 3,East District,2026-01-13,0
+SR-000717,Illegal Dumping,Open,Urgent,43.620133,-79.34356,Scarborough Village,Ward 17,North District,2025-11-06,17
+SR-000718,Missed Collection,Open,Low,43.597889,-79.39112,Scarborough Village,Ward 11,East District,2026-03-15,13
+SR-000719,Damaged Bin,In Progress,Urgent,43.625614,-79.535855,Agincourt South,Ward 18,North District,2025-10-30,28
+SR-000720,Public Realm Cleanliness,In Progress,Urgent,43.673961,-79.421079,Waterfront Communities,Ward 18,North District,2026-04-07,43
+SR-000721,Public Realm Cleanliness,Closed,Medium,43.73333,-79.585763,Danforth East York,Ward 22,East District,2026-04-23,0
+SR-000722,Damaged Bin,Open,Medium,43.705849,-79.535992,Agincourt South,Ward 11,West District,2025-11-05,27
+SR-000723,Public Realm Cleanliness,In Progress,Low,43.722014,-79.326794,Agincourt South,Ward 5,South District,2025-11-14,38
+SR-000724,Missed Collection,Open,Medium,43.718043,-79.280384,Flemingdon Park,Ward 7,South District,2025-10-30,35
+SR-000725,Public Realm Cleanliness,Open,Urgent,43.66719,-79.268051,Kensington Chinatown,Ward 12,North District,2026-03-09,44
+SR-000726,Missed Collection,Closed,High,43.689536,-79.397275,Danforth East York,Ward 1,East District,2026-02-07,0
+SR-000727,Missed Collection,Closed,Urgent,43.739063,-79.611555,York University Heights,Ward 15,South District,2026-01-11,0
+SR-000728,Illegal Dumping,In Progress,Urgent,43.740419,-79.335451,North York Centre,Ward 25,East District,2026-03-28,12
+SR-000729,Damaged Bin,Closed,High,43.661265,-79.580535,Annex,Ward 18,North District,2025-12-09,0
+SR-000730,Damaged Bin,Closed,High,43.610915,-79.195317,York University Heights,Ward 23,South District,2025-11-15,0
+SR-000731,Public Realm Cleanliness,In Progress,Low,43.748534,-79.561533,Downtown Yonge East,Ward 4,West District,2025-11-11,2
+SR-000732,Damaged Bin,Closed,Low,43.672046,-79.347458,Agincourt South,Ward 24,West District,2025-11-15,0
+SR-000733,Public Realm Cleanliness,Closed,Low,43.782181,-79.599916,York University Heights,Ward 10,South District,2026-03-03,0
+SR-000734,Damaged Bin,Open,Urgent,43.644426,-79.210715,Downtown Yonge East,Ward 7,South District,2026-03-26,23
+SR-000735,Damaged Bin,Closed,Urgent,43.592108,-79.527356,Waterfront Communities,Ward 12,North District,2025-12-18,0
+SR-000736,Illegal Dumping,In Progress,High,43.810576,-79.337835,High Park North,Ward 14,North District,2026-04-25,27
+SR-000737,Missed Collection,Open,Low,43.650184,-79.589184,Annex,Ward 12,East District,2026-01-31,11
+SR-000738,Damaged Bin,Closed,Medium,43.596484,-79.507417,North York Centre,Ward 13,North District,2025-11-20,0
+SR-000739,Damaged Bin,Closed,Low,43.792742,-79.42868,Etobicoke Centre,Ward 14,North District,2025-11-15,0
+SR-000740,Overflowing Litter Bin,Closed,Urgent,43.755677,-79.197589,Danforth East York,Ward 17,North District,2026-01-05,0
+SR-000741,Missed Collection,Open,Medium,43.683849,-79.532012,North York Centre,Ward 4,South District,2025-11-17,17
+SR-000742,Overflowing Litter Bin,Closed,High,43.708937,-79.202282,Kensington Chinatown,Ward 3,West District,2026-04-20,0
+SR-000743,Missed Collection,Closed,Medium,43.775006,-79.589718,Waterfront Communities,Ward 20,West District,2025-12-01,0
+SR-000744,Missed Collection,Closed,Medium,43.749292,-79.356927,Agincourt South,Ward 21,East District,2026-03-10,0
+SR-000745,Overflowing Litter Bin,Open,High,43.798717,-79.563659,Kensington Chinatown,Ward 18,North District,2026-01-20,17
+SR-000746,Missed Collection,Closed,High,43.712828,-79.215447,Downtown Yonge East,Ward 5,West District,2025-11-14,0
+SR-000747,Missed Collection,Closed,Low,43.684305,-79.398282,Agincourt South,Ward 20,West District,2026-03-30,0
+SR-000748,Illegal Dumping,Open,High,43.606206,-79.492054,Annex,Ward 3,West District,2025-12-21,24
+SR-000749,Damaged Bin,Open,Low,43.664637,-79.185244,Agincourt South,Ward 1,South District,2026-04-08,32
+SR-000750,Missed Collection,Closed,Medium,43.655013,-79.408,York University Heights,Ward 14,South District,2026-02-05,0
+SR-000751,Damaged Bin,Closed,Medium,43.7444,-79.545396,Annex,Ward 10,West District,2026-03-12,0
+SR-000752,Public Realm Cleanliness,Closed,Low,43.701882,-79.280272,Downtown Yonge East,Ward 11,East District,2025-12-24,0
+SR-000753,Public Realm Cleanliness,Closed,Low,43.789377,-79.331921,Annex,Ward 17,East District,2026-03-26,0
+SR-000754,Public Realm Cleanliness,Open,Low,43.743882,-79.56191,North York Centre,Ward 1,North District,2026-03-02,24
+SR-000755,Overflowing Litter Bin,Open,Low,43.807529,-79.559016,Danforth East York,Ward 5,North District,2026-04-05,45
+SR-000756,Illegal Dumping,Open,High,43.768175,-79.498184,Agincourt South,Ward 7,West District,2026-01-27,36
+SR-000757,Illegal Dumping,Closed,Urgent,43.804726,-79.288819,Flemingdon Park,Ward 16,South District,2025-12-16,0
+SR-000758,Overflowing Litter Bin,Closed,High,43.763377,-79.519233,Annex,Ward 7,East District,2026-01-16,0
+SR-000759,Public Realm Cleanliness,Open,High,43.691899,-79.335806,Annex,Ward 7,South District,2026-01-06,29
+SR-000760,Public Realm Cleanliness,Closed,High,43.767094,-79.572179,Danforth East York,Ward 20,West District,2025-11-22,0
+SR-000761,Damaged Bin,Closed,Medium,43.811344,-79.210498,Etobicoke Centre,Ward 12,East District,2025-11-16,0
+SR-000762,Damaged Bin,Open,Medium,43.65218,-79.24153,Waterfront Communities,Ward 17,East District,2025-11-27,27
+SR-000763,Public Realm Cleanliness,In Progress,High,43.709215,-79.407569,Scarborough Village,Ward 1,West District,2026-03-11,21
+SR-000764,Overflowing Litter Bin,Closed,High,43.66232,-79.352754,Kensington Chinatown,Ward 3,North District,2025-11-09,0
+SR-000765,Illegal Dumping,In Progress,Medium,43.757874,-79.430971,Danforth East York,Ward 4,West District,2026-02-04,45
+SR-000766,Illegal Dumping,Open,Medium,43.73472,-79.298316,Agincourt South,Ward 19,East District,2026-02-26,36
+SR-000767,Damaged Bin,Open,High,43.753558,-79.596096,Etobicoke Centre,Ward 7,North District,2026-03-31,36
+SR-000768,Public Realm Cleanliness,In Progress,Low,43.787742,-79.409203,Etobicoke Centre,Ward 21,South District,2025-11-03,28
+SR-000769,Illegal Dumping,In Progress,Medium,43.650356,-79.508788,Kensington Chinatown,Ward 2,South District,2025-12-20,3
+SR-000770,Damaged Bin,In Progress,Low,43.701093,-79.212057,Downtown Yonge East,Ward 15,North District,2025-11-24,21
+SR-000771,Damaged Bin,Closed,Medium,43.67702,-79.275126,Etobicoke Centre,Ward 1,East District,2026-04-22,0
+SR-000772,Public Realm Cleanliness,Closed,Low,43.612268,-79.401014,Agincourt South,Ward 10,North District,2026-01-13,0
+SR-000773,Public Realm Cleanliness,Open,Low,43.818088,-79.265599,Danforth East York,Ward 21,West District,2026-04-09,31
+SR-000774,Damaged Bin,Open,High,43.638422,-79.389337,High Park North,Ward 11,East District,2026-01-14,6
+SR-000775,Illegal Dumping,Closed,Urgent,43.643734,-79.431602,Etobicoke Centre,Ward 2,South District,2026-02-09,0
+SR-000776,Damaged Bin,Closed,Urgent,43.769419,-79.265237,York University Heights,Ward 4,East District,2025-11-19,0
+SR-000777,Missed Collection,Open,Medium,43.642463,-79.195777,Waterfront Communities,Ward 1,North District,2026-03-31,21
+SR-000778,Damaged Bin,Closed,Medium,43.726291,-79.445235,Annex,Ward 3,North District,2026-01-22,0
+SR-000779,Missed Collection,Closed,Low,43.705445,-79.341667,High Park North,Ward 2,West District,2026-04-14,0
+SR-000780,Missed Collection,In Progress,High,43.718775,-79.396254,Danforth East York,Ward 23,South District,2026-02-16,45
+SR-000781,Overflowing Litter Bin,Open,Urgent,43.706135,-79.538851,Downtown Yonge East,Ward 5,East District,2026-03-20,38
+SR-000782,Damaged Bin,Closed,Low,43.776929,-79.37079,North York Centre,Ward 17,North District,2025-11-30,0
+SR-000783,Damaged Bin,Closed,High,43.620148,-79.267568,Danforth East York,Ward 25,South District,2026-02-28,0
+SR-000784,Illegal Dumping,Open,High,43.804462,-79.184239,Flemingdon Park,Ward 3,East District,2025-12-05,16
+SR-000785,Overflowing Litter Bin,Closed,Low,43.674874,-79.557662,Downtown Yonge East,Ward 16,West District,2026-03-03,0
+SR-000786,Overflowing Litter Bin,Open,Urgent,43.709232,-79.5682,Scarborough Village,Ward 7,South District,2026-03-31,22
+SR-000787,Public Realm Cleanliness,Open,High,43.804817,-79.535553,High Park North,Ward 23,South District,2025-11-10,10
+SR-000788,Missed Collection,Closed,Medium,43.648136,-79.432947,Kensington Chinatown,Ward 12,South District,2026-01-01,0
+SR-000789,Public Realm Cleanliness,Closed,Medium,43.678128,-79.254455,Scarborough Village,Ward 7,West District,2026-02-14,0
+SR-000790,Overflowing Litter Bin,Closed,High,43.694953,-79.541447,Etobicoke Centre,Ward 21,West District,2026-03-20,0
+SR-000791,Missed Collection,Closed,Low,43.651458,-79.385808,Kensington Chinatown,Ward 1,South District,2026-03-10,0
+SR-000792,Missed Collection,In Progress,Urgent,43.623914,-79.338638,York University Heights,Ward 17,South District,2026-01-26,17
+SR-000793,Public Realm Cleanliness,Open,Low,43.720122,-79.291237,Danforth East York,Ward 14,North District,2026-03-19,26
+SR-000794,Damaged Bin,Closed,High,43.805672,-79.200363,Waterfront Communities,Ward 15,East District,2026-01-22,0
+SR-000795,Missed Collection,Open,Urgent,43.807597,-79.507431,Flemingdon Park,Ward 14,North District,2026-02-10,13
+SR-000796,Overflowing Litter Bin,Closed,High,43.62026,-79.480953,North York Centre,Ward 20,South District,2025-12-15,0
+SR-000797,Missed Collection,Closed,Low,43.79587,-79.172855,York University Heights,Ward 8,West District,2026-03-01,0
+SR-000798,Missed Collection,Open,Low,43.787645,-79.569392,Etobicoke Centre,Ward 9,North District,2026-04-10,35
+SR-000799,Illegal Dumping,Open,Medium,43.807908,-79.425255,Etobicoke Centre,Ward 23,South District,2026-01-16,26
+SR-000800,Overflowing Litter Bin,Open,High,43.592141,-79.416499,Agincourt South,Ward 7,North District,2026-03-05,23
+SR-000801,Illegal Dumping,Closed,High,43.600596,-79.369816,Flemingdon Park,Ward 1,West District,2026-03-10,0
+SR-000802,Public Realm Cleanliness,Closed,Urgent,43.667867,-79.40222,Flemingdon Park,Ward 10,North District,2026-03-14,0
+SR-000803,Missed Collection,In Progress,Medium,43.731029,-79.220351,Annex,Ward 11,South District,2026-03-21,1
+SR-000804,Damaged Bin,Closed,Urgent,43.742237,-79.420338,Danforth East York,Ward 1,North District,2026-02-18,0
+SR-000805,Overflowing Litter Bin,Open,Low,43.778468,-79.203432,Etobicoke Centre,Ward 12,South District,2025-11-28,1
+SR-000806,Overflowing Litter Bin,Closed,Urgent,43.617545,-79.375311,Downtown Yonge East,Ward 2,West District,2025-12-02,0
+SR-000807,Illegal Dumping,Closed,Medium,43.655438,-79.598352,North York Centre,Ward 17,North District,2026-03-20,0
+SR-000808,Missed Collection,Open,High,43.743766,-79.223125,Flemingdon Park,Ward 11,South District,2025-12-22,23
+SR-000809,Illegal Dumping,Closed,Urgent,43.627468,-79.24629,High Park North,Ward 12,South District,2026-04-23,0
+SR-000810,Illegal Dumping,In Progress,High,43.786281,-79.199403,North York Centre,Ward 25,South District,2026-03-29,18
+SR-000811,Public Realm Cleanliness,Closed,Low,43.651016,-79.204182,Annex,Ward 14,North District,2025-11-09,0
+SR-000812,Illegal Dumping,Open,Urgent,43.663752,-79.365925,Waterfront Communities,Ward 8,South District,2026-01-24,14
+SR-000813,Missed Collection,Closed,Medium,43.601617,-79.599815,Scarborough Village,Ward 21,West District,2026-02-15,0
+SR-000814,Public Realm Cleanliness,Closed,Urgent,43.755686,-79.415539,North York Centre,Ward 6,East District,2025-11-04,0
+SR-000815,Illegal Dumping,In Progress,Urgent,43.648947,-79.53241,Etobicoke Centre,Ward 14,East District,2026-02-06,13
+SR-000816,Public Realm Cleanliness,Open,High,43.744089,-79.619815,Etobicoke Centre,Ward 4,South District,2025-12-31,37
+SR-000817,Illegal Dumping,In Progress,Low,43.775355,-79.583545,Waterfront Communities,Ward 16,North District,2025-12-28,44
+SR-000818,Public Realm Cleanliness,Open,High,43.634043,-79.442331,Etobicoke Centre,Ward 18,North District,2026-02-08,32
+SR-000819,Missed Collection,In Progress,High,43.701518,-79.456702,Waterfront Communities,Ward 15,West District,2026-03-02,19
+SR-000820,Missed Collection,Closed,Low,43.663764,-79.176599,Agincourt South,Ward 10,West District,2026-01-06,0
+SR-000821,Missed Collection,In Progress,Low,43.737563,-79.609221,High Park North,Ward 5,East District,2026-02-13,33
+SR-000822,Public Realm Cleanliness,Closed,Medium,43.68894,-79.217496,Downtown Yonge East,Ward 23,East District,2026-03-21,0
+SR-000823,Overflowing Litter Bin,Closed,Urgent,43.659335,-79.576504,Etobicoke Centre,Ward 3,East District,2026-03-01,0
+SR-000824,Damaged Bin,Open,High,43.764428,-79.341234,Kensington Chinatown,Ward 22,South District,2026-01-08,26
+SR-000825,Illegal Dumping,Open,High,43.721172,-79.595355,Etobicoke Centre,Ward 10,North District,2025-12-03,28
+SR-000826,Illegal Dumping,Closed,Medium,43.622315,-79.333627,York University Heights,Ward 25,North District,2026-02-21,0
+SR-000827,Damaged Bin,Open,Medium,43.637799,-79.388128,High Park North,Ward 10,West District,2026-02-09,37
+SR-000828,Damaged Bin,Closed,Medium,43.715323,-79.489587,Scarborough Village,Ward 14,West District,2026-03-22,0
+SR-000829,Damaged Bin,Closed,High,43.808138,-79.232467,North York Centre,Ward 22,East District,2025-12-28,0
+SR-000830,Damaged Bin,In Progress,Urgent,43.756146,-79.584123,Scarborough Village,Ward 14,South District,2026-04-19,36
+SR-000831,Damaged Bin,Open,Low,43.61441,-79.393321,Annex,Ward 20,East District,2026-02-23,38
+SR-000832,Illegal Dumping,Closed,Medium,43.626964,-79.169998,Etobicoke Centre,Ward 18,East District,2026-04-13,0
+SR-000833,Overflowing Litter Bin,Closed,Urgent,43.62646,-79.395765,York University Heights,Ward 1,South District,2025-12-15,0
+SR-000834,Missed Collection,Closed,Low,43.673748,-79.325882,Waterfront Communities,Ward 9,West District,2026-01-31,0
+SR-000835,Missed Collection,Closed,High,43.619678,-79.422054,Etobicoke Centre,Ward 16,East District,2026-04-11,0
+SR-000836,Public Realm Cleanliness,Open,Low,43.653182,-79.211634,Flemingdon Park,Ward 7,North District,2025-12-04,32
+SR-000837,Overflowing Litter Bin,Open,Medium,43.599335,-79.199685,High Park North,Ward 21,East District,2026-04-25,32
+SR-000838,Overflowing Litter Bin,Closed,Low,43.781589,-79.483117,Downtown Yonge East,Ward 1,North District,2025-11-23,0
+SR-000839,Public Realm Cleanliness,Open,Low,43.771537,-79.605642,Kensington Chinatown,Ward 7,West District,2025-12-26,2
+SR-000840,Damaged Bin,Closed,Urgent,43.812379,-79.377766,Waterfront Communities,Ward 4,East District,2026-01-13,0
+SR-000841,Overflowing Litter Bin,Closed,Medium,43.659755,-79.453212,North York Centre,Ward 9,South District,2025-11-09,0
+SR-000842,Missed Collection,Closed,Urgent,43.605273,-79.164899,Annex,Ward 21,West District,2026-03-10,0
+SR-000843,Overflowing Litter Bin,Open,Medium,43.599037,-79.318743,North York Centre,Ward 24,North District,2025-12-26,31
+SR-000844,Illegal Dumping,In Progress,Low,43.691829,-79.183499,Etobicoke Centre,Ward 16,East District,2025-11-07,18
+SR-000845,Damaged Bin,Closed,Low,43.64658,-79.37524,Agincourt South,Ward 14,South District,2026-03-20,0
+SR-000846,Illegal Dumping,Open,Urgent,43.700942,-79.296681,Downtown Yonge East,Ward 19,South District,2026-04-24,38
+SR-000847,Missed Collection,In Progress,Urgent,43.605642,-79.530857,Waterfront Communities,Ward 12,North District,2025-12-28,30
+SR-000848,Missed Collection,In Progress,Medium,43.63935,-79.280451,Danforth East York,Ward 17,North District,2026-01-27,34
+SR-000849,Public Realm Cleanliness,Closed,Low,43.633502,-79.356194,Annex,Ward 21,North District,2026-01-26,0
+SR-000850,Public Realm Cleanliness,Closed,High,43.639506,-79.223653,Agincourt South,Ward 23,North District,2026-02-14,0
+SR-000851,Illegal Dumping,Closed,Urgent,43.806703,-79.381493,Downtown Yonge East,Ward 21,South District,2026-01-20,0
+SR-000852,Public Realm Cleanliness,Closed,Medium,43.671031,-79.512333,Etobicoke Centre,Ward 23,East District,2026-03-24,0
+SR-000853,Illegal Dumping,Closed,High,43.60145,-79.49649,Etobicoke Centre,Ward 20,South District,2026-04-09,0
+SR-000854,Missed Collection,Open,Medium,43.740474,-79.374536,Kensington Chinatown,Ward 4,West District,2025-12-20,44
+SR-000855,Illegal Dumping,Closed,Medium,43.807129,-79.437712,Flemingdon Park,Ward 8,West District,2026-03-13,0
+SR-000856,Damaged Bin,Closed,Urgent,43.749589,-79.394912,Downtown Yonge East,Ward 2,East District,2026-03-28,0
+SR-000857,Missed Collection,Open,Urgent,43.707893,-79.496824,Danforth East York,Ward 20,West District,2026-03-13,21
+SR-000858,Damaged Bin,Open,Urgent,43.694639,-79.403439,Annex,Ward 21,North District,2026-03-07,17
+SR-000859,Damaged Bin,Closed,High,43.752528,-79.187306,Kensington Chinatown,Ward 7,North District,2026-01-05,0
+SR-000860,Overflowing Litter Bin,Closed,Low,43.665744,-79.600588,Etobicoke Centre,Ward 1,West District,2026-03-05,0
+SR-000861,Overflowing Litter Bin,Open,Low,43.704148,-79.369548,Danforth East York,Ward 25,South District,2025-12-02,35
+SR-000862,Illegal Dumping,Open,Medium,43.628741,-79.270186,York University Heights,Ward 24,South District,2026-03-09,14
+SR-000863,Damaged Bin,Closed,High,43.816534,-79.184944,Danforth East York,Ward 20,North District,2026-04-09,0
+SR-000864,Damaged Bin,Closed,Urgent,43.635334,-79.217333,Downtown Yonge East,Ward 19,West District,2026-03-25,0
+SR-000865,Illegal Dumping,Closed,Low,43.752034,-79.411231,Downtown Yonge East,Ward 16,North District,2026-04-13,0
+SR-000866,Public Realm Cleanliness,Closed,High,43.714341,-79.229184,Waterfront Communities,Ward 8,East District,2026-02-21,0
+SR-000867,Illegal Dumping,Closed,Low,43.700431,-79.448325,Annex,Ward 10,West District,2025-12-11,0
+SR-000868,Overflowing Litter Bin,Closed,High,43.703447,-79.3536,Scarborough Village,Ward 20,West District,2025-12-08,0
+SR-000869,Missed Collection,Closed,Urgent,43.633488,-79.205582,High Park North,Ward 21,West District,2026-04-18,0
+SR-000870,Damaged Bin,In Progress,High,43.745063,-79.328696,Kensington Chinatown,Ward 11,West District,2026-03-22,14
+SR-000871,Illegal Dumping,Closed,Low,43.612884,-79.34208,Kensington Chinatown,Ward 16,West District,2025-12-03,0
+SR-000872,Missed Collection,Closed,High,43.617821,-79.583799,Downtown Yonge East,Ward 14,West District,2025-12-06,0
+SR-000873,Overflowing Litter Bin,Closed,High,43.711282,-79.434719,Flemingdon Park,Ward 2,West District,2026-04-17,0
+SR-000874,Public Realm Cleanliness,Closed,Medium,43.725426,-79.578958,York University Heights,Ward 12,South District,2025-12-25,0
+SR-000875,Overflowing Litter Bin,In Progress,Low,43.689126,-79.539598,Waterfront Communities,Ward 1,North District,2025-12-11,39
+SR-000876,Missed Collection,Closed,Urgent,43.817033,-79.361871,Waterfront Communities,Ward 13,South District,2025-10-30,0
+SR-000877,Damaged Bin,Open,Urgent,43.74811,-79.470308,North York Centre,Ward 5,West District,2026-01-04,8
+SR-000878,Illegal Dumping,Closed,High,43.61179,-79.171099,Kensington Chinatown,Ward 11,South District,2026-04-12,0
+SR-000879,Overflowing Litter Bin,Open,Low,43.65584,-79.425048,Etobicoke Centre,Ward 1,North District,2026-01-11,35
+SR-000880,Missed Collection,Closed,Low,43.739469,-79.608639,Flemingdon Park,Ward 8,West District,2026-04-07,0
+SR-000881,Overflowing Litter Bin,Open,Urgent,43.77636,-79.373174,Annex,Ward 10,West District,2026-02-05,23
+SR-000882,Overflowing Litter Bin,Closed,High,43.65399,-79.59166,Annex,Ward 20,South District,2025-12-25,0
+SR-000883,Missed Collection,Closed,Low,43.627375,-79.208284,Downtown Yonge East,Ward 9,North District,2025-12-21,0
+SR-000884,Illegal Dumping,Closed,Medium,43.747786,-79.505045,Agincourt South,Ward 23,East District,2026-01-23,0
+SR-000885,Illegal Dumping,Closed,Medium,43.605088,-79.302317,North York Centre,Ward 9,East District,2025-10-30,0
+SR-000886,Public Realm Cleanliness,Closed,Low,43.721654,-79.433921,Waterfront Communities,Ward 12,South District,2025-10-28,0
+SR-000887,Damaged Bin,Closed,High,43.673631,-79.520265,Downtown Yonge East,Ward 7,North District,2025-12-14,0
+SR-000888,Illegal Dumping,Open,Medium,43.744011,-79.173493,Downtown Yonge East,Ward 12,North District,2026-04-17,16
+SR-000889,Damaged Bin,Closed,Urgent,43.630415,-79.345326,Downtown Yonge East,Ward 1,South District,2026-04-18,0
+SR-000890,Illegal Dumping,In Progress,Urgent,43.687563,-79.414523,High Park North,Ward 3,West District,2026-02-14,40
+SR-000891,Damaged Bin,Closed,Low,43.648454,-79.240438,Scarborough Village,Ward 13,South District,2026-04-15,0
+SR-000892,Overflowing Litter Bin,Open,Urgent,43.701609,-79.370033,Annex,Ward 22,South District,2025-12-11,4
+SR-000893,Illegal Dumping,Closed,Low,43.660095,-79.536368,North York Centre,Ward 25,East District,2026-04-20,0
+SR-000894,Illegal Dumping,Closed,High,43.609759,-79.291505,Etobicoke Centre,Ward 7,West District,2026-01-29,0
+SR-000895,Public Realm Cleanliness,Closed,Urgent,43.635134,-79.302565,Scarborough Village,Ward 24,West District,2026-03-30,0
+SR-000896,Damaged Bin,Closed,High,43.679787,-79.428744,North York Centre,Ward 15,South District,2025-12-01,0
+SR-000897,Public Realm Cleanliness,Closed,High,43.697911,-79.450854,Annex,Ward 13,South District,2026-02-25,0
+SR-000898,Missed Collection,Open,High,43.613143,-79.477569,York University Heights,Ward 9,West District,2026-02-22,35
+SR-000899,Illegal Dumping,In Progress,Urgent,43.742659,-79.313739,Waterfront Communities,Ward 20,East District,2026-01-24,18
+SR-000900,Illegal Dumping,Closed,Low,43.655832,-79.408353,Downtown Yonge East,Ward 10,East District,2026-02-18,0
+SR-000901,Damaged Bin,Open,Urgent,43.634493,-79.523229,Waterfront Communities,Ward 15,West District,2025-12-28,3
+SR-000902,Damaged Bin,In Progress,Medium,43.595301,-79.207497,Scarborough Village,Ward 2,West District,2026-02-15,40
+SR-000903,Illegal Dumping,Closed,Low,43.638463,-79.515334,Agincourt South,Ward 6,East District,2026-02-15,0
+SR-000904,Damaged Bin,In Progress,Medium,43.654308,-79.561392,Kensington Chinatown,Ward 21,North District,2026-03-20,40
+SR-000905,Missed Collection,Closed,Medium,43.73703,-79.585434,Downtown Yonge East,Ward 21,West District,2026-03-10,0
+SR-000906,Public Realm Cleanliness,Closed,Urgent,43.620867,-79.323412,Etobicoke Centre,Ward 11,West District,2025-12-06,0
+SR-000907,Overflowing Litter Bin,Closed,Low,43.668122,-79.294344,Flemingdon Park,Ward 9,East District,2026-04-22,0
+SR-000908,Illegal Dumping,Closed,Low,43.718208,-79.50223,Etobicoke Centre,Ward 8,East District,2026-03-30,0
+SR-000909,Public Realm Cleanliness,Open,Urgent,43.73969,-79.566514,Downtown Yonge East,Ward 17,West District,2026-02-25,14
+SR-000910,Public Realm Cleanliness,In Progress,High,43.713374,-79.418912,York University Heights,Ward 14,West District,2025-11-13,28
+SR-000911,Overflowing Litter Bin,In Progress,Low,43.651611,-79.342158,Danforth East York,Ward 20,East District,2026-01-31,27
+SR-000912,Illegal Dumping,Closed,Urgent,43.790407,-79.160504,High Park North,Ward 20,West District,2026-03-16,0
+SR-000913,Missed Collection,In Progress,High,43.729785,-79.433835,Annex,Ward 19,West District,2026-03-30,39
+SR-000914,Illegal Dumping,Open,High,43.641798,-79.501736,Kensington Chinatown,Ward 13,West District,2025-11-09,10
+SR-000915,Missed Collection,Closed,Low,43.700275,-79.451052,Kensington Chinatown,Ward 19,South District,2025-12-10,0
+SR-000916,Missed Collection,Closed,Low,43.800177,-79.450584,Etobicoke Centre,Ward 16,South District,2026-02-04,0
+SR-000917,Overflowing Litter Bin,In Progress,High,43.675892,-79.443574,Kensington Chinatown,Ward 11,North District,2026-01-24,15
+SR-000918,Illegal Dumping,Closed,Low,43.782423,-79.320637,Flemingdon Park,Ward 8,South District,2026-01-12,0
+SR-000919,Missed Collection,In Progress,High,43.731259,-79.466294,North York Centre,Ward 17,West District,2026-01-24,42
+SR-000920,Public Realm Cleanliness,Closed,Medium,43.778118,-79.602353,Agincourt South,Ward 14,North District,2025-12-02,0
+SR-000921,Public Realm Cleanliness,Open,Medium,43.790283,-79.384135,Scarborough Village,Ward 22,North District,2025-11-22,17
+SR-000922,Illegal Dumping,In Progress,High,43.681598,-79.391303,Downtown Yonge East,Ward 3,South District,2026-01-09,33
+SR-000923,Public Realm Cleanliness,Open,Urgent,43.743506,-79.614128,York University Heights,Ward 25,North District,2026-03-11,30
+SR-000924,Overflowing Litter Bin,Open,Low,43.790457,-79.4145,Scarborough Village,Ward 9,South District,2026-04-01,9
+SR-000925,Damaged Bin,Open,Low,43.668882,-79.556407,Flemingdon Park,Ward 6,West District,2026-03-24,33
+SR-000926,Damaged Bin,Closed,Urgent,43.691077,-79.391692,Danforth East York,Ward 5,South District,2025-10-30,0
+SR-000927,Overflowing Litter Bin,Closed,High,43.682839,-79.307816,Downtown Yonge East,Ward 11,East District,2025-11-26,0
+SR-000928,Public Realm Cleanliness,Closed,Low,43.686806,-79.177748,Flemingdon Park,Ward 2,West District,2026-01-26,0
+SR-000929,Damaged Bin,Closed,Urgent,43.727834,-79.24856,Flemingdon Park,Ward 14,East District,2025-12-25,0
+SR-000930,Overflowing Litter Bin,Closed,Medium,43.615152,-79.437246,Flemingdon Park,Ward 25,West District,2026-03-19,0
+SR-000931,Public Realm Cleanliness,Open,High,43.667475,-79.358038,York University Heights,Ward 21,South District,2026-01-19,21
+SR-000932,Overflowing Litter Bin,Closed,High,43.788056,-79.583964,Downtown Yonge East,Ward 8,East District,2025-12-21,0
+SR-000933,Missed Collection,In Progress,Urgent,43.606692,-79.228854,High Park North,Ward 11,South District,2026-02-04,12
+SR-000934,Missed Collection,Open,Medium,43.638956,-79.312374,Scarborough Village,Ward 17,East District,2025-11-30,40
+SR-000935,Missed Collection,In Progress,High,43.714862,-79.236869,High Park North,Ward 6,West District,2026-02-12,18
+SR-000936,Damaged Bin,Closed,Medium,43.61877,-79.5603,Annex,Ward 10,East District,2025-11-22,0
+SR-000937,Overflowing Litter Bin,Open,High,43.718068,-79.184666,Annex,Ward 4,North District,2025-12-06,33
+SR-000938,Missed Collection,Open,Low,43.685449,-79.469607,North York Centre,Ward 18,North District,2026-04-25,32
+SR-000939,Illegal Dumping,Open,Medium,43.729539,-79.191994,High Park North,Ward 19,South District,2026-01-03,34
+SR-000940,Damaged Bin,Open,High,43.782493,-79.162078,Downtown Yonge East,Ward 23,West District,2026-01-03,28
+SR-000941,Illegal Dumping,Closed,Low,43.595191,-79.568085,Annex,Ward 9,West District,2026-01-26,0
+SR-000942,Overflowing Litter Bin,Open,Low,43.730178,-79.242535,Danforth East York,Ward 6,East District,2026-02-15,30
+SR-000943,Public Realm Cleanliness,Closed,Low,43.655606,-79.509963,Flemingdon Park,Ward 23,East District,2026-04-17,0
+SR-000944,Missed Collection,Closed,High,43.771004,-79.594064,Kensington Chinatown,Ward 18,West District,2025-11-15,0
+SR-000945,Missed Collection,Closed,Medium,43.674958,-79.387328,Annex,Ward 19,South District,2026-03-01,0
+SR-000946,Overflowing Litter Bin,Closed,High,43.71888,-79.284837,Agincourt South,Ward 5,South District,2026-03-10,0
+SR-000947,Damaged Bin,Closed,High,43.671615,-79.338165,Annex,Ward 7,West District,2025-12-15,0
+SR-000948,Overflowing Litter Bin,Closed,Low,43.724636,-79.368097,Scarborough Village,Ward 3,South District,2025-12-05,0
+SR-000949,Overflowing Litter Bin,Closed,Medium,43.737311,-79.500653,Waterfront Communities,Ward 14,East District,2025-11-20,0
+SR-000950,Public Realm Cleanliness,Closed,Medium,43.609469,-79.565135,York University Heights,Ward 12,South District,2025-12-12,0
+SR-000951,Overflowing Litter Bin,Closed,High,43.641654,-79.389909,Kensington Chinatown,Ward 10,South District,2025-12-22,0
+SR-000952,Damaged Bin,Closed,High,43.783302,-79.297405,North York Centre,Ward 16,East District,2026-04-02,0
+SR-000953,Missed Collection,Open,High,43.771479,-79.458551,Scarborough Village,Ward 15,East District,2026-02-22,43
+SR-000954,Missed Collection,Closed,Medium,43.68307,-79.438906,Agincourt South,Ward 11,West District,2026-01-28,0
+SR-000955,Damaged Bin,Closed,Medium,43.634131,-79.59184,Agincourt South,Ward 16,South District,2025-11-02,0
+SR-000956,Missed Collection,Open,High,43.725911,-79.16496,High Park North,Ward 17,North District,2026-01-12,4
+SR-000957,Illegal Dumping,Closed,High,43.628371,-79.598525,York University Heights,Ward 11,South District,2026-01-16,0
+SR-000958,Damaged Bin,Closed,Urgent,43.769292,-79.50381,High Park North,Ward 2,East District,2025-12-23,0
+SR-000959,Overflowing Litter Bin,Closed,High,43.780818,-79.296189,York University Heights,Ward 2,East District,2026-01-02,0
+SR-000960,Overflowing Litter Bin,Closed,Medium,43.807505,-79.431893,North York Centre,Ward 7,West District,2025-11-20,0
+SR-000961,Illegal Dumping,Closed,Medium,43.742253,-79.406167,Etobicoke Centre,Ward 18,West District,2026-04-21,0
+SR-000962,Missed Collection,Closed,High,43.735035,-79.413185,Danforth East York,Ward 25,West District,2025-11-10,0
+SR-000963,Public Realm Cleanliness,Open,Medium,43.633385,-79.386367,Danforth East York,Ward 18,North District,2026-03-17,35
+SR-000964,Overflowing Litter Bin,Closed,High,43.711574,-79.247122,Annex,Ward 12,East District,2026-01-11,0
+SR-000965,Public Realm Cleanliness,Open,Medium,43.75917,-79.314656,Waterfront Communities,Ward 2,West District,2025-12-13,7
+SR-000966,Damaged Bin,Closed,Urgent,43.616079,-79.288517,Waterfront Communities,Ward 6,East District,2026-02-08,0
+SR-000967,Overflowing Litter Bin,Open,Medium,43.70507,-79.208714,Waterfront Communities,Ward 9,West District,2026-01-20,42
+SR-000968,Overflowing Litter Bin,Closed,High,43.80157,-79.594628,Downtown Yonge East,Ward 3,West District,2025-12-18,0
+SR-000969,Damaged Bin,Closed,Low,43.778748,-79.602659,Waterfront Communities,Ward 24,North District,2026-04-02,0
+SR-000970,Public Realm Cleanliness,Closed,Urgent,43.674449,-79.370542,Kensington Chinatown,Ward 20,East District,2026-02-03,0
+SR-000971,Public Realm Cleanliness,Closed,Low,43.624063,-79.276696,High Park North,Ward 9,South District,2026-03-06,0
+SR-000972,Illegal Dumping,Open,Urgent,43.591922,-79.542444,Scarborough Village,Ward 10,South District,2026-04-03,15
+SR-000973,Public Realm Cleanliness,Closed,High,43.723583,-79.291382,Agincourt South,Ward 10,North District,2026-01-19,0
+SR-000974,Damaged Bin,Open,Urgent,43.800828,-79.295472,Danforth East York,Ward 25,West District,2026-01-01,15
+SR-000975,Missed Collection,Closed,Urgent,43.744509,-79.438603,Kensington Chinatown,Ward 15,East District,2025-12-25,0
+SR-000976,Missed Collection,Closed,High,43.590295,-79.564727,Danforth East York,Ward 5,West District,2026-04-02,0
+SR-000977,Overflowing Litter Bin,Closed,Medium,43.712948,-79.30944,Agincourt South,Ward 19,North District,2026-04-05,0
+SR-000978,Damaged Bin,Open,Urgent,43.686013,-79.283888,North York Centre,Ward 24,North District,2026-04-11,32
+SR-000979,Damaged Bin,In Progress,High,43.710028,-79.585879,Flemingdon Park,Ward 11,North District,2026-04-17,21
+SR-000980,Public Realm Cleanliness,Closed,Urgent,43.634164,-79.233601,Waterfront Communities,Ward 9,North District,2025-12-04,0
+SR-000981,Public Realm Cleanliness,Closed,Urgent,43.75673,-79.208409,Danforth East York,Ward 21,North District,2026-02-03,0
+SR-000982,Damaged Bin,Closed,Low,43.617038,-79.164498,Downtown Yonge East,Ward 14,West District,2026-01-20,0
+SR-000983,Missed Collection,Open,Medium,43.638164,-79.614581,North York Centre,Ward 24,West District,2026-03-15,13
+SR-000984,Missed Collection,Closed,Low,43.819407,-79.490706,Scarborough Village,Ward 16,North District,2025-11-17,0
+SR-000985,Damaged Bin,Closed,Medium,43.743644,-79.538726,Flemingdon Park,Ward 18,South District,2026-01-14,0
+SR-000986,Illegal Dumping,Open,Low,43.723453,-79.204144,Scarborough Village,Ward 10,East District,2025-12-14,21
+SR-000987,Illegal Dumping,Closed,Medium,43.663642,-79.311683,Annex,Ward 10,North District,2025-11-20,0
+SR-000988,Illegal Dumping,Closed,High,43.633218,-79.332594,Agincourt South,Ward 15,North District,2026-02-01,0
+SR-000989,Overflowing Litter Bin,Closed,Medium,43.667384,-79.522844,North York Centre,Ward 23,South District,2026-04-24,0
+SR-000990,Damaged Bin,In Progress,Medium,43.662032,-79.537733,Annex,Ward 16,West District,2026-04-25,20
+SR-000991,Overflowing Litter Bin,Closed,Medium,43.797441,-79.437294,Flemingdon Park,Ward 4,South District,2026-02-01,0
+SR-000992,Missed Collection,Open,Urgent,43.646414,-79.413732,Etobicoke Centre,Ward 6,West District,2026-01-27,41
+SR-000993,Overflowing Litter Bin,Closed,High,43.663723,-79.277567,York University Heights,Ward 1,North District,2026-02-15,0
+SR-000994,Damaged Bin,In Progress,High,43.813381,-79.418505,Danforth East York,Ward 20,South District,2026-02-20,36
+SR-000995,Overflowing Litter Bin,Closed,Low,43.788038,-79.359703,Etobicoke Centre,Ward 5,West District,2026-03-02,0
+SR-000996,Overflowing Litter Bin,In Progress,High,43.626164,-79.302314,Etobicoke Centre,Ward 4,North District,2025-12-14,38
+SR-000997,Damaged Bin,Closed,High,43.70809,-79.320721,Etobicoke Centre,Ward 25,East District,2025-11-20,0
+SR-000998,Damaged Bin,Closed,Medium,43.794628,-79.4174,Annex,Ward 1,North District,2026-03-02,0
+SR-000999,Public Realm Cleanliness,Open,Medium,43.797271,-79.274692,Annex,Ward 6,South District,2026-04-26,21
+SR-001000,Missed Collection,Open,Medium,43.702379,-79.342518,North York Centre,Ward 15,South District,2025-11-07,31
+SR-001001,Illegal Dumping,In Progress,Low,43.664884,-79.167545,Kensington Chinatown,Ward 18,South District,2026-01-20,25
+SR-001002,Damaged Bin,Closed,High,43.743491,-79.59983,High Park North,Ward 17,East District,2025-12-12,0
+SR-001003,Public Realm Cleanliness,Open,Medium,43.665123,-79.333275,Annex,Ward 21,East District,2026-03-21,28
+SR-001004,Damaged Bin,Closed,Urgent,43.602957,-79.609013,Flemingdon Park,Ward 9,West District,2025-12-05,0
+SR-001005,Illegal Dumping,Closed,Medium,43.693506,-79.466963,Waterfront Communities,Ward 12,South District,2025-11-06,0
+SR-001006,Damaged Bin,In Progress,Medium,43.690809,-79.499161,Etobicoke Centre,Ward 18,North District,2026-01-19,24
+SR-001007,Missed Collection,Open,Medium,43.627885,-79.302994,Agincourt South,Ward 12,North District,2026-04-25,38
+SR-001008,Illegal Dumping,In Progress,Low,43.708351,-79.527929,Danforth East York,Ward 9,West District,2025-11-22,18
+SR-001009,Illegal Dumping,Open,Urgent,43.663506,-79.347768,Scarborough Village,Ward 2,East District,2026-02-15,41
+SR-001010,Public Realm Cleanliness,Open,Low,43.606613,-79.552172,Flemingdon Park,Ward 16,South District,2025-12-22,12
+SR-001011,Public Realm Cleanliness,Closed,Low,43.606846,-79.246334,Waterfront Communities,Ward 12,West District,2025-11-21,0
+SR-001012,Overflowing Litter Bin,Closed,Medium,43.763054,-79.273476,Annex,Ward 3,South District,2026-03-27,0
+SR-001013,Damaged Bin,Open,Low,43.754755,-79.312083,Danforth East York,Ward 4,East District,2026-03-08,42
+SR-001014,Missed Collection,Closed,High,43.699708,-79.324552,York University Heights,Ward 11,North District,2025-11-27,0
+SR-001015,Illegal Dumping,Closed,Low,43.598823,-79.334126,York University Heights,Ward 13,South District,2025-11-07,0
+SR-001016,Missed Collection,Closed,Low,43.768912,-79.389835,Kensington Chinatown,Ward 25,North District,2026-02-17,0
+SR-001017,Overflowing Litter Bin,Open,Urgent,43.672228,-79.492384,Waterfront Communities,Ward 9,North District,2025-11-01,33
+SR-001018,Overflowing Litter Bin,Closed,Low,43.737844,-79.301311,High Park North,Ward 9,East District,2026-03-27,0
+SR-001019,Damaged Bin,In Progress,Low,43.790323,-79.462526,Etobicoke Centre,Ward 15,West District,2026-03-28,6
+SR-001020,Missed Collection,Open,Medium,43.767048,-79.361776,Danforth East York,Ward 19,West District,2026-03-14,1
+SR-001021,Illegal Dumping,Open,Urgent,43.793052,-79.377206,Downtown Yonge East,Ward 24,North District,2026-02-07,44
+SR-001022,Overflowing Litter Bin,Closed,Medium,43.709055,-79.354177,High Park North,Ward 2,South District,2025-10-28,0
+SR-001023,Overflowing Litter Bin,In Progress,High,43.762343,-79.176242,Annex,Ward 19,East District,2026-01-11,15
+SR-001024,Illegal Dumping,Open,Medium,43.60692,-79.59542,Annex,Ward 10,East District,2025-10-30,29
+SR-001025,Missed Collection,In Progress,Urgent,43.805637,-79.376257,Danforth East York,Ward 19,East District,2026-01-27,42
+SR-001026,Damaged Bin,Closed,Medium,43.731428,-79.398085,Waterfront Communities,Ward 19,South District,2026-03-18,0
+SR-001027,Public Realm Cleanliness,Closed,Medium,43.611541,-79.266679,Flemingdon Park,Ward 14,East District,2025-11-12,0
+SR-001028,Illegal Dumping,Closed,Medium,43.761862,-79.476616,Danforth East York,Ward 23,East District,2026-04-03,0
+SR-001029,Overflowing Litter Bin,Closed,High,43.660435,-79.234593,Kensington Chinatown,Ward 15,East District,2026-04-18,0
+SR-001030,Public Realm Cleanliness,Open,Medium,43.606642,-79.214692,Agincourt South,Ward 5,South District,2025-11-27,21
+SR-001031,Public Realm Cleanliness,In Progress,Urgent,43.649032,-79.347227,York University Heights,Ward 19,West District,2026-02-03,45
+SR-001032,Illegal Dumping,Open,Low,43.805279,-79.308064,Annex,Ward 14,South District,2026-01-31,22
+SR-001033,Missed Collection,Closed,Medium,43.685319,-79.302814,Danforth East York,Ward 10,North District,2025-12-28,0
+SR-001034,Overflowing Litter Bin,Closed,Low,43.669115,-79.492461,Agincourt South,Ward 20,South District,2025-11-26,0
+SR-001035,Damaged Bin,Closed,Urgent,43.819237,-79.274636,Agincourt South,Ward 8,East District,2026-01-21,0
+SR-001036,Illegal Dumping,Closed,Urgent,43.738286,-79.456567,York University Heights,Ward 13,East District,2026-04-16,0
+SR-001037,Public Realm Cleanliness,Open,Low,43.601307,-79.605714,Scarborough Village,Ward 14,East District,2025-11-30,26
+SR-001038,Missed Collection,Closed,Medium,43.717462,-79.269465,North York Centre,Ward 6,East District,2025-11-25,0
+SR-001039,Public Realm Cleanliness,Closed,Medium,43.713597,-79.233239,Etobicoke Centre,Ward 25,North District,2026-03-24,0
+SR-001040,Illegal Dumping,Closed,Low,43.597688,-79.451294,Downtown Yonge East,Ward 10,North District,2026-01-28,0
+SR-001041,Damaged Bin,Closed,Medium,43.644526,-79.414254,Agincourt South,Ward 1,North District,2026-03-06,0
+SR-001042,Illegal Dumping,Open,High,43.606647,-79.181099,Downtown Yonge East,Ward 6,North District,2026-03-05,28
+SR-001043,Overflowing Litter Bin,Open,Medium,43.641349,-79.195738,York University Heights,Ward 18,East District,2026-04-25,31
+SR-001044,Illegal Dumping,Open,Low,43.687955,-79.166659,Agincourt South,Ward 18,South District,2025-10-30,14
+SR-001045,Damaged Bin,Closed,Urgent,43.717433,-79.191817,Flemingdon Park,Ward 8,West District,2026-01-17,0
+SR-001046,Illegal Dumping,Open,Medium,43.59123,-79.27581,Scarborough Village,Ward 25,East District,2026-02-13,44
+SR-001047,Damaged Bin,Closed,Urgent,43.797702,-79.555729,North York Centre,Ward 3,East District,2025-12-22,0
+SR-001048,Public Realm Cleanliness,Closed,Low,43.612109,-79.424697,Kensington Chinatown,Ward 20,North District,2026-02-25,0
+SR-001049,Illegal Dumping,In Progress,High,43.804746,-79.370502,North York Centre,Ward 1,South District,2026-04-07,42
+SR-001050,Overflowing Litter Bin,Open,Urgent,43.711315,-79.555082,Kensington Chinatown,Ward 2,North District,2026-02-08,28
+SR-001051,Illegal Dumping,Open,Urgent,43.590182,-79.247336,York University Heights,Ward 6,South District,2026-03-19,19
+SR-001052,Damaged Bin,In Progress,Urgent,43.610142,-79.328429,Waterfront Communities,Ward 9,South District,2026-03-12,11
+SR-001053,Public Realm Cleanliness,Closed,Low,43.800362,-79.52402,Agincourt South,Ward 3,East District,2025-11-02,0
+SR-001054,Missed Collection,Closed,Urgent,43.743013,-79.583799,Waterfront Communities,Ward 6,East District,2026-03-25,0
+SR-001055,Public Realm Cleanliness,Closed,Urgent,43.728864,-79.544591,York University Heights,Ward 15,West District,2025-12-23,0
+SR-001056,Damaged Bin,Closed,Urgent,43.759269,-79.481434,Waterfront Communities,Ward 10,South District,2026-02-19,0
+SR-001057,Missed Collection,Closed,Urgent,43.69658,-79.344262,North York Centre,Ward 12,South District,2026-01-31,0
+SR-001058,Illegal Dumping,Closed,Low,43.629393,-79.278847,Annex,Ward 14,South District,2025-11-05,0
+SR-001059,Overflowing Litter Bin,Open,Low,43.659607,-79.315309,Danforth East York,Ward 23,East District,2026-03-07,33
+SR-001060,Damaged Bin,Closed,Urgent,43.626405,-79.303466,Waterfront Communities,Ward 15,East District,2026-04-16,0
+SR-001061,Damaged Bin,Open,Urgent,43.619483,-79.424336,Danforth East York,Ward 2,East District,2026-02-21,28
+SR-001062,Illegal Dumping,In Progress,Low,43.646857,-79.275747,North York Centre,Ward 9,North District,2026-02-10,23
+SR-001063,Missed Collection,Closed,Urgent,43.650268,-79.21441,Danforth East York,Ward 10,West District,2025-11-25,0
+SR-001064,Illegal Dumping,Open,Low,43.795119,-79.529637,North York Centre,Ward 24,South District,2026-02-22,12
+SR-001065,Public Realm Cleanliness,Open,Low,43.731185,-79.57965,Annex,Ward 24,North District,2025-11-15,32
+SR-001066,Illegal Dumping,Closed,High,43.680054,-79.291872,Agincourt South,Ward 23,North District,2025-12-13,0
+SR-001067,Damaged Bin,Closed,Low,43.741667,-79.332638,Downtown Yonge East,Ward 11,East District,2026-04-17,0
+SR-001068,Public Realm Cleanliness,Open,Low,43.654984,-79.446109,Scarborough Village,Ward 17,West District,2026-01-30,41
+SR-001069,Illegal Dumping,Closed,Urgent,43.613678,-79.28925,Scarborough Village,Ward 1,North District,2026-02-20,0
+SR-001070,Missed Collection,Closed,Urgent,43.705894,-79.293968,Downtown Yonge East,Ward 7,East District,2026-02-08,0
+SR-001071,Public Realm Cleanliness,Closed,Medium,43.647257,-79.470758,Flemingdon Park,Ward 2,East District,2025-12-01,0
+SR-001072,Overflowing Litter Bin,Closed,Urgent,43.66687,-79.608158,High Park North,Ward 24,North District,2026-02-15,0
+SR-001073,Missed Collection,Closed,Urgent,43.668441,-79.25048,Annex,Ward 22,East District,2026-02-16,0
+SR-001074,Damaged Bin,Open,Medium,43.796379,-79.38162,Waterfront Communities,Ward 14,North District,2026-02-15,18
+SR-001075,Public Realm Cleanliness,Closed,High,43.694765,-79.605821,Downtown Yonge East,Ward 8,North District,2026-04-22,0
+SR-001076,Illegal Dumping,Closed,Medium,43.792217,-79.614015,Downtown Yonge East,Ward 20,East District,2025-11-22,0
+SR-001077,Public Realm Cleanliness,Closed,Urgent,43.807293,-79.394961,York University Heights,Ward 20,East District,2025-12-09,0
+SR-001078,Damaged Bin,Closed,Low,43.668645,-79.19486,Danforth East York,Ward 11,East District,2026-01-28,0
+SR-001079,Overflowing Litter Bin,Closed,Urgent,43.59561,-79.352545,Flemingdon Park,Ward 16,North District,2025-12-11,0
+SR-001080,Overflowing Litter Bin,Closed,Urgent,43.716254,-79.519113,High Park North,Ward 13,West District,2025-11-08,0
+SR-001081,Missed Collection,Closed,Urgent,43.688644,-79.319959,North York Centre,Ward 12,West District,2026-03-04,0
+SR-001082,Public Realm Cleanliness,Closed,High,43.75724,-79.61967,High Park North,Ward 10,East District,2026-01-01,0
+SR-001083,Damaged Bin,Closed,Low,43.805476,-79.544318,Annex,Ward 20,North District,2025-11-18,0
+SR-001084,Public Realm Cleanliness,In Progress,Urgent,43.643723,-79.498802,Scarborough Village,Ward 25,West District,2026-02-13,36
+SR-001085,Damaged Bin,Closed,Medium,43.598699,-79.563396,Scarborough Village,Ward 18,North District,2026-01-20,0
+SR-001086,Missed Collection,Closed,Low,43.81686,-79.475,Scarborough Village,Ward 7,North District,2026-03-29,0
+SR-001087,Illegal Dumping,Closed,Medium,43.616519,-79.570784,Annex,Ward 25,South District,2025-12-07,0
+SR-001088,Illegal Dumping,Closed,Medium,43.755476,-79.226898,Scarborough Village,Ward 20,East District,2026-02-04,0
+SR-001089,Missed Collection,In Progress,High,43.649099,-79.610382,North York Centre,Ward 18,South District,2026-02-28,26
+SR-001090,Damaged Bin,Closed,High,43.641311,-79.594003,Agincourt South,Ward 6,North District,2026-01-14,0
+SR-001091,Missed Collection,In Progress,High,43.613781,-79.421506,Agincourt South,Ward 21,North District,2025-11-03,7
+SR-001092,Public Realm Cleanliness,Closed,Urgent,43.642881,-79.382665,Scarborough Village,Ward 14,North District,2025-11-15,0
+SR-001093,Public Realm Cleanliness,Open,Medium,43.648304,-79.187353,Annex,Ward 20,West District,2025-11-24,37
+SR-001094,Damaged Bin,Closed,Low,43.798367,-79.359269,Danforth East York,Ward 20,North District,2026-03-15,0
+SR-001095,Damaged Bin,Closed,Low,43.671518,-79.444672,Danforth East York,Ward 1,South District,2025-12-06,0
+SR-001096,Overflowing Litter Bin,Closed,Medium,43.684726,-79.285314,Agincourt South,Ward 12,North District,2026-03-13,0
+SR-001097,Overflowing Litter Bin,Closed,High,43.693877,-79.225904,Annex,Ward 10,West District,2026-04-19,0
+SR-001098,Public Realm Cleanliness,Open,Urgent,43.807142,-79.465465,Agincourt South,Ward 8,South District,2026-02-24,12
+SR-001099,Public Realm Cleanliness,Closed,Low,43.71896,-79.576274,Etobicoke Centre,Ward 11,North District,2026-02-23,0
+SR-001100,Missed Collection,Closed,Low,43.636108,-79.429806,Flemingdon Park,Ward 2,South District,2025-12-14,0
+SR-001101,Damaged Bin,Closed,Low,43.637427,-79.216782,Scarborough Village,Ward 9,West District,2025-11-22,0
+SR-001102,Public Realm Cleanliness,Closed,Low,43.626406,-79.410396,Agincourt South,Ward 16,West District,2026-02-11,0
+SR-001103,Missed Collection,Closed,High,43.729311,-79.301743,Scarborough Village,Ward 23,South District,2026-01-07,0
+SR-001104,Missed Collection,Open,Medium,43.678106,-79.220214,High Park North,Ward 25,West District,2026-03-14,24
+SR-001105,Illegal Dumping,Closed,Medium,43.720713,-79.417826,Kensington Chinatown,Ward 16,North District,2026-02-18,0
+SR-001106,Illegal Dumping,Open,Low,43.605465,-79.406243,Agincourt South,Ward 23,South District,2026-02-23,17
+SR-001107,Illegal Dumping,In Progress,Urgent,43.778769,-79.337311,Danforth East York,Ward 15,East District,2025-12-02,18
+SR-001108,Missed Collection,Closed,Medium,43.781397,-79.392755,Annex,Ward 17,East District,2026-04-20,0
+SR-001109,Illegal Dumping,Open,High,43.617246,-79.613726,Flemingdon Park,Ward 10,East District,2026-03-17,37
+SR-001110,Illegal Dumping,Closed,Urgent,43.65974,-79.298924,Flemingdon Park,Ward 15,East District,2026-03-18,0
+SR-001111,Overflowing Litter Bin,Closed,Medium,43.77176,-79.483954,Etobicoke Centre,Ward 10,South District,2026-02-20,0
+SR-001112,Overflowing Litter Bin,Closed,Low,43.704,-79.426285,Kensington Chinatown,Ward 19,East District,2026-03-20,0
+SR-001113,Missed Collection,Closed,High,43.68442,-79.51358,Danforth East York,Ward 24,South District,2025-12-25,0
+SR-001114,Overflowing Litter Bin,Closed,High,43.621365,-79.529523,York University Heights,Ward 5,East District,2025-12-14,0
+SR-001115,Damaged Bin,In Progress,Urgent,43.602726,-79.52886,York University Heights,Ward 6,South District,2026-03-13,31
+SR-001116,Missed Collection,Closed,Low,43.592116,-79.331461,Danforth East York,Ward 8,East District,2026-03-05,0
+SR-001117,Overflowing Litter Bin,Open,High,43.662766,-79.172353,Etobicoke Centre,Ward 25,West District,2025-11-11,13
+SR-001118,Damaged Bin,In Progress,Urgent,43.634555,-79.460919,Etobicoke Centre,Ward 21,West District,2025-12-13,15
+SR-001119,Overflowing Litter Bin,Closed,High,43.672303,-79.616112,York University Heights,Ward 2,South District,2025-11-17,0
+SR-001120,Illegal Dumping,Open,Low,43.783018,-79.605283,High Park North,Ward 18,West District,2026-04-12,29
+SR-001121,Public Realm Cleanliness,Closed,Medium,43.806241,-79.209646,Kensington Chinatown,Ward 9,North District,2025-11-01,0
+SR-001122,Overflowing Litter Bin,Closed,Medium,43.71317,-79.369946,Flemingdon Park,Ward 23,South District,2026-03-12,0
+SR-001123,Public Realm Cleanliness,Open,High,43.740369,-79.441957,North York Centre,Ward 9,West District,2026-03-09,5
+SR-001124,Public Realm Cleanliness,Open,High,43.738861,-79.599407,Waterfront Communities,Ward 7,North District,2026-02-23,38
+SR-001125,Damaged Bin,Closed,Urgent,43.602431,-79.409674,Downtown Yonge East,Ward 18,West District,2026-02-04,0
+SR-001126,Missed Collection,Closed,Medium,43.716413,-79.211604,Agincourt South,Ward 4,South District,2026-04-05,0
+SR-001127,Overflowing Litter Bin,Closed,Low,43.614072,-79.241582,North York Centre,Ward 19,North District,2025-11-24,0
+SR-001128,Illegal Dumping,Closed,Low,43.638311,-79.438722,Etobicoke Centre,Ward 14,West District,2026-01-03,0
+SR-001129,Overflowing Litter Bin,Closed,Urgent,43.662819,-79.435929,Waterfront Communities,Ward 9,South District,2025-11-24,0
+SR-001130,Damaged Bin,In Progress,Medium,43.624614,-79.388358,Danforth East York,Ward 17,South District,2025-12-16,19
+SR-001131,Illegal Dumping,Closed,High,43.774378,-79.416894,North York Centre,Ward 8,East District,2026-02-15,0
+SR-001132,Public Realm Cleanliness,Closed,High,43.702841,-79.229567,York University Heights,Ward 15,West District,2026-03-11,0
+SR-001133,Missed Collection,Closed,High,43.752393,-79.394391,North York Centre,Ward 16,South District,2026-03-16,0
+SR-001134,Missed Collection,Open,Urgent,43.64927,-79.212934,York University Heights,Ward 10,West District,2026-01-03,22
+SR-001135,Public Realm Cleanliness,Closed,Medium,43.722715,-79.518272,Kensington Chinatown,Ward 25,West District,2026-02-26,0
+SR-001136,Illegal Dumping,Open,High,43.651898,-79.250559,Danforth East York,Ward 25,South District,2026-03-31,44
+SR-001137,Public Realm Cleanliness,In Progress,Medium,43.600153,-79.163638,Etobicoke Centre,Ward 22,North District,2026-02-03,11
+SR-001138,Damaged Bin,Open,Medium,43.619981,-79.253808,Annex,Ward 20,North District,2026-02-02,34
+SR-001139,Public Realm Cleanliness,Closed,Urgent,43.680798,-79.393581,Flemingdon Park,Ward 9,North District,2026-02-18,0
+SR-001140,Illegal Dumping,Closed,High,43.79255,-79.430061,Annex,Ward 10,East District,2026-01-26,0
+SR-001141,Illegal Dumping,Closed,Urgent,43.713624,-79.597322,High Park North,Ward 14,South District,2026-01-10,0
+SR-001142,Damaged Bin,Open,Low,43.59054,-79.507392,Scarborough Village,Ward 12,North District,2025-12-31,18
+SR-001143,Overflowing Litter Bin,Open,Medium,43.746534,-79.564218,York University Heights,Ward 23,East District,2026-02-10,24
+SR-001144,Illegal Dumping,Open,Urgent,43.616165,-79.430958,Scarborough Village,Ward 11,North District,2026-03-02,40
+SR-001145,Damaged Bin,Closed,High,43.739003,-79.292447,Downtown Yonge East,Ward 3,North District,2026-03-16,0
+SR-001146,Damaged Bin,In Progress,Urgent,43.631044,-79.583389,Waterfront Communities,Ward 25,South District,2025-11-01,32
+SR-001147,Illegal Dumping,Open,Urgent,43.806291,-79.500093,Waterfront Communities,Ward 4,West District,2025-11-14,22
+SR-001148,Public Realm Cleanliness,In Progress,High,43.78627,-79.222794,Agincourt South,Ward 10,West District,2025-12-27,9
+SR-001149,Missed Collection,Closed,High,43.76768,-79.542337,Flemingdon Park,Ward 14,North District,2026-03-19,0
+SR-001150,Illegal Dumping,Closed,Medium,43.779014,-79.266145,North York Centre,Ward 3,South District,2026-02-23,0
+SR-001151,Public Realm Cleanliness,In Progress,High,43.727246,-79.464887,North York Centre,Ward 17,East District,2025-11-01,2
+SR-001152,Missed Collection,Open,High,43.650377,-79.563931,Danforth East York,Ward 25,South District,2026-03-03,12
+SR-001153,Damaged Bin,In Progress,Medium,43.707244,-79.35078,Agincourt South,Ward 12,East District,2026-03-07,44
+SR-001154,Illegal Dumping,Closed,High,43.672648,-79.401335,Etobicoke Centre,Ward 24,West District,2026-03-22,0
+SR-001155,Damaged Bin,Open,Urgent,43.673608,-79.325137,Scarborough Village,Ward 16,West District,2025-12-12,4
+SR-001156,Illegal Dumping,Closed,Low,43.79729,-79.544597,Etobicoke Centre,Ward 14,West District,2025-12-18,0
+SR-001157,Public Realm Cleanliness,In Progress,Urgent,43.677724,-79.5552,High Park North,Ward 19,East District,2025-11-15,5
+SR-001158,Missed Collection,Closed,Low,43.733737,-79.28472,North York Centre,Ward 25,West District,2025-12-11,0
+SR-001159,Public Realm Cleanliness,Open,Low,43.80434,-79.491719,Etobicoke Centre,Ward 15,North District,2026-04-08,44
+SR-001160,Illegal Dumping,Closed,Urgent,43.808549,-79.590899,Agincourt South,Ward 24,North District,2025-11-11,0
+SR-001161,Missed Collection,In Progress,Medium,43.728693,-79.593719,York University Heights,Ward 19,East District,2025-12-31,34
+SR-001162,Damaged Bin,Closed,Low,43.795568,-79.376288,Scarborough Village,Ward 19,East District,2026-04-25,0
+SR-001163,Damaged Bin,Closed,Low,43.74395,-79.237476,Waterfront Communities,Ward 8,East District,2026-01-07,0
+SR-001164,Illegal Dumping,Open,Medium,43.624571,-79.602248,Etobicoke Centre,Ward 22,East District,2025-12-11,30
+SR-001165,Overflowing Litter Bin,Closed,High,43.792143,-79.475131,Flemingdon Park,Ward 19,North District,2026-03-09,0
+SR-001166,Overflowing Litter Bin,Open,High,43.619665,-79.404508,Annex,Ward 4,West District,2025-12-11,39
+SR-001167,Overflowing Litter Bin,Open,High,43.72761,-79.605754,Downtown Yonge East,Ward 11,East District,2026-02-27,43
+SR-001168,Overflowing Litter Bin,Open,High,43.653226,-79.604912,Annex,Ward 14,East District,2026-02-26,14
+SR-001169,Missed Collection,In Progress,Medium,43.686677,-79.208254,Agincourt South,Ward 4,South District,2026-04-20,29
+SR-001170,Overflowing Litter Bin,Closed,Urgent,43.81601,-79.326958,Waterfront Communities,Ward 15,South District,2026-01-14,0
+SR-001171,Overflowing Litter Bin,Open,Urgent,43.627177,-79.203309,Etobicoke Centre,Ward 4,West District,2026-03-13,33
+SR-001172,Public Realm Cleanliness,Closed,Low,43.708737,-79.549275,Annex,Ward 25,North District,2026-03-27,0
+SR-001173,Public Realm Cleanliness,Closed,High,43.801997,-79.271564,Flemingdon Park,Ward 11,South District,2026-03-09,0
+SR-001174,Missed Collection,Open,High,43.758292,-79.293777,Agincourt South,Ward 9,West District,2025-12-31,2
+SR-001175,Damaged Bin,Open,Urgent,43.636078,-79.522937,Scarborough Village,Ward 4,East District,2026-01-24,20
+SR-001176,Damaged Bin,Open,High,43.748307,-79.518928,Kensington Chinatown,Ward 23,West District,2025-11-11,42
+SR-001177,Damaged Bin,Closed,Low,43.690894,-79.260279,High Park North,Ward 24,East District,2026-04-15,0
+SR-001178,Overflowing Litter Bin,Open,Medium,43.770309,-79.4115,Etobicoke Centre,Ward 1,North District,2025-12-15,10
+SR-001179,Damaged Bin,Open,Low,43.772204,-79.234234,Waterfront Communities,Ward 20,North District,2025-11-08,19
+SR-001180,Public Realm Cleanliness,In Progress,Urgent,43.740598,-79.514924,Annex,Ward 14,North District,2026-03-13,34
+SR-001181,Overflowing Litter Bin,Open,High,43.653023,-79.475173,Downtown Yonge East,Ward 6,West District,2025-12-20,14
+SR-001182,Damaged Bin,In Progress,High,43.616865,-79.494347,High Park North,Ward 20,East District,2026-04-19,2
+SR-001183,Missed Collection,In Progress,Urgent,43.638189,-79.410549,Waterfront Communities,Ward 24,North District,2026-01-12,3
+SR-001184,Damaged Bin,Closed,Medium,43.798941,-79.571939,Annex,Ward 4,West District,2026-01-27,0
+SR-001185,Missed Collection,Open,Urgent,43.755662,-79.30385,Downtown Yonge East,Ward 4,South District,2025-12-29,27
+SR-001186,Damaged Bin,Closed,Medium,43.612023,-79.195617,Etobicoke Centre,Ward 21,West District,2026-02-06,0
+SR-001187,Damaged Bin,Closed,High,43.720749,-79.452686,Annex,Ward 11,East District,2025-11-20,0
+SR-001188,Missed Collection,Closed,Urgent,43.764004,-79.501612,Agincourt South,Ward 24,North District,2026-03-25,0
+SR-001189,Public Realm Cleanliness,Open,Medium,43.749507,-79.601733,Annex,Ward 8,West District,2026-04-02,26
+SR-001190,Public Realm Cleanliness,In Progress,Low,43.783064,-79.413841,Kensington Chinatown,Ward 8,East District,2026-03-10,43
+SR-001191,Illegal Dumping,In Progress,Urgent,43.736439,-79.518231,York University Heights,Ward 19,East District,2026-03-24,21
+SR-001192,Illegal Dumping,Closed,Medium,43.745727,-79.264769,Etobicoke Centre,Ward 24,West District,2026-01-18,0
+SR-001193,Missed Collection,Closed,Medium,43.698839,-79.335846,Annex,Ward 1,North District,2025-11-15,0
+SR-001194,Overflowing Litter Bin,Open,Medium,43.694955,-79.208718,Scarborough Village,Ward 11,West District,2025-12-01,31
+SR-001195,Illegal Dumping,Closed,Medium,43.70451,-79.232768,York University Heights,Ward 19,South District,2026-01-01,0
+SR-001196,Damaged Bin,Open,High,43.774311,-79.431168,North York Centre,Ward 15,West District,2026-02-14,42
+SR-001197,Illegal Dumping,Closed,High,43.642919,-79.433202,Annex,Ward 9,East District,2025-12-23,0
+SR-001198,Damaged Bin,Closed,Low,43.78003,-79.515289,York University Heights,Ward 11,East District,2026-04-10,0
+SR-001199,Damaged Bin,In Progress,Low,43.71062,-79.249195,North York Centre,Ward 5,West District,2026-02-27,30
+SR-001200,Missed Collection,Open,High,43.6713,-79.324584,Annex,Ward 12,East District,2026-01-01,28
+SR-001201,Missed Collection,Closed,Medium,43.646495,-79.569731,Scarborough Village,Ward 17,North District,2026-03-21,0
+SR-001202,Overflowing Litter Bin,Closed,Low,43.772708,-79.574474,Kensington Chinatown,Ward 24,East District,2025-12-13,0
+SR-001203,Overflowing Litter Bin,Closed,Low,43.652418,-79.22665,North York Centre,Ward 12,North District,2025-10-31,0
+SR-001204,Overflowing Litter Bin,Closed,High,43.669688,-79.172399,Annex,Ward 4,North District,2025-11-15,0
+SR-001205,Public Realm Cleanliness,Closed,Medium,43.815339,-79.496593,Flemingdon Park,Ward 5,South District,2026-03-06,0
+SR-001206,Missed Collection,In Progress,Urgent,43.599425,-79.295671,High Park North,Ward 13,South District,2025-12-26,30
+SR-001207,Overflowing Litter Bin,In Progress,High,43.693727,-79.573654,Waterfront Communities,Ward 3,East District,2025-12-05,43
+SR-001208,Overflowing Litter Bin,In Progress,Low,43.75273,-79.60566,Waterfront Communities,Ward 25,South District,2026-03-22,10
+SR-001209,Overflowing Litter Bin,Closed,Medium,43.790145,-79.55622,Scarborough Village,Ward 6,South District,2026-01-16,0
+SR-001210,Overflowing Litter Bin,Closed,Medium,43.619282,-79.539191,Danforth East York,Ward 3,North District,2026-02-15,0
+SR-001211,Damaged Bin,Open,Low,43.810861,-79.301142,Flemingdon Park,Ward 24,North District,2026-03-05,29
+SR-001212,Illegal Dumping,Open,High,43.774315,-79.437088,Waterfront Communities,Ward 21,West District,2025-12-14,20
+SR-001213,Missed Collection,Closed,Urgent,43.667352,-79.512137,Kensington Chinatown,Ward 22,South District,2026-02-09,0
+SR-001214,Public Realm Cleanliness,Open,Urgent,43.700549,-79.366159,Annex,Ward 3,East District,2026-02-16,3
+SR-001215,Illegal Dumping,Closed,Low,43.735308,-79.501725,York University Heights,Ward 15,South District,2025-11-28,0
+SR-001216,Damaged Bin,Open,High,43.80819,-79.541911,Kensington Chinatown,Ward 17,West District,2026-04-04,39
+SR-001217,Illegal Dumping,Closed,Medium,43.8121,-79.613166,York University Heights,Ward 16,South District,2026-01-09,0
+SR-001218,Missed Collection,Open,High,43.700659,-79.466651,Flemingdon Park,Ward 24,East District,2026-02-21,41
+SR-001219,Illegal Dumping,Closed,Urgent,43.693298,-79.357494,York University Heights,Ward 9,East District,2026-04-05,0
+SR-001220,Missed Collection,Open,Urgent,43.690186,-79.42917,Kensington Chinatown,Ward 19,South District,2026-03-01,38
+SR-001221,Illegal Dumping,Closed,Low,43.758526,-79.304497,Flemingdon Park,Ward 16,South District,2025-11-22,0
+SR-001222,Damaged Bin,Closed,Low,43.781652,-79.505019,Etobicoke Centre,Ward 4,West District,2025-11-30,0
+SR-001223,Missed Collection,Open,Medium,43.730192,-79.35081,Danforth East York,Ward 19,South District,2026-01-16,3
+SR-001224,Damaged Bin,In Progress,Urgent,43.67504,-79.396414,Etobicoke Centre,Ward 17,West District,2026-01-14,41
+SR-001225,Damaged Bin,Closed,Low,43.66217,-79.554752,Kensington Chinatown,Ward 19,North District,2026-04-20,0
+SR-001226,Illegal Dumping,Closed,Low,43.639174,-79.571464,High Park North,Ward 14,West District,2025-12-31,0
+SR-001227,Illegal Dumping,In Progress,High,43.747106,-79.316065,Danforth East York,Ward 8,East District,2026-01-02,4
+SR-001228,Damaged Bin,In Progress,High,43.808639,-79.284348,Annex,Ward 7,East District,2026-01-14,23
+SR-001229,Damaged Bin,Open,Low,43.601971,-79.213247,Danforth East York,Ward 12,North District,2026-02-04,20
+SR-001230,Missed Collection,Open,Urgent,43.788415,-79.416073,Danforth East York,Ward 20,South District,2025-11-14,12
+SR-001231,Overflowing Litter Bin,Closed,High,43.724749,-79.171004,Flemingdon Park,Ward 16,East District,2026-01-30,0
+SR-001232,Illegal Dumping,Closed,Medium,43.71243,-79.203552,Annex,Ward 11,West District,2026-03-29,0
+SR-001233,Public Realm Cleanliness,Open,High,43.609099,-79.532116,North York Centre,Ward 23,East District,2025-12-04,35
+SR-001234,Damaged Bin,Open,Low,43.691374,-79.351012,Kensington Chinatown,Ward 3,West District,2025-11-24,43
+SR-001235,Illegal Dumping,Closed,Medium,43.777732,-79.165399,Flemingdon Park,Ward 11,East District,2026-01-15,0
+SR-001236,Damaged Bin,Open,Low,43.679436,-79.598189,Flemingdon Park,Ward 10,West District,2026-02-03,15
+SR-001237,Missed Collection,Closed,Medium,43.774269,-79.341985,North York Centre,Ward 5,East District,2026-04-20,0
+SR-001238,Overflowing Litter Bin,Closed,Medium,43.635665,-79.392379,Kensington Chinatown,Ward 8,South District,2025-11-12,0
+SR-001239,Overflowing Litter Bin,Open,Low,43.760731,-79.265611,High Park North,Ward 8,West District,2025-11-21,31
+SR-001240,Damaged Bin,Closed,Medium,43.704912,-79.479601,Scarborough Village,Ward 6,South District,2025-11-17,0
+SR-001241,Damaged Bin,Closed,High,43.813961,-79.314853,Flemingdon Park,Ward 12,East District,2026-01-06,0
+SR-001242,Illegal Dumping,In Progress,Medium,43.683895,-79.490987,Danforth East York,Ward 18,East District,2026-04-07,45
+SR-001243,Illegal Dumping,Open,Medium,43.758154,-79.508596,North York Centre,Ward 19,North District,2026-04-02,33
+SR-001244,Damaged Bin,Closed,High,43.629493,-79.376276,Downtown Yonge East,Ward 20,North District,2026-01-27,0
+SR-001245,Public Realm Cleanliness,Closed,Medium,43.656697,-79.330704,Agincourt South,Ward 9,West District,2025-12-30,0
+SR-001246,Damaged Bin,Closed,Urgent,43.617126,-79.318727,Etobicoke Centre,Ward 14,West District,2026-03-14,0
+SR-001247,Public Realm Cleanliness,Open,Urgent,43.655158,-79.619888,North York Centre,Ward 21,West District,2026-01-28,31
+SR-001248,Overflowing Litter Bin,Closed,Low,43.619195,-79.190537,York University Heights,Ward 12,West District,2026-02-15,0
+SR-001249,Illegal Dumping,Closed,Low,43.789492,-79.51254,Flemingdon Park,Ward 20,South District,2026-01-06,0
+SR-001250,Overflowing Litter Bin,Closed,Urgent,43.769026,-79.340057,Kensington Chinatown,Ward 22,South District,2026-02-06,0
+SR-001251,Illegal Dumping,Closed,High,43.813308,-79.448141,Kensington Chinatown,Ward 19,South District,2026-03-21,0
+SR-001252,Public Realm Cleanliness,Closed,High,43.746736,-79.590774,Waterfront Communities,Ward 20,West District,2026-01-25,0
+SR-001253,Missed Collection,Closed,Low,43.681137,-79.176644,Etobicoke Centre,Ward 3,South District,2026-03-16,0
+SR-001254,Overflowing Litter Bin,Closed,Medium,43.713966,-79.487575,Etobicoke Centre,Ward 25,North District,2026-03-11,0
+SR-001255,Damaged Bin,Open,Low,43.617662,-79.296377,Danforth East York,Ward 3,West District,2026-01-13,37
+SR-001256,Damaged Bin,Closed,Urgent,43.738317,-79.447988,Scarborough Village,Ward 23,South District,2026-03-22,0
+SR-001257,Overflowing Litter Bin,In Progress,Low,43.808717,-79.609787,High Park North,Ward 12,North District,2026-01-06,17
+SR-001258,Missed Collection,Closed,Medium,43.659856,-79.196308,High Park North,Ward 13,North District,2026-02-27,0
+SR-001259,Missed Collection,In Progress,High,43.663815,-79.503964,Agincourt South,Ward 25,West District,2025-12-13,17
+SR-001260,Public Realm Cleanliness,Open,Low,43.712871,-79.241051,North York Centre,Ward 2,East District,2026-04-02,11
+SR-001261,Public Realm Cleanliness,Open,Low,43.613724,-79.18621,Waterfront Communities,Ward 11,South District,2026-02-07,2
+SR-001262,Public Realm Cleanliness,Closed,High,43.772867,-79.536625,Downtown Yonge East,Ward 6,North District,2025-11-15,0
+SR-001263,Damaged Bin,Closed,Medium,43.753762,-79.442919,North York Centre,Ward 7,East District,2026-04-02,0
+SR-001264,Overflowing Litter Bin,Closed,High,43.682528,-79.259687,Etobicoke Centre,Ward 6,South District,2025-10-28,0
+SR-001265,Public Realm Cleanliness,Open,Medium,43.811441,-79.561738,Agincourt South,Ward 1,West District,2025-12-10,8
+SR-001266,Illegal Dumping,In Progress,Low,43.686745,-79.398767,Danforth East York,Ward 22,North District,2025-11-26,34
+SR-001267,Missed Collection,Open,Urgent,43.676552,-79.452933,Kensington Chinatown,Ward 20,North District,2025-11-21,22
+SR-001268,Public Realm Cleanliness,Closed,Urgent,43.602022,-79.304652,Agincourt South,Ward 4,West District,2026-01-30,0
+SR-001269,Illegal Dumping,Open,Medium,43.690329,-79.530395,Kensington Chinatown,Ward 16,North District,2026-01-13,3
+SR-001270,Missed Collection,In Progress,Urgent,43.777688,-79.250822,York University Heights,Ward 23,West District,2025-12-14,6
+SR-001271,Illegal Dumping,Closed,Urgent,43.70187,-79.482713,North York Centre,Ward 21,North District,2026-02-13,0
+SR-001272,Overflowing Litter Bin,In Progress,Urgent,43.736761,-79.48745,Kensington Chinatown,Ward 10,South District,2026-01-13,28
+SR-001273,Missed Collection,Closed,Urgent,43.644282,-79.283963,Waterfront Communities,Ward 16,West District,2026-02-03,0
+SR-001274,Damaged Bin,Closed,Urgent,43.599275,-79.576407,High Park North,Ward 16,East District,2025-11-02,0
+SR-001275,Missed Collection,Closed,Low,43.591561,-79.549646,Kensington Chinatown,Ward 3,East District,2025-11-27,0
+SR-001276,Public Realm Cleanliness,Closed,Medium,43.605868,-79.161931,York University Heights,Ward 11,West District,2025-12-11,0
+SR-001277,Missed Collection,Open,High,43.656426,-79.551337,Scarborough Village,Ward 7,East District,2025-12-10,4
+SR-001278,Damaged Bin,Closed,Medium,43.645429,-79.189382,North York Centre,Ward 12,West District,2026-03-03,0
+SR-001279,Damaged Bin,Open,Medium,43.709637,-79.452184,Kensington Chinatown,Ward 23,East District,2026-04-08,14
+SR-001280,Overflowing Litter Bin,Closed,Low,43.79088,-79.438304,Waterfront Communities,Ward 13,North District,2025-11-01,0
+SR-001281,Illegal Dumping,Open,Low,43.667052,-79.52465,Kensington Chinatown,Ward 22,East District,2026-03-12,25
+SR-001282,Illegal Dumping,Open,Urgent,43.676893,-79.474325,Waterfront Communities,Ward 5,North District,2025-11-24,16
+SR-001283,Illegal Dumping,Closed,Urgent,43.74578,-79.486792,York University Heights,Ward 19,East District,2026-03-05,0
+SR-001284,Illegal Dumping,Closed,Urgent,43.722756,-79.58969,Flemingdon Park,Ward 1,South District,2026-01-11,0
+SR-001285,Illegal Dumping,Closed,Medium,43.633997,-79.432594,Agincourt South,Ward 9,West District,2025-11-17,0
+SR-001286,Damaged Bin,Closed,Low,43.805498,-79.446464,Flemingdon Park,Ward 25,South District,2026-03-25,0
+SR-001287,Overflowing Litter Bin,Closed,Low,43.742737,-79.50266,York University Heights,Ward 4,West District,2026-03-17,0
+SR-001288,Missed Collection,Closed,Medium,43.619218,-79.593073,North York Centre,Ward 11,North District,2026-02-20,0
+SR-001289,Damaged Bin,Closed,High,43.660245,-79.547476,North York Centre,Ward 10,East District,2025-12-02,0
+SR-001290,Missed Collection,In Progress,Low,43.630022,-79.270051,Scarborough Village,Ward 7,West District,2025-12-05,32
+SR-001291,Overflowing Litter Bin,Open,Low,43.593643,-79.363407,Agincourt South,Ward 16,West District,2026-03-29,15
+SR-001292,Damaged Bin,Open,Medium,43.677276,-79.386987,Downtown Yonge East,Ward 25,West District,2026-02-24,28
+SR-001293,Illegal Dumping,Closed,Urgent,43.719451,-79.475851,Flemingdon Park,Ward 5,South District,2025-11-25,0
+SR-001294,Public Realm Cleanliness,Open,Medium,43.657875,-79.282635,Kensington Chinatown,Ward 24,East District,2026-04-15,37
+SR-001295,Overflowing Litter Bin,Open,High,43.790394,-79.531412,High Park North,Ward 6,East District,2025-12-29,13
+SR-001296,Missed Collection,Closed,Urgent,43.612452,-79.207014,Scarborough Village,Ward 5,East District,2025-12-18,0
+SR-001297,Overflowing Litter Bin,Open,Medium,43.670476,-79.366394,York University Heights,Ward 7,East District,2025-11-09,29
+SR-001298,Damaged Bin,Open,Low,43.672695,-79.562131,Kensington Chinatown,Ward 20,East District,2025-12-05,11
+SR-001299,Public Realm Cleanliness,Open,High,43.725546,-79.378435,Waterfront Communities,Ward 4,West District,2026-01-12,34
+SR-001300,Missed Collection,Closed,Medium,43.636689,-79.41214,Flemingdon Park,Ward 11,East District,2026-04-17,0
+SR-001301,Missed Collection,Open,Medium,43.773298,-79.348404,Waterfront Communities,Ward 13,West District,2025-12-03,4
+SR-001302,Public Realm Cleanliness,Closed,Low,43.612291,-79.36791,Kensington Chinatown,Ward 25,West District,2025-12-03,0
+SR-001303,Missed Collection,Closed,Low,43.75163,-79.255356,York University Heights,Ward 16,South District,2026-02-13,0
+SR-001304,Public Realm Cleanliness,Closed,Urgent,43.734697,-79.549777,Agincourt South,Ward 24,North District,2025-11-03,0
+SR-001305,Public Realm Cleanliness,Closed,High,43.75334,-79.308423,Danforth East York,Ward 21,South District,2025-12-25,0
+SR-001306,Damaged Bin,Open,High,43.595618,-79.430596,Kensington Chinatown,Ward 5,East District,2025-11-14,12
+SR-001307,Illegal Dumping,Closed,Medium,43.666579,-79.31207,Danforth East York,Ward 24,West District,2026-01-06,0
+SR-001308,Overflowing Litter Bin,In Progress,Low,43.639711,-79.348199,Agincourt South,Ward 14,North District,2026-01-14,9
+SR-001309,Illegal Dumping,Closed,Medium,43.800037,-79.253011,Scarborough Village,Ward 14,South District,2025-12-30,0
+SR-001310,Damaged Bin,Closed,Urgent,43.801935,-79.169887,Scarborough Village,Ward 15,East District,2026-01-30,0
+SR-001311,Damaged Bin,In Progress,Medium,43.592454,-79.333539,Flemingdon Park,Ward 17,North District,2026-02-23,14
+SR-001312,Overflowing Litter Bin,Closed,Medium,43.684953,-79.224467,Flemingdon Park,Ward 22,East District,2025-12-29,0
+SR-001313,Damaged Bin,Closed,High,43.647917,-79.168726,York University Heights,Ward 10,North District,2026-01-16,0
+SR-001314,Damaged Bin,Open,Low,43.731153,-79.254973,North York Centre,Ward 21,South District,2026-02-09,40
+SR-001315,Missed Collection,Closed,Medium,43.609688,-79.535609,Kensington Chinatown,Ward 11,North District,2025-11-09,0
+SR-001316,Public Realm Cleanliness,Closed,Urgent,43.764433,-79.609886,Annex,Ward 15,West District,2025-10-31,0
+SR-001317,Damaged Bin,Open,Medium,43.777882,-79.613583,High Park North,Ward 24,North District,2025-11-13,26
+SR-001318,Overflowing Litter Bin,Closed,Medium,43.741137,-79.452057,Scarborough Village,Ward 11,South District,2026-02-23,0
+SR-001319,Overflowing Litter Bin,Closed,Urgent,43.730644,-79.299826,Danforth East York,Ward 20,West District,2025-11-04,0
+SR-001320,Missed Collection,Open,Low,43.668769,-79.570337,Waterfront Communities,Ward 1,West District,2026-02-01,6
+SR-001321,Illegal Dumping,In Progress,Medium,43.606019,-79.349089,Flemingdon Park,Ward 5,North District,2026-02-07,5
+SR-001322,Public Realm Cleanliness,In Progress,High,43.709751,-79.278588,Etobicoke Centre,Ward 15,South District,2026-01-30,12
+SR-001323,Illegal Dumping,In Progress,Low,43.707239,-79.425675,North York Centre,Ward 6,North District,2026-03-16,27
+SR-001324,Public Realm Cleanliness,Open,Urgent,43.68156,-79.607834,Annex,Ward 18,South District,2025-10-29,18
+SR-001325,Overflowing Litter Bin,Closed,Low,43.667178,-79.171031,York University Heights,Ward 5,South District,2026-04-02,0
+SR-001326,Overflowing Litter Bin,Open,Urgent,43.790918,-79.468486,Agincourt South,Ward 13,South District,2026-03-14,2
+SR-001327,Illegal Dumping,Closed,Urgent,43.725193,-79.230243,Etobicoke Centre,Ward 19,North District,2026-01-02,0
+SR-001328,Damaged Bin,Open,High,43.691493,-79.611739,Danforth East York,Ward 3,East District,2026-04-09,12
+SR-001329,Public Realm Cleanliness,Open,High,43.607137,-79.385219,York University Heights,Ward 13,North District,2026-03-29,43
+SR-001330,Illegal Dumping,Open,High,43.812971,-79.301124,Flemingdon Park,Ward 3,East District,2025-11-23,32
+SR-001331,Public Realm Cleanliness,Open,Urgent,43.606311,-79.532894,Annex,Ward 12,East District,2026-03-08,33
+SR-001332,Public Realm Cleanliness,In Progress,Low,43.767404,-79.232938,Agincourt South,Ward 11,North District,2026-04-13,42
+SR-001333,Illegal Dumping,Open,High,43.73207,-79.323565,Agincourt South,Ward 14,East District,2026-04-16,18
+SR-001334,Damaged Bin,Closed,Low,43.596518,-79.238876,Danforth East York,Ward 18,West District,2026-03-24,0
+SR-001335,Missed Collection,Closed,Low,43.771303,-79.500844,High Park North,Ward 13,North District,2025-12-27,0
+SR-001336,Damaged Bin,Closed,Low,43.752996,-79.521167,Flemingdon Park,Ward 22,East District,2025-10-30,0
+SR-001337,Illegal Dumping,Closed,High,43.599276,-79.527477,North York Centre,Ward 14,South District,2026-01-29,0
+SR-001338,Illegal Dumping,Open,High,43.631085,-79.464636,North York Centre,Ward 7,South District,2026-02-13,18
+SR-001339,Damaged Bin,Open,Low,43.686243,-79.386072,York University Heights,Ward 11,West District,2026-04-21,9
+SR-001340,Overflowing Litter Bin,Open,Low,43.699653,-79.49549,Annex,Ward 12,West District,2026-03-18,37
+SR-001341,Missed Collection,Open,Low,43.596709,-79.341653,Waterfront Communities,Ward 24,West District,2026-01-29,40
+SR-001342,Overflowing Litter Bin,Open,Urgent,43.681021,-79.482611,York University Heights,Ward 11,West District,2025-11-21,8
+SR-001343,Overflowing Litter Bin,Open,Medium,43.789396,-79.276498,Flemingdon Park,Ward 3,North District,2026-04-03,6
+SR-001344,Damaged Bin,Open,Medium,43.787286,-79.392308,Kensington Chinatown,Ward 2,West District,2026-01-17,21
+SR-001345,Public Realm Cleanliness,Closed,Medium,43.620114,-79.299738,Agincourt South,Ward 7,South District,2025-11-23,0
+SR-001346,Overflowing Litter Bin,Closed,Urgent,43.637397,-79.417034,High Park North,Ward 24,West District,2026-01-03,0
+SR-001347,Public Realm Cleanliness,Open,Low,43.60495,-79.240358,Downtown Yonge East,Ward 6,North District,2026-02-18,10
+SR-001348,Public Realm Cleanliness,Closed,Medium,43.618966,-79.204575,Flemingdon Park,Ward 4,West District,2026-03-09,0
+SR-001349,Illegal Dumping,Open,Medium,43.788773,-79.406292,Annex,Ward 13,East District,2025-11-24,27
+SR-001350,Illegal Dumping,Closed,Medium,43.761205,-79.335055,Scarborough Village,Ward 9,East District,2026-02-24,0
+SR-001351,Missed Collection,Closed,High,43.774707,-79.42137,High Park North,Ward 25,North District,2026-04-10,0
+SR-001352,Missed Collection,Open,Urgent,43.770736,-79.40727,Danforth East York,Ward 24,West District,2025-11-19,28
+SR-001353,Damaged Bin,Open,Low,43.806422,-79.396269,Flemingdon Park,Ward 22,West District,2026-02-04,38
+SR-001354,Public Realm Cleanliness,In Progress,Low,43.696402,-79.258867,Etobicoke Centre,Ward 9,East District,2026-01-01,23
+SR-001355,Damaged Bin,Closed,High,43.778963,-79.364935,Agincourt South,Ward 10,South District,2026-02-05,0
+SR-001356,Overflowing Litter Bin,Closed,Medium,43.631353,-79.404831,Etobicoke Centre,Ward 6,West District,2025-11-01,0
+SR-001357,Damaged Bin,In Progress,Urgent,43.812657,-79.273626,Agincourt South,Ward 11,South District,2025-12-29,30
+SR-001358,Overflowing Litter Bin,Closed,Medium,43.776567,-79.6049,Flemingdon Park,Ward 25,South District,2026-01-09,0
+SR-001359,Overflowing Litter Bin,Open,High,43.697608,-79.322554,Scarborough Village,Ward 21,North District,2026-01-14,24
+SR-001360,Damaged Bin,Open,Medium,43.780908,-79.597334,Annex,Ward 19,North District,2026-03-02,7
+SR-001361,Damaged Bin,Open,Urgent,43.786061,-79.367736,Annex,Ward 9,East District,2026-03-07,2
+SR-001362,Damaged Bin,Closed,Medium,43.635382,-79.474063,High Park North,Ward 18,East District,2026-02-27,0
+SR-001363,Damaged Bin,Open,Urgent,43.654844,-79.375805,Scarborough Village,Ward 14,North District,2025-12-23,43
+SR-001364,Illegal Dumping,Open,Low,43.601888,-79.547073,Downtown Yonge East,Ward 11,South District,2025-11-22,19
+SR-001365,Overflowing Litter Bin,Open,Urgent,43.776919,-79.559002,Kensington Chinatown,Ward 14,South District,2026-04-23,20
+SR-001366,Overflowing Litter Bin,Closed,High,43.643681,-79.41145,York University Heights,Ward 10,South District,2025-11-21,0
+SR-001367,Public Realm Cleanliness,Open,Medium,43.708938,-79.268739,North York Centre,Ward 10,East District,2026-01-21,45
+SR-001368,Illegal Dumping,Open,Urgent,43.692886,-79.256662,Downtown Yonge East,Ward 1,South District,2026-01-22,27
+SR-001369,Overflowing Litter Bin,Open,High,43.73222,-79.567974,Flemingdon Park,Ward 8,East District,2025-11-15,31
+SR-001370,Public Realm Cleanliness,In Progress,High,43.625956,-79.418964,Etobicoke Centre,Ward 11,North District,2026-03-25,21
+SR-001371,Public Realm Cleanliness,Closed,Medium,43.681285,-79.27797,Flemingdon Park,Ward 19,North District,2026-02-22,0
+SR-001372,Public Realm Cleanliness,Closed,Urgent,43.72357,-79.441459,Waterfront Communities,Ward 11,West District,2026-01-18,0
+SR-001373,Public Realm Cleanliness,Open,High,43.629275,-79.515655,Downtown Yonge East,Ward 17,South District,2025-12-29,39
+SR-001374,Illegal Dumping,Closed,Low,43.722365,-79.425218,Agincourt South,Ward 13,North District,2026-02-15,0
+SR-001375,Overflowing Litter Bin,Closed,High,43.708433,-79.541488,Waterfront Communities,Ward 16,North District,2026-02-28,0
+SR-001376,Missed Collection,Closed,High,43.742468,-79.227832,Danforth East York,Ward 20,South District,2025-12-04,0
+SR-001377,Illegal Dumping,Open,High,43.649326,-79.393903,Agincourt South,Ward 11,North District,2025-11-12,13
+SR-001378,Public Realm Cleanliness,Closed,Low,43.814371,-79.466709,High Park North,Ward 24,West District,2026-03-08,0
+SR-001379,Public Realm Cleanliness,Closed,High,43.726861,-79.57851,Kensington Chinatown,Ward 13,South District,2025-10-29,0
+SR-001380,Illegal Dumping,Open,High,43.729383,-79.578769,Kensington Chinatown,Ward 5,East District,2026-04-20,2
+SR-001381,Damaged Bin,Closed,Low,43.810624,-79.290795,Danforth East York,Ward 15,North District,2026-01-02,0
+SR-001382,Damaged Bin,Closed,Medium,43.771277,-79.296112,Etobicoke Centre,Ward 15,East District,2026-03-30,0
+SR-001383,Damaged Bin,In Progress,High,43.725638,-79.41304,Kensington Chinatown,Ward 23,South District,2026-02-13,11
+SR-001384,Overflowing Litter Bin,Closed,High,43.787426,-79.179856,Waterfront Communities,Ward 4,West District,2026-02-02,0
+SR-001385,Damaged Bin,Closed,High,43.704778,-79.191494,Annex,Ward 11,South District,2025-12-07,0
+SR-001386,Damaged Bin,Open,High,43.724167,-79.372343,Scarborough Village,Ward 6,East District,2025-11-21,3
+SR-001387,Illegal Dumping,Closed,High,43.694531,-79.523728,Etobicoke Centre,Ward 25,West District,2025-12-17,0
+SR-001388,Overflowing Litter Bin,Open,Urgent,43.590856,-79.508907,Downtown Yonge East,Ward 3,North District,2026-03-19,7
+SR-001389,Overflowing Litter Bin,Closed,Medium,43.707236,-79.445218,Downtown Yonge East,Ward 25,East District,2026-01-25,0
+SR-001390,Missed Collection,In Progress,Urgent,43.693152,-79.168902,Danforth East York,Ward 25,West District,2025-12-21,26
+SR-001391,Missed Collection,Closed,Urgent,43.670563,-79.411996,York University Heights,Ward 13,North District,2025-12-07,0
+SR-001392,Overflowing Litter Bin,Open,Urgent,43.620709,-79.597939,Annex,Ward 4,East District,2026-02-27,16
+SR-001393,Public Realm Cleanliness,Open,Low,43.768344,-79.357486,Waterfront Communities,Ward 21,North District,2025-12-25,3
+SR-001394,Overflowing Litter Bin,Open,Medium,43.764962,-79.551063,Annex,Ward 5,East District,2026-02-03,25
+SR-001395,Damaged Bin,Closed,Low,43.721521,-79.503324,North York Centre,Ward 25,East District,2025-12-21,0
+SR-001396,Damaged Bin,Open,Low,43.642454,-79.614698,Waterfront Communities,Ward 7,West District,2026-03-04,15
+SR-001397,Damaged Bin,Closed,Low,43.619978,-79.477737,Danforth East York,Ward 23,West District,2025-11-29,0
+SR-001398,Public Realm Cleanliness,In Progress,Medium,43.616882,-79.166505,Scarborough Village,Ward 7,North District,2025-12-10,1
+SR-001399,Public Realm Cleanliness,Closed,High,43.660986,-79.560051,High Park North,Ward 18,East District,2025-12-17,0
+SR-001400,Overflowing Litter Bin,Closed,Medium,43.635789,-79.349657,Etobicoke Centre,Ward 9,East District,2026-03-07,0

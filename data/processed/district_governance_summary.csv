@@ -1,0 +1,5 @@
+service_district,assets_monitored,avg_risk_index,avg_service_pressure,avg_data_quality_risk,avg_governance_maturity,avg_ai_readiness,critical_assets,open_asset_issues
+East District,198,53.8,58.7,41.4,73.6,55.9,15,209
+North District,209,53.3,62.7,38.9,73.5,56.4,8,219
+South District,208,52.6,61.2,38.8,73.9,55.7,15,247
+West District,185,50.6,60.2,35.1,73.9,56.9,9,205
