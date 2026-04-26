@@ -476,16 +476,16 @@ h1 {{
 <body>
 <div class="container">
   <div class="hero">
-    <div class="eyebrow">Advanced HTML Portfolio Dashboard</div>
+    <div class="eyebrow">Enterprise Municipal Intelligence Dashboard</div>
     <h1>Urban Data Governance Digital Twin</h1>
     <p>
-      A high-impact interactive HTML dashboard built for recruiter and LinkedIn showcase use.
+      An interactive municipal intelligence dashboard for operational oversight, governance controls, and executive decision support.
       It combines municipal service analytics, operational risk, data quality controls, metadata completeness,
-      access governance, lineage visibility, and AI-readiness into one polished decision-support experience.
+      access governance, lineage visibility, and AI-readiness into one decision-support environment.
     </p>
     <div class="badges">
       <div class="badge">3D Visualization</div>
-      <div class="badge">Interactive HTML</div>
+      <div class="badge">Interactive Analytics</div>
       <div class="badge">Operational Risk</div>
       <div class="badge">Data Quality</div>
       <div class="badge">Metadata + Lineage</div>
@@ -496,32 +496,32 @@ h1 {{
   </div>
 
   <div class="kpi-grid">
-    {kpi_card("Datasets Governed", f"{datasets_governed:,}", "Governed assets across metadata, quality, access, lineage, and AI scoring")}
-    {kpi_card("Assets Monitored", f"{assets_monitored:,}", "Synthetic municipal asset risk layer")}
-    {kpi_card("Service Requests", f"{service_requests:,}", "Synthetic service-demand signals")}
+    {kpi_card("Datasets Governed", f"{datasets_governed:,}", "Governed datasets across metadata, quality, access, lineage, and AI scoring")}
+    {kpi_card("Assets Monitored", f"{assets_monitored:,}", "Municipal asset risk layer")}
+    {kpi_card("Service Requests", f"{service_requests:,}", "Service-demand signals")}
     {kpi_card("Average Data Quality", f"{avg_dq:.1f}%", "Cross-dataset quality score")}
-    {kpi_card("Average AI Readiness", f"{avg_ai:.1f}%", "Portfolio-level readiness")}
+    {kpi_card("Average AI Readiness", f"{avg_ai:.1f}%", "Dataset readiness average")}
     {kpi_card("Open Governance Issues", f"{open_issues:,}", "All non-resolved issues")}
     {kpi_card("Critical Assets", f"{critical_assets:,}", "Highest operational risk tier")}
     {kpi_card("High-Risk Datasets", f"{high_risk_datasets:,}", "Restricted or not-ready datasets")}
   </div>
 
   <div class="section">
-    <div class="section-title">Spatial Control Centre</div>
-    <div class="section-sub">Interactive map view plus a 3D risk landscape designed for video demos and portfolio presentation.</div>
+    <div class="section-title">Spatial Operations Control Centre</div>
+    <div class="section-sub">Interactive map view and 3D risk landscape for operational risk monitoring.</div>
     <div class="grid-2">
       <div class="card">{html_map}</div>
       <div class="card">{html_3d}</div>
     </div>
     <div class="note">
-      The left view shows geospatial operational exposure across the city. The right view turns the same asset layer into a
-      3D digital twin style landscape, where elevation reflects risk intensity and point size reflects service pressure.
+      The left view shows geospatial operational exposure across the city. The right view converts the same asset layer into a
+      3D risk landscape, where elevation reflects risk intensity and point size reflects service pressure.
     </div>
   </div>
 
   <div class="section">
     <div class="section-title">Executive Governance and Operations Layer</div>
-    <div class="section-sub">District-level risk, portfolio AI readiness, and dataset-level readiness dynamics.</div>
+    <div class="section-sub">District-level risk, AI-readiness status, and dataset-level governance performance.</div>
     <div class="grid-2-even">
       <div class="card">{html_district}</div>
       <div class="card">{html_ai}</div>
@@ -543,7 +543,7 @@ h1 {{
 
   <div class="section">
     <div class="section-title">Lineage and Priority Action View</div>
-    <div class="section-sub">See how data flows into reporting products and which assets should be addressed first.</div>
+    <div class="section-sub">Trace how data flows into reporting outputs and identify the highest-priority operational records.</div>
     <div class="grid-2">
       <div class="card">{html_sankey}</div>
       <div class="card">{html_table}</div>
@@ -551,8 +551,7 @@ h1 {{
   </div>
 
   <div class="footer">
-    Built from the repository's synthetic governance and processed municipal demo layers.
-    Open this file directly in a browser and record a short walkthrough video for LinkedIn or portfolio use.
+    Built from governed municipal demonstration layers, data quality controls, access-risk logic, lineage mapping, and AI-readiness scoring.
   </div>
 </div>
 </body>
