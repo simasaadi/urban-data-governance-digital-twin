@@ -1,6 +1,4 @@
 
-# Urban Data Governance Digital Twin
-
 # Urban Data Governance Digital Twin  
 ## 3D Municipal Intelligence Control Center
 
