@@ -3,7 +3,10 @@
 
 <p align="center">
   <a href="https://urban-data-governance-digital-twin.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Launch%20Interactive%20Dashboard-Urban%20Data%20Governance%20Digital%20Twin-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Interactive Dashboard"/>
+    <img src="https://img.shields.io/badge/Launch%20Streamlit%20Dashboard-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Streamlit Dashboard"/>
+  </a>
+  <a href="https://simasaadi.github.io/urban-data-governance-digital-twin/advanced_dashboard.html" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Advanced%20HTML%20Dashboard-Portfolio%20Visual-7C83FD?style=for-the-badge&logo=plotly&logoColor=white" alt="Open Advanced HTML Dashboard"/>
   </a>
 </p>
 
