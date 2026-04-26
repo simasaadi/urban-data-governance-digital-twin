@@ -1,20 +1,24 @@
 
 # Urban Data Governance Digital Twin
 
+# Urban Data Governance Digital Twin  
+## 3D Municipal Intelligence Control Center
+
 <p align="center">
   <a href="https://urban-data-governance-digital-twin.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Launch%20Streamlit%20Dashboard-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Streamlit Dashboard"/>
+    <img src="https://img.shields.io/badge/LIVE%20STREAMLIT%20APP-OPEN%20DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Streamlit App"/>
   </a>
   <a href="https://simasaadi.github.io/urban-data-governance-digital-twin/advanced_dashboard.html" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Advanced%20HTML%20Dashboard-Portfolio%20Visual-7C83FD?style=for-the-badge&logo=plotly&logoColor=white" alt="Open Advanced HTML Dashboard"/>
+    <img src="https://img.shields.io/badge/3D%20EXECUTIVE%20DASHBOARD-OPEN%20HTML%20CONTROL%20CENTER-7C83FD?style=for-the-badge&logo=plotly&logoColor=white" alt="3D Executive Dashboard"/>
   </a>
 </p>
 
 <p align="center">
-  <b>3D municipal operations dashboard with data quality, access risk, metadata completeness, service performance, lineage, and AI-readiness indicators.</b>
+  <b>Interactive municipal data governance command center for service risk, data quality, access governance, metadata completeness, lineage, and AI-readiness.</b>
 </p>
 
 ---
+
 
 ## Project Overview
 
