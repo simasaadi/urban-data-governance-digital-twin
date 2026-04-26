@@ -1,0 +1,13 @@
+dataset_id,dataset_name,completeness_score,validity_score,uniqueness_score,consistency_score,timeliness_score,data_quality_score,failed_checks,open_critical_issues,last_quality_check_date
+DS-001,Toronto 3D Massing,65,58,97,57,54,66.2,10,1,2026-04-26
+DS-002,Neighbourhoods,87,93,72,74,69,79.0,9,3,2026-04-26
+DS-003,City Wards,93,71,87,50,88,77.8,11,0,2026-04-26
+DS-004,Toronto Centreline,94,72,94,91,66,83.4,1,2,2026-04-26
+DS-005,Solid Waste Management Districts,87,65,84,50,91,75.4,11,2,2026-04-26
+DS-006,Solid Waste In-Park Assets,92,66,86,56,100,80.0,10,2,2026-04-26
+DS-007,Litter Bin Collection Frequency,100,87,89,62,54,78.4,5,1,2026-04-26
+DS-008,311 Service Requests,94,88,99,50,83,82.8,5,3,2026-04-26
+DS-009,Road Restrictions,61,62,99,73,98,78.6,12,2,2026-04-26
+DS-010,Building Permits,75,58,77,86,50,69.2,1,3,2026-04-26
+DS-011,Traffic Movement Counts,64,89,94,58,53,71.6,10,3,2026-04-26
+DS-012,Cycling Network,95,65,78,83,100,84.2,9,3,2026-04-26

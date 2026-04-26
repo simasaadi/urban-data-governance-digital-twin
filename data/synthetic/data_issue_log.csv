@@ -1,0 +1,31 @@
+issue_id,dataset_id,dataset_name,issue_title,severity,status,assigned_owner,root_cause_category,created_date,target_resolution_date
+DQI-001,DS-012,Cycling Network,Stale extract,Medium,Resolved,Policy & Planning,Unassigned data owner,2026-01-03,2026-07-06
+DQI-002,DS-006,Solid Waste In-Park Assets,Access approval missing,Low,In Review,Analytics,Unclear business definition,2026-01-29,2026-05-03
+DQI-003,DS-003,City Wards,Stale extract,Medium,Open,Operations,Missing required field,2026-02-26,2026-05-09
+DQI-004,DS-008,311 Service Requests,Missing required field,High,Open,Unassigned,Stale extract,2026-02-13,2026-07-25
+DQI-005,DS-005,Solid Waste Management Districts,Access approval missing,Medium,In Review,Unassigned,Access approval missing,2026-02-22,2026-06-30
+DQI-006,DS-010,Building Permits,Incomplete lineage,Medium,Open,Operations,Incomplete lineage,2026-01-25,2026-06-24
+DQI-007,DS-004,Toronto Centreline,Incomplete lineage,Critical,Open,Operations,Missing required field,2026-01-12,2026-06-13
+DQI-008,DS-011,Traffic Movement Counts,Unclear business definition,Medium,In Review,Analytics,Access approval missing,2026-03-21,2026-06-24
+DQI-009,DS-004,Toronto Centreline,Duplicate record,High,Deferred,Analytics,Unclear business definition,2026-01-02,2026-07-10
+DQI-010,DS-009,Road Restrictions,Unclear business definition,Low,Open,Operations,Stale extract,2026-03-14,2026-06-22
+DQI-011,DS-008,311 Service Requests,Access approval missing,Critical,In Review,Policy & Planning,Missing required field,2026-03-14,2026-06-18
+DQI-012,DS-007,Litter Bin Collection Frequency,Missing required field,Critical,Resolved,Policy & Planning,Manual transformation error,2026-01-07,2026-07-11
+DQI-013,DS-007,Litter Bin Collection Frequency,Access approval missing,Medium,In Review,Technology Services,Stale extract,2026-04-11,2026-07-14
+DQI-014,DS-012,Cycling Network,Missing required field,High,Open,Operations,Access approval missing,2025-12-18,2026-07-07
+DQI-015,DS-011,Traffic Movement Counts,Duplicate record,Low,Open,Analytics,Unclear business definition,2025-11-24,2026-05-09
+DQI-016,DS-010,Building Permits,Stale extract,Critical,Open,Unassigned,Stale extract,2025-11-28,2026-07-16
+DQI-017,DS-003,City Wards,Missing required field,Low,Deferred,Unassigned,Unassigned data owner,2026-02-18,2026-05-27
+DQI-018,DS-001,Toronto 3D Massing,Unassigned data owner,Medium,Resolved,Policy & Planning,Duplicate record,2025-11-05,2026-07-22
+DQI-019,DS-009,Road Restrictions,Manual transformation error,Critical,Resolved,Operations,Missing required field,2025-12-29,2026-07-19
+DQI-020,DS-008,311 Service Requests,Unclear business definition,Low,In Review,Unassigned,Manual transformation error,2026-03-23,2026-06-14
+DQI-021,DS-006,Solid Waste In-Park Assets,Unclear business definition,Medium,Resolved,Technology Services,Duplicate record,2026-01-03,2026-07-09
+DQI-022,DS-003,City Wards,Manual transformation error,Low,Resolved,Operations,Duplicate record,2026-02-17,2026-05-15
+DQI-023,DS-005,Solid Waste Management Districts,Unclear business definition,Medium,Resolved,Technology Services,Stale extract,2026-01-28,2026-05-27
+DQI-024,DS-012,Cycling Network,Manual transformation error,Critical,Resolved,Operations,Unclear business definition,2025-11-14,2026-06-24
+DQI-025,DS-001,Toronto 3D Massing,Manual transformation error,Low,Open,Technology Services,Duplicate record,2025-11-13,2026-06-03
+DQI-026,DS-012,Cycling Network,Duplicate record,Critical,Deferred,Unassigned,Missing required field,2026-03-28,2026-05-10
+DQI-027,DS-004,Toronto Centreline,Duplicate record,Low,Resolved,Unassigned,Duplicate record,2026-01-05,2026-05-17
+DQI-028,DS-002,Neighbourhoods,Missing required field,High,Resolved,Operations,Unassigned data owner,2026-03-03,2026-06-01
+DQI-029,DS-004,Toronto Centreline,Unclear business definition,High,Deferred,Unassigned,Duplicate record,2026-02-24,2026-05-21
+DQI-030,DS-002,Neighbourhoods,Duplicate record,Critical,Open,Analytics,Unassigned data owner,2026-01-10,2026-07-25

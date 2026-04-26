@@ -1,0 +1,11 @@
+﻿streamlit
+pandas
+numpy
+plotly
+pydeck
+duckdb
+pyarrow
+requests
+pyyaml
+pytest
+python-dotenv

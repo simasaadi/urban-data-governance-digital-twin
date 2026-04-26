@@ -1,0 +1,26 @@
+request_id,dataset_id,dataset_name,requester_role,requested_access,business_need,minimum_necessary_checked,sensitive_data_involved,risk_level,decision,decision_date,review_date,decision_rationale
+ADL-001,DS-003,City Wards,Manager,Dashboard Access,Service planning,Yes,No,Low,Approved,2026-02-24,2026-09-16,Access limited to aggregated output
+ADL-002,DS-007,Litter Bin Collection Frequency,Operations Lead,Dashboard Access,Executive briefing,Yes,No,Medium,Approved,2026-01-31,2026-09-01,Insufficient justification
+ADL-003,DS-003,City Wards,External Partner,Dashboard Access,Operational reporting,No,No,Low,Pending Review,2026-01-29,2027-02-24,Requires additional approval
+ADL-004,DS-004,Toronto Centreline,Analyst,Read Only,Executive briefing,Yes,Yes,Medium,Denied,2026-04-21,2026-07-20,Temporary access approved with review date
+ADL-005,DS-004,Toronto Centreline,Operations Lead,Dashboard Access,Executive briefing,No,Yes,Medium,Approved,2026-03-07,2027-03-17,Access limited to aggregated output
+ADL-006,DS-012,Cycling Network,External Partner,Read Only,Research and analysis,Yes,Yes,High,Approved with Conditions,2026-03-10,2027-01-01,Business need confirmed
+ADL-007,DS-004,Toronto Centreline,External Partner,Temporary Access,Executive briefing,Yes,Yes,Medium,Denied,2026-02-20,2026-10-31,Insufficient justification
+ADL-008,DS-012,Cycling Network,External Partner,External Sharing,Executive briefing,Yes,No,High,Pending Review,2026-01-30,2026-12-06,Access limited to aggregated output
+ADL-009,DS-009,Road Restrictions,Researcher,Temporary Access,Executive briefing,No,Yes,Low,Approved,2026-03-18,2026-10-19,Access limited to aggregated output
+ADL-010,DS-005,Solid Waste Management Districts,Operations Lead,Temporary Access,Cross-divisional coordination,No,Yes,Medium,Pending Review,2026-02-28,2027-01-07,Access limited to aggregated output
+ADL-011,DS-008,311 Service Requests,Researcher,External Sharing,Service planning,Yes,Yes,High,Denied,2026-02-19,2027-04-15,Temporary access approved with review date
+ADL-012,DS-004,Toronto Centreline,External Partner,Read Only,Service planning,No,No,Medium,Approved with Conditions,2026-04-07,2026-06-07,Business need confirmed
+ADL-013,DS-005,Solid Waste Management Districts,Manager,External Sharing,Cross-divisional coordination,Yes,Yes,Medium,Pending Review,2026-03-03,2027-04-13,Temporary access approved with review date
+ADL-014,DS-010,Building Permits,Manager,External Sharing,Research and analysis,No,No,Low,Approved with Conditions,2026-02-01,2026-05-28,Business need confirmed
+ADL-015,DS-010,Building Permits,Operations Lead,Download,Service planning,No,No,Low,Approved with Conditions,2026-04-10,2027-01-14,Access limited to aggregated output
+ADL-016,DS-012,Cycling Network,Operations Lead,Temporary Access,Cross-divisional coordination,No,No,High,Pending Review,2026-02-14,2027-01-09,Access limited to aggregated output
+ADL-017,DS-005,Solid Waste Management Districts,Operations Lead,External Sharing,Executive briefing,Yes,Yes,Medium,Denied,2026-02-18,2027-01-29,Access limited to aggregated output
+ADL-018,DS-004,Toronto Centreline,External Partner,External Sharing,Operational reporting,No,No,Medium,Denied,2026-03-14,2026-11-05,Temporary access approved with review date
+ADL-019,DS-008,311 Service Requests,Analyst,Download,Service planning,Yes,Yes,High,Pending Review,2026-01-27,2026-08-12,Access limited to aggregated output
+ADL-020,DS-003,City Wards,Analyst,External Sharing,Research and analysis,No,Yes,Low,Pending Review,2026-03-03,2026-06-26,Access limited to aggregated output
+ADL-021,DS-008,311 Service Requests,Operations Lead,External Sharing,Cross-divisional coordination,Yes,Yes,High,Pending Review,2026-02-23,2026-05-29,Requires additional approval
+ADL-022,DS-008,311 Service Requests,External Partner,External Sharing,Research and analysis,Yes,Yes,High,Pending Review,2026-03-28,2026-10-12,Insufficient justification
+ADL-023,DS-006,Solid Waste In-Park Assets,Operations Lead,Read Only,Research and analysis,No,Yes,High,Pending Review,2026-04-04,2027-01-20,Access limited to aggregated output
+ADL-024,DS-010,Building Permits,Researcher,Temporary Access,Operational reporting,No,Yes,Low,Approved,2026-04-15,2027-04-20,Insufficient justification
+ADL-025,DS-006,Solid Waste In-Park Assets,Manager,External Sharing,Service planning,Yes,No,High,Pending Review,2026-03-15,2026-09-11,Insufficient justification

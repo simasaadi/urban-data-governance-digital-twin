@@ -1,0 +1,13 @@
+dataset_id,dataset_name,data_owner,data_steward,business_function,source_type,refresh_frequency,data_classification,lineage_status,business_definition_status,metadata_completeness_score,access_risk_level,last_reviewed_date
+DS-001,Toronto 3D Massing,Unassigned,Assigned,Public Realm Operations,Synthetic Governance Layer,Weekly,Public,Documented,Missing,51,High,2025-07-20
+DS-002,Neighbourhoods,Operations,Unassigned,Service Request Management,Toronto Open Data,Daily,Public,Documented,Complete,77,High,2026-04-12
+DS-003,City Wards,Open Data Team,Assigned,Urban Growth Monitoring,Synthetic Governance Layer,Weekly,Internal,Not Documented,Partial,96,Low,2026-02-03
+DS-004,Toronto Centreline,Unassigned,Assigned,Asset Management,Synthetic Governance Layer,Weekly,Public,Partially Documented,Complete,50,Medium,2026-03-07
+DS-005,Solid Waste Management Districts,Technology Services,Assigned,Transportation Planning,Synthetic Governance Layer,Daily,Confidential,Partially Documented,Missing,52,Medium,2026-03-16
+DS-006,Solid Waste In-Park Assets,Open Data Team,Assigned,Executive Reporting,Synthetic Governance Layer,Ad hoc,Public,Not Documented,Complete,47,High,2025-12-30
+DS-007,Litter Bin Collection Frequency,Technology Services,Assigned,Executive Reporting,Toronto Open Data,Daily,Internal,Partially Documented,Partial,85,Medium,2026-02-01
+DS-008,311 Service Requests,Technology Services,Assigned,Solid Waste Collection,Synthetic Governance Layer,Daily,Confidential,Not Documented,Complete,79,High,2025-12-21
+DS-009,Road Restrictions,Analytics,Assigned,Service Request Management,Synthetic Governance Layer,Ad hoc,Public,Not Documented,Partial,98,Low,2025-12-29
+DS-010,Building Permits,Operations,Assigned,Service Request Management,Synthetic Governance Layer,Daily,Public,Not Documented,Missing,65,Low,2025-05-25
+DS-011,Traffic Movement Counts,Policy & Planning,Assigned,Urban Growth Monitoring,Synthetic Governance Layer,Weekly,Internal,Documented,Complete,92,High,2025-07-24
+DS-012,Cycling Network,Technology Services,Unassigned,Transportation Planning,Synthetic Governance Layer,Ad hoc,Internal,Partially Documented,Complete,53,High,2025-08-16

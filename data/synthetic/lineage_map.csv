@@ -1,0 +1,13 @@
+dataset_id,source_dataset,transformation_step,dashboard_layer,reporting_output,lineage_status
+DS-001,Toronto 3D Massing,Data quality validation and governance scoring,Service Demand Layer,Governance Scorecard,Documented
+DS-002,Neighbourhoods,Data quality validation and governance scoring,Data Quality Layer,Governance Scorecard,Documented
+DS-003,City Wards,Data quality validation and governance scoring,Data Quality Layer,Governance Scorecard,Not Documented
+DS-004,Toronto Centreline,Data quality validation and governance scoring,3D City View,AI Readiness Summary,Partially Documented
+DS-005,Solid Waste Management Districts,Data quality validation and governance scoring,3D City View,Access Risk Register,Partially Documented
+DS-006,Solid Waste In-Park Assets,Data quality validation and governance scoring,3D City View,Governance Scorecard,Not Documented
+DS-007,Litter Bin Collection Frequency,Data quality validation and governance scoring,Asset Risk Layer,Executive Control Panel,Partially Documented
+DS-008,311 Service Requests,Data quality validation and governance scoring,AI-Readiness Layer,Executive Control Panel,Not Documented
+DS-009,Road Restrictions,Data quality validation and governance scoring,3D City View,Operational Risk View,Not Documented
+DS-010,Building Permits,Data quality validation and governance scoring,Asset Risk Layer,Executive Control Panel,Not Documented
+DS-011,Traffic Movement Counts,Data quality validation and governance scoring,Governance Maturity Layer,Operational Risk View,Documented
+DS-012,Cycling Network,Data quality validation and governance scoring,Asset Risk Layer,Operational Risk View,Partially Documented

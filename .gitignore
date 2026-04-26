@@ -216,3 +216,35 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific ignores
+.venv/
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Large or downloaded data files
+data/raw/*
+!data/raw/README.md
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/README.md
+!data/processed/.gitkeep
+
+data/external/*
+!data/external/README.md
+!data/external/.gitkeep
+
+# Keep synthetic demo data versioned unless files become too large
+# data/synthetic/*
+# !data/synthetic/README.md
+# !data/synthetic/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db

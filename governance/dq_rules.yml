@@ -1,0 +1,57 @@
+﻿# Data Quality Rules for the Urban Data Governance Digital Twin
+
+asset_records:
+  required_fields:
+    - asset_id
+    - asset_type
+    - latitude
+    - longitude
+    - service_district
+    - last_updated
+
+  validation_rules:
+    - rule_id: DQ-001
+      rule_name: Required fields must not be missing
+      dimension: completeness
+      severity: high
+
+    - rule_id: DQ-002
+      rule_name: Asset coordinates must be valid latitude and longitude values
+      dimension: validity
+      severity: high
+
+    - rule_id: DQ-003
+      rule_name: Asset IDs must be unique
+      dimension: uniqueness
+      severity: high
+
+    - rule_id: DQ-004
+      rule_name: Last updated date should not be stale
+      dimension: timeliness
+      severity: medium
+
+metadata_catalog:
+  required_fields:
+    - dataset_name
+    - data_owner
+    - data_steward
+    - refresh_frequency
+    - data_classification
+    - lineage_status
+    - business_definition_status
+
+  validation_rules:
+    - rule_id: DQ-005
+      rule_name: Each dataset should have an assigned owner
+      dimension: accountability
+      severity: high
+
+    - rule_id: DQ-006
+      rule_name: Each dataset should have classification assigned
+      dimension: governance
+      severity: high
+
+    - rule_id: DQ-007
+      rule_name: Each dataset should have documented lineage status
+      dimension: lineage
+      severity: medium

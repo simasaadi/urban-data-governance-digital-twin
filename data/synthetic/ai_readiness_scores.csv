@@ -1,0 +1,13 @@
+dataset_id,dataset_name,data_quality_score,metadata_completeness_score,lineage_status,business_definition_status,access_risk_level,data_classification,ai_readiness_score,ai_readiness_category
+DS-001,Toronto 3D Massing,66.2,51,Documented,Missing,High,Public,35.9,Not Ready
+DS-002,Neighbourhoods,79.0,77,Documented,Complete,High,Public,61.9,Needs Remediation
+DS-003,City Wards,77.8,96,Not Documented,Partial,Low,Internal,68.2,Needs Remediation
+DS-004,Toronto Centreline,83.4,50,Partially Documented,Complete,Medium,Public,63.7,Needs Remediation
+DS-005,Solid Waste Management Districts,75.4,52,Partially Documented,Missing,Medium,Confidential,46.4,Not Ready
+DS-006,Solid Waste In-Park Assets,80.0,47,Not Documented,Complete,High,Public,39.8,Not Ready
+DS-007,Litter Bin Collection Frequency,78.4,85,Partially Documented,Partial,Medium,Internal,62.7,Needs Remediation
+DS-008,311 Service Requests,82.8,79,Not Documented,Complete,High,Confidential,48.7,Restricted
+DS-009,Road Restrictions,78.6,98,Not Documented,Partial,Low,Public,69.0,Needs Remediation
+DS-010,Building Permits,69.2,65,Not Documented,Missing,Low,Public,50.5,Needs Remediation
+DS-011,Traffic Movement Counts,71.6,92,Documented,Complete,High,Internal,63.1,Needs Remediation
+DS-012,Cycling Network,84.2,53,Partially Documented,Complete,High,Internal,49.7,Not Ready
